@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kloktat dehet</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>DOMOV DOMOV</text>
+      </navLabel>
+      <content src="Text/kloktat_dehet_005.xhtml#_idParaDest-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>1. Říkaly mi Ilja</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_006.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>2. Dřív</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_007.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>3. Sestry. Tartas. Venku je ticho. To on sám!</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_008.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>4. Zase sklep. Moje hlídka. Přijdou</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_009.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>5. Slibuju! Práce začala. V zimě se nezdrhá</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_010.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>6. O Fedotkinovi. Hanka. Čištění. Novej kluk</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_011.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>7. Mariáni. Nový věci. Kudla, sůl a sirky. Velitelem čety!</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_012.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>8. Práce. Još. Dílenská práce</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_013.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>9. A Fedotkinův chlapec? Likvidace. Šklíba</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_014.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>10. Na kamenech a ve vsi</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_015.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>11. Přátelení. Ségry jsou ségry. Zabíjení</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_016.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>12. V palbě</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_017.xhtml#_idParaDest-13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>TANKOVÉ VOJSKO</text>
+      </navLabel>
+      <content src="Text/kloktat_dehet_018.xhtml#_idParaDest-14"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>13. A začalo to! Pytle a násilí. Sladkost světa. Dago</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_019.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>14. Zdrháme! Zvířata. Luka. První kurhan</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_020.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>15. Něznáju! Úkol Veselé písničky. Starost kapitána Jegorova. Mořská</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_021.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>16. Fantastická bitva. Útok démonů. Vejce. Třetí válka a poslední televize</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_022.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>17. Kdo hořel. Hrdina v hoře. České moře. Co je za zatáčkou</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_023.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>18. Železa. Pán Siřemi. O putovníkovi. Margašův sen. Jsem to já, nejsem to já</text>
+        </navLabel>
+        <content src="Text/kloktat_dehet_024.xhtml#_idParaDest-20"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

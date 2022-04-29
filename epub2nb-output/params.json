@@ -1,0 +1,538 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Kloktat dehet",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jáchym Topol",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-14T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "kloktat_dehet_001.md",
+            "xhtml": "kloktat_dehet_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_002.md",
+            "xhtml": "kloktat_dehet_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_003.md",
+            "xhtml": "kloktat_dehet_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_004.md",
+            "xhtml": "kloktat_dehet_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_005.md",
+            "xhtml": "kloktat_dehet_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_006.md",
+            "xhtml": "kloktat_dehet_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_007.md",
+            "xhtml": "kloktat_dehet_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_008.md",
+            "xhtml": "kloktat_dehet_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_009.md",
+            "xhtml": "kloktat_dehet_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_010.md",
+            "xhtml": "kloktat_dehet_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_011.md",
+            "xhtml": "kloktat_dehet_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_012.md",
+            "xhtml": "kloktat_dehet_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_013.md",
+            "xhtml": "kloktat_dehet_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_014.md",
+            "xhtml": "kloktat_dehet_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_015.md",
+            "xhtml": "kloktat_dehet_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_016.md",
+            "xhtml": "kloktat_dehet_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_017.md",
+            "xhtml": "kloktat_dehet_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_018.md",
+            "xhtml": "kloktat_dehet_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_019.md",
+            "xhtml": "kloktat_dehet_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_020.md",
+            "xhtml": "kloktat_dehet_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_021.md",
+            "xhtml": "kloktat_dehet_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_022.md",
+            "xhtml": "kloktat_dehet_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_023.md",
+            "xhtml": "kloktat_dehet_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_024.md",
+            "xhtml": "kloktat_dehet_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kloktat_dehet_025.md",
+            "xhtml": "kloktat_dehet_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Kloktat dehet",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jáchym Topol",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-14T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_001.md",
+        "xhtml": "kloktat_dehet_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_002.md",
+        "xhtml": "kloktat_dehet_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_003.md",
+        "xhtml": "kloktat_dehet_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_004.md",
+        "xhtml": "kloktat_dehet_004.xhtml"
+      },
+      {
+        "titleSuggest": "DOMOV DOMOV",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_005.md",
+        "xhtml": "kloktat_dehet_005.xhtml"
+      },
+      {
+        "titleSuggest": "1. Říkaly mi Ilja",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_006.md",
+        "xhtml": "kloktat_dehet_006.xhtml"
+      },
+      {
+        "titleSuggest": "2. Dřív",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_007.md",
+        "xhtml": "kloktat_dehet_007.xhtml"
+      },
+      {
+        "titleSuggest": "3. Sestry. Tartas. Venku je ticho. To on sám!",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_008.md",
+        "xhtml": "kloktat_dehet_008.xhtml"
+      },
+      {
+        "titleSuggest": "4. Zase sklep. Moje hlídka. Přijdou",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_009.md",
+        "xhtml": "kloktat_dehet_009.xhtml"
+      },
+      {
+        "titleSuggest": "5. Slibuju! Práce začala. V zimě se nezdrhá",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_010.md",
+        "xhtml": "kloktat_dehet_010.xhtml"
+      },
+      {
+        "titleSuggest": "6. O Fedotkinovi. Hanka. Čištění. Novej kluk",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_011.md",
+        "xhtml": "kloktat_dehet_011.xhtml"
+      },
+      {
+        "titleSuggest": "7. Mariáni. Nový věci. Kudla, sůl a sirky. Velitelem čety!",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_012.md",
+        "xhtml": "kloktat_dehet_012.xhtml"
+      },
+      {
+        "titleSuggest": "8. Práce. Još. Dílenská práce",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_013.md",
+        "xhtml": "kloktat_dehet_013.xhtml"
+      },
+      {
+        "titleSuggest": "9. A Fedotkinův chlapec? Likvidace. Šklíba",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_014.md",
+        "xhtml": "kloktat_dehet_014.xhtml"
+      },
+      {
+        "titleSuggest": "10. Na kamenech a ve vsi",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_015.md",
+        "xhtml": "kloktat_dehet_015.xhtml"
+      },
+      {
+        "titleSuggest": "11. Přátelení. Ségry jsou ségry. Zabíjení",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_016.md",
+        "xhtml": "kloktat_dehet_016.xhtml"
+      },
+      {
+        "titleSuggest": "12. V palbě",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_017.md",
+        "xhtml": "kloktat_dehet_017.xhtml"
+      },
+      {
+        "titleSuggest": "TANKOVÉ VOJSKO",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_018.md",
+        "xhtml": "kloktat_dehet_018.xhtml"
+      },
+      {
+        "titleSuggest": "13. A začalo to! Pytle a násilí. Sladkost světa. Dago",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_019.md",
+        "xhtml": "kloktat_dehet_019.xhtml"
+      },
+      {
+        "titleSuggest": "14. Zdrháme! Zvířata. Luka. První kurhan",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_020.md",
+        "xhtml": "kloktat_dehet_020.xhtml"
+      },
+      {
+        "titleSuggest": "15. Něznáju! Úkol Veselé písničky. Starost kapitána Jegorova. Mořská",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_021.md",
+        "xhtml": "kloktat_dehet_021.xhtml"
+      },
+      {
+        "titleSuggest": "16. Fantastická bitva. Útok démonů. Vejce. Třetí válka a poslední televize",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_022.md",
+        "xhtml": "kloktat_dehet_022.xhtml"
+      },
+      {
+        "titleSuggest": "17. Kdo hořel. Hrdina v hoře. České moře. Co je za zatáčkou",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_023.md",
+        "xhtml": "kloktat_dehet_023.xhtml"
+      },
+      {
+        "titleSuggest": "18. Železa. Pán Siřemi. O putovníkovi. Margašův sen. Jsem to já, nejsem to já",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_024.md",
+        "xhtml": "kloktat_dehet_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kloktat_dehet_025.md",
+        "xhtml": "kloktat_dehet_025.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_kloktat_dehet.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven1_cast",
+      "MLP_uroven2_kapitola",
+      "MLP_verse_-12-12-",
+      "ParaOverride-1",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "topol-kloktat-dehet"
+    },
+    "generatedAt": 1651218791235
+  }
+}
