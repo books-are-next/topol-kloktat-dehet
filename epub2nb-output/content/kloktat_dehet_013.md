@@ -1,7 +1,9 @@
 ---
-title: 8. Práce. Još. Dílenská práce
+title: ''
 contentType: prose
 ---
+
+## 8\. Práce. Još. Dílenská práce
 
   
 
