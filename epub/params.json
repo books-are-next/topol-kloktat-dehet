@@ -8,12 +8,14 @@
       "author": "Jáchym Topol",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-03-14T00:00:00.000Z",
-      "publisherShort": "MKP"
+      "publisherShort": "MKP",
+      "yearPublished": "2005",
+      "isbn": "80-7215-255-6"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis\nMLP_uroven2_kapitola",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -93,6 +95,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "DOMOV DOMOV",
             "children": [
               {
                 "filename": "kloktat_dehet_006.md",
@@ -104,8 +107,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "1. Říkaly mi Ilja"
+                "title": "1. Říkaly mi Ilja",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_007.md",
@@ -117,8 +120,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "2. Dřív"
+                "title": "2. Dřív",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_008.md",
@@ -130,8 +133,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "3. Sestry. Tartas. Venku je ticho. To on sám!"
+                "title": "3. Sestry. Tartas. Venku je ticho. To on sám!",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_009.md",
@@ -143,8 +146,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "4. Zase sklep. Moje hlídka. Přijdou"
+                "title": "4. Zase sklep. Moje hlídka. Přijdou",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_010.md",
@@ -156,8 +159,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "5. Slibuju! Práce začala. V zimě se nezdrhá"
+                "title": "5. Slibuju! Práce začala. V zimě se nezdrhá",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_011.md",
@@ -169,8 +172,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "6. O Fedotkinovi. Hanka. Čištění. Novej kluk"
+                "title": "6. O Fedotkinovi. Hanka. Čištění. Novej kluk",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_012.md",
@@ -182,8 +185,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "7. Mariáni. Nový věci. Kudla, sůl a sirky. Velitelem čety!"
+                "title": "7. Mariáni. Nový věci. Kudla, sůl a sirky. Velitelem čety!",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_013.md",
@@ -195,8 +198,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "8. Práce. Još. Dílenská práce"
+                "title": "8. Práce. Još. Dílenská práce",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_014.md",
@@ -208,8 +211,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "9. A Fedotkinův chlapec? Likvidace. Šklíba"
+                "title": "9. A Fedotkinův chlapec? Likvidace. Šklíba",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_015.md",
@@ -221,8 +224,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "10. Na kamenech a ve vsi"
+                "title": "10. Na kamenech a ve vsi",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_016.md",
@@ -234,8 +237,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "11. Přátelení. Ségry jsou ségry. Zabíjení"
+                "title": "11. Přátelení. Ségry jsou ségry. Zabíjení",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_017.md",
@@ -247,11 +250,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "12. V palbě"
+                "title": "12. V palbě",
+                "children": []
               }
-            ],
-            "title": "DOMOV DOMOV"
+            ]
           },
           {
             "filename": "kloktat_dehet_018.md",
@@ -263,6 +265,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "TANKOVÉ VOJSKO",
             "children": [
               {
                 "filename": "kloktat_dehet_019.md",
@@ -274,8 +277,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "13. A začalo to! Pytle a násilí. Sladkost světa. Dago"
+                "title": "13. A začalo to! Pytle a násilí. Sladkost světa. Dago",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_020.md",
@@ -287,8 +290,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "14. Zdrháme! Zvířata. Luka. První kurhan"
+                "title": "14. Zdrháme! Zvířata. Luka. První kurhan",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_021.md",
@@ -300,8 +303,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "15. Něznáju! Úkol Veselé písničky. Starost kapitána Jegorova. Mořská"
+                "title": "15. Něznáju! Úkol Veselé písničky. Starost kapitána Jegorova. Mořská",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_022.md",
@@ -313,8 +316,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "16. Fantastická bitva. Útok démonů. Vejce. Třetí válka a poslední televize"
+                "title": "16. Fantastická bitva. Útok démonů. Vejce. Třetí válka a poslední televize",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_023.md",
@@ -326,8 +329,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "17. Kdo hořel. Hrdina v hoře. České moře. Co je za zatáčkou"
+                "title": "17. Kdo hořel. Hrdina v hoře. České moře. Co je za zatáčkou",
+                "children": []
               },
               {
                 "filename": "kloktat_dehet_024.md",
@@ -339,11 +342,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "18. Železa. Pán Siřemi. O putovníkovi. Margašův sen. Jsem to já, nejsem to já"
+                "title": "18. Železa. Pán Siřemi. O putovníkovi. Margašův sen. Jsem to já, nejsem to já",
+                "children": []
               }
-            ],
-            "title": "TANKOVÉ VOJSKO"
+            ]
           },
           {
             "filename": "kloktat_dehet_025.md",
@@ -585,6 +587,6 @@
       "user": "books-are-next",
       "repo": "topol-kloktat-dehet"
     },
-    "generatedAt": 1651218791235
+    "generatedAt": 1651219513897
   }
 }
