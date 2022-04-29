@@ -12,6 +12,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-03-14T00:00:00.000Z'
   publisherShort: MKP
+  yearPublished: '2005'
+  isbn: 80-7215-255-6
 readingOrder:
   - kloktat_dehet_002.html
   - kloktat_dehet_005.html
