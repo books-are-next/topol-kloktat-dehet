@@ -13,10 +13,10 @@
       "isbn": "80-7215-255-6"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\n",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP_uroven2_kapitola",
       "subtitle": "",
       "h2": "",
-      "h3": "MLP_uroven2_kapitola",
+      "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
@@ -587,6 +587,6 @@
       "user": "books-are-next",
       "repo": "topol-kloktat-dehet"
     },
-    "generatedAt": 1651307981888
+    "generatedAt": 1651402230173
   }
 }
