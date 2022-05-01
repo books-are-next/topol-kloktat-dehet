@@ -1,7 +1,11 @@
 ---
-title: "16. Fantastická bitva. Útok démonů. Vejce. Třetí válka a\_poslední televize"
+title: ''
 contentType: prose
 ---
+
+## 16\. Fantastická bitva.  
+Útok démonů. Vejce.  
+Třetí válka a poslední televize
 
   
 

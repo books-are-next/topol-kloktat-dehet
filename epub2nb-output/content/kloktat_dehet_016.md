@@ -1,7 +1,10 @@
 ---
-title: 11. Přátelení. Ségry jsou ségry. Zabíjení
+title: ''
 contentType: prose
 ---
+
+## 11\. Přátelení.  
+Ségry jsou ségry. Zabíjení
 
   
 

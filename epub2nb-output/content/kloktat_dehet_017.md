@@ -1,7 +1,9 @@
 ---
-title: "12. V\_palbě"
+title: ''
 contentType: prose
 ---
+
+## 12\. V palbě
 
   
 
