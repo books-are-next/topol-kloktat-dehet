@@ -1,10 +1,7 @@
 ---
-title: ''
+title: "9. A\_Fedotkinův chlapec? Likvidace. Šklíba"
 contentType: prose
 ---
-
-## 9\. A Fedotkinův chlapec?  
-Likvidace. Šklíba
 
   
 

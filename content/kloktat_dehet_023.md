@@ -1,10 +1,7 @@
 ---
-title: ''
+title: "17. Kdo hořel. Hrdina v\_hoře. České moře. Co je za zatáčkou"
 contentType: prose
 ---
-
-## 17\. Kdo hořel. Hrdina v hoře.  
-České moře. Co je za zatáčkou
 
   
 
