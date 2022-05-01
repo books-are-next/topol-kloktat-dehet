@@ -1,10 +1,7 @@
 ---
-title: ''
+title: 3. Sestry. Tartas. Venku je ticho. To on sám!
 contentType: prose
 ---
-
-## 3\. Sestry. Tartas. Venku je ticho.  
-To on sám!
 
   
 
