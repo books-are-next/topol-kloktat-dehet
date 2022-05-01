@@ -1,9 +1,7 @@
 ---
-title: ''
+title: 2. Dřív
 contentType: prose
 ---
-
-### 2\. Dřív
 
   
 

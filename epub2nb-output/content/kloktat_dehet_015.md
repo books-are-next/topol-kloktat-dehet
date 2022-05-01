@@ -1,9 +1,7 @@
 ---
-title: ''
+title: "10. Na kamenech a\_ve vsi"
 contentType: prose
 ---
-
-### 10\. Na kamenech a ve vsi
 
   
 

@@ -1,10 +1,7 @@
 ---
-title: ''
+title: "6. O\_Fedotkinovi. Hanka. Čištění. Novej kluk"
 contentType: prose
 ---
-
-### 6\. O Fedotkinovi. Hanka.  
-Čištění. Novej kluk
 
   
 

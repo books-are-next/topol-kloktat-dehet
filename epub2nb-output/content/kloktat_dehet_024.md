@@ -1,11 +1,7 @@
 ---
-title: ''
+title: "18. Železa. Pán Siřemi. O\_putovníkovi. Margašův sen. Jsem to já, nejsem to já"
 contentType: prose
 ---
-
-### 18\. Železa. Pán Siřemi.  
-O putovníkovi. Margašův sen.  
-Jsem to já, nejsem to já
 
   
 

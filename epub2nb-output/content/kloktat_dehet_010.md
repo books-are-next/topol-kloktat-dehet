@@ -1,10 +1,7 @@
 ---
-title: ''
+title: "5. Slibuju! Práce začala. V\_zimě se nezdrhá"
 contentType: prose
 ---
-
-### 5\. Slibuju! Práce začala.  
-V zimě se nezdrhá
 
   
 

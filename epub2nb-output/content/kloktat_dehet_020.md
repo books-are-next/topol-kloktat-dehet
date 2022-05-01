@@ -1,10 +1,7 @@
 ---
-title: ''
+title: 14. Zdrháme! Zvířata. Luka. První kurhan
 contentType: prose
 ---
-
-### 14\. Zdrháme! Zvířata. Luka.  
-První kurhan
 
   
 
