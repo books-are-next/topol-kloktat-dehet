@@ -1,10 +1,7 @@
 ---
-title: ''
+title: 13. A začalo to! Pytle a násilí. Sladkost světa. Dago
 contentType: prose
 ---
-
-## 13\. A začalo to! Pytle a násilí.  
-Sladkost světa. Dago
 
   
 
