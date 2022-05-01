@@ -1,9 +1,7 @@
 ---
-title: ''
+title: 1. Říkaly mi Ilja
 contentType: prose
 ---
-
-## 1\. Říkaly mi Ilja
 
   
 
