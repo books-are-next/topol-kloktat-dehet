@@ -1,7 +1,10 @@
 ---
-title: "7. Mariáni. Nový věci. Kudla, sůl a\_sirky. Velitelem čety!"
+title: ''
 contentType: prose
 ---
+
+### 7\. Mariáni. Nový věci.  
+Kudla, sůl a sirky. Velitelem čety!
 
   
 
