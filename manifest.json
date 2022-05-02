@@ -1,7 +1,7 @@
 {
   "author": "Jáchym Topol",
   "contenttype": "prose",
-  "identifier": "topol-kloktat-dehet-4cf01cf",
+  "identifier": "topol-kloktat-dehet-5dce62d",
   "isbn": "80-7215-255-6",
   "languagecode": "cs",
   "modified": "2022-03-14T00:00:00.000Z",
@@ -9,10 +9,10 @@
   "publishershort": "MKP",
   "title": "Kloktat dehet",
   "yearpublished": "2005",
-  "revision": "4cf01cf",
+  "revision": "5dce62d",
   "generatedAt": {
-    "date": "Mon May 02 2022 00:10:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651450209752
+    "date": "Mon May 02 2022 00:15:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651450524887
   },
   "documents": [
     {
