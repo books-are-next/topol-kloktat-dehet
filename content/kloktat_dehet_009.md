@@ -1,9 +1,7 @@
 ---
-title: ''
+title: 4. Zase sklep. Moje hlídka. Přijdou
 contentType: prose
 ---
-
-### 4\. Zase sklep. Moje hlídka. Přijdou
 
   
 
