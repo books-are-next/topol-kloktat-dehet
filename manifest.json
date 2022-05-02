@@ -1,7 +1,7 @@
 {
   "author": "Jáchym Topol",
   "contenttype": "prose",
-  "identifier": "topol-kloktat-dehet-ee6238c",
+  "identifier": "topol-kloktat-dehet-4cf01cf",
   "isbn": "80-7215-255-6",
   "languagecode": "cs",
   "modified": "2022-03-14T00:00:00.000Z",
@@ -9,10 +9,10 @@
   "publishershort": "MKP",
   "title": "Kloktat dehet",
   "yearpublished": "2005",
-  "revision": "ee6238c",
+  "revision": "4cf01cf",
   "generatedAt": {
-    "date": "Mon May 02 2022 00:04:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651449876357
+    "date": "Mon May 02 2022 00:10:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651450209752
   },
   "documents": [
     {
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "1. Říkaly mi Ilja • Kloktat dehet",
       "file": "kloktat_dehet_006.html",
-      "words": 5267,
-      "chars": 30478,
+      "words": 5266,
+      "chars": 30475,
       "ideas": 127,
       "role": "chapter",
       "order": 2,
@@ -69,17 +69,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Říkaly mi Ilja",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "2. Dřív • Kloktat dehet",
       "file": "kloktat_dehet_007.html",
-      "words": 1833,
-      "chars": 10705,
+      "words": 1832,
+      "chars": 10702,
       "ideas": 46,
       "role": "chapter",
       "order": 3,
@@ -89,18 +89,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dřív",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "3. Sestry. Tartas. Venku je ticho. To on sám! • Kloktat dehet",
       "file": "kloktat_dehet_008.html",
-      "words": 3276,
-      "chars": 18097,
-      "ideas": 92,
+      "words": 3275,
+      "chars": 18095,
+      "ideas": 91,
       "role": "chapter",
       "order": 4,
       "prev": "kloktat_dehet_007.html",
@@ -109,17 +109,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Sestry. Tartas. Venku je ticho. To on sám!",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "4. Zase sklep. Moje hlídka. Přijdou • Kloktat dehet",
       "file": "kloktat_dehet_009.html",
-      "words": 3350,
-      "chars": 18372,
+      "words": 3349,
+      "chars": 18369,
       "ideas": 124,
       "role": "chapter",
       "order": 5,
@@ -129,18 +129,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zase sklep. Moje hlídka. Přijdou",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "5. Slibuju! Práce začala. V zimě se nezdrhá • Kloktat dehet",
       "file": "kloktat_dehet_010.html",
-      "words": 2281,
-      "chars": 13158,
-      "ideas": 62,
+      "words": 2280,
+      "chars": 13156,
+      "ideas": 61,
       "role": "chapter",
       "order": 6,
       "prev": "kloktat_dehet_009.html",
@@ -149,18 +149,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Slibuju! Práce začala. V zimě se nezdrhá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "6. O Fedotkinovi. Hanka. Čištění. Novej kluk • Kloktat dehet",
       "file": "kloktat_dehet_011.html",
-      "words": 2848,
-      "chars": 16068,
-      "ideas": 98,
+      "words": 2847,
+      "chars": 16066,
+      "ideas": 97,
       "role": "chapter",
       "order": 7,
       "prev": "kloktat_dehet_010.html",
@@ -169,18 +169,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "O Fedotkinovi. Hanka. Čištění. Novej kluk",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "7. Mariáni. Nový věci. Kudla, sůl a sirky. Velitelem čety! • Kloktat dehet",
       "file": "kloktat_dehet_012.html",
-      "words": 3252,
-      "chars": 18610,
-      "ideas": 74,
+      "words": 3251,
+      "chars": 18608,
+      "ideas": 73,
       "role": "chapter",
       "order": 8,
       "prev": "kloktat_dehet_011.html",
@@ -189,17 +189,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Mariáni. Nový věci. Kudla, sůl a sirky. Velitelem čety!",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "8. Práce. Još. Dílenská práce • Kloktat dehet",
       "file": "kloktat_dehet_013.html",
-      "words": 2216,
-      "chars": 12936,
+      "words": 2215,
+      "chars": 12933,
       "ideas": 55,
       "role": "chapter",
       "order": 9,
@@ -209,18 +209,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Práce. Još. Dílenská práce",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "9. A Fedotkinův chlapec? Likvidace. Šklíba • Kloktat dehet",
       "file": "kloktat_dehet_014.html",
-      "words": 3029,
-      "chars": 16996,
-      "ideas": 88,
+      "words": 3028,
+      "chars": 16994,
+      "ideas": 87,
       "role": "chapter",
       "order": 10,
       "prev": "kloktat_dehet_013.html",
@@ -229,17 +229,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "A Fedotkinův chlapec? Likvidace. Šklíba",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "10. Na kamenech a ve vsi • Kloktat dehet",
       "file": "kloktat_dehet_015.html",
-      "words": 2775,
-      "chars": 15502,
+      "words": 2774,
+      "chars": 15498,
       "ideas": 57,
       "role": "chapter",
       "order": 11,
@@ -249,18 +249,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Na kamenech a ve vsi",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "11. Přátelení. Ségry jsou ségry. Zabíjení • Kloktat dehet",
       "file": "kloktat_dehet_016.html",
-      "words": 3191,
-      "chars": 17361,
-      "ideas": 111,
+      "words": 3190,
+      "chars": 17358,
+      "ideas": 110,
       "role": "chapter",
       "order": 12,
       "prev": "kloktat_dehet_015.html",
@@ -269,17 +269,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Přátelení. Ségry jsou ségry. Zabíjení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "12. V palbě • Kloktat dehet",
       "file": "kloktat_dehet_017.html",
-      "words": 1501,
-      "chars": 8136,
+      "words": 1500,
+      "chars": 8132,
       "ideas": 30,
       "role": "chapter",
       "order": 13,
@@ -289,7 +289,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "V palbě",
           "id": null,
           "children": []
         }
@@ -316,11 +316,11 @@
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "13. A začalo to! Pytle a násilí. Sladkost světa. Dago • Kloktat dehet",
       "file": "kloktat_dehet_019.html",
-      "words": 4231,
-      "chars": 25827,
-      "ideas": 119,
+      "words": 4230,
+      "chars": 25824,
+      "ideas": 118,
       "role": "chapter",
       "order": 15,
       "prev": "kloktat_dehet_018.html",
@@ -329,18 +329,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "A začalo to! Pytle a násilí. Sladkost světa. Dago",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "14. Zdrháme! Zvířata. Luka. První kurhan • Kloktat dehet",
       "file": "kloktat_dehet_020.html",
-      "words": 3858,
-      "chars": 23638,
-      "ideas": 96,
+      "words": 3857,
+      "chars": 23635,
+      "ideas": 95,
       "role": "chapter",
       "order": 16,
       "prev": "kloktat_dehet_019.html",
@@ -349,18 +349,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zdrháme! Zvířata. Luka. První kurhan",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "15. Něznáju! Úkol Veselé písničky. Starost kapitána Jegorova. Mořská • Kloktat dehet",
       "file": "kloktat_dehet_021.html",
-      "words": 3285,
-      "chars": 19916,
-      "ideas": 93,
+      "words": 3284,
+      "chars": 19913,
+      "ideas": 92,
       "role": "chapter",
       "order": 17,
       "prev": "kloktat_dehet_020.html",
@@ -369,18 +369,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Něznáju! Úkol Veselé písničky. Starost kapitána Jegorova. Mořská",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "16. Fantastická bitva. Útok démonů. Vejce. Třetí válka a poslední televize • Kloktat dehet",
       "file": "kloktat_dehet_022.html",
-      "words": 5164,
-      "chars": 31095,
-      "ideas": 113,
+      "words": 5163,
+      "chars": 31093,
+      "ideas": 111,
       "role": "chapter",
       "order": 18,
       "prev": "kloktat_dehet_021.html",
@@ -389,18 +389,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Fantastická bitva. Útok démonů. Vejce. Třetí válka a poslední televize",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "17. Kdo hořel. Hrdina v hoře. České moře. Co je za zatáčkou • Kloktat dehet",
       "file": "kloktat_dehet_023.html",
-      "words": 8798,
-      "chars": 50562,
-      "ideas": 268,
+      "words": 8797,
+      "chars": 50559,
+      "ideas": 267,
       "role": "chapter",
       "order": 19,
       "prev": "kloktat_dehet_022.html",
@@ -409,18 +409,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kdo hořel. Hrdina v hoře. České moře. Co je za zatáčkou",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kloktat dehet",
+      "title": "18. Železa. Pán Siřemi. O putovníkovi. Margašův sen. Jsem to já, nejsem to já • Kloktat dehet",
       "file": "kloktat_dehet_024.html",
-      "words": 9274,
-      "chars": 53467,
-      "ideas": 189,
+      "words": 9273,
+      "chars": 53465,
+      "ideas": 187,
       "role": "chapter",
       "order": 20,
       "prev": "kloktat_dehet_023.html",
@@ -429,7 +429,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Železa. Pán Siřemi. O putovníkovi. Margašův sen. Jsem to já, nejsem to já",
           "id": null,
           "children": []
         }
@@ -458,14 +458,14 @@
   ],
   "totals": {
     "all": {
-      "words": 69587,
-      "chars": 401953,
-      "ideas": 1870
+      "words": 69569,
+      "chars": 401904,
+      "ideas": 1856
     },
     "chapters": {
-      "words": 69433,
-      "chars": 400949,
-      "ideas": 1844
+      "words": 69415,
+      "chars": 400900,
+      "ideas": 1830
     }
   }
 }
