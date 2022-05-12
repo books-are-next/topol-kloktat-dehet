@@ -1,23 +1,46 @@
 {
-  "author": "Jáchym Topol",
-  "contenttype": "prose",
-  "identifier": "topol-kloktat-dehet-2c03fa2",
-  "isbn": "80-7215-255-6",
-  "languagecode": "cs",
-  "modified": "2022-03-14T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "MKP",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Kloktat dehet",
-  "yearpublished": "2005",
-  "revision": "2c03fa2",
+  "author": "Jáchym Topol",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "topol-kloktat-dehet-1fc51e7",
+  "revision": "1fc51e7",
+  "readingOrder": [
+    "promo.html",
+    "kloktat_dehet_005.html",
+    "kloktat_dehet_006.html",
+    "kloktat_dehet_007.html",
+    "kloktat_dehet_008.html",
+    "kloktat_dehet_009.html",
+    "kloktat_dehet_010.html",
+    "kloktat_dehet_011.html",
+    "kloktat_dehet_012.html",
+    "kloktat_dehet_013.html",
+    "kloktat_dehet_014.html",
+    "kloktat_dehet_015.html",
+    "kloktat_dehet_016.html",
+    "kloktat_dehet_017.html",
+    "kloktat_dehet_018.html",
+    "kloktat_dehet_019.html",
+    "kloktat_dehet_020.html",
+    "kloktat_dehet_021.html",
+    "kloktat_dehet_022.html",
+    "kloktat_dehet_023.html",
+    "kloktat_dehet_024.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon May 02 2022 00:29:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651451380043
+    "date": "Thu May 12 2022 10:44:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352247575
   },
   "documents": [
     {
-      "title": "Kloktat dehet",
-      "file": "kloktat_dehet_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -25,25 +48,17 @@
       "order": 0,
       "prev": null,
       "next": "kloktat_dehet_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "DOMOV DOMOV • Kloktat dehet",
+      "title": "DOMOV DOMOV",
       "file": "kloktat_dehet_005.html",
       "words": 2,
       "chars": 11,
       "ideas": 1,
       "role": "chapter",
       "order": 1,
-      "prev": "kloktat_dehet_002.html",
+      "prev": "promo.html",
       "next": "kloktat_dehet_006.html",
       "toc": [
         {
@@ -296,7 +311,7 @@
       ]
     },
     {
-      "title": "TANKOVÉ VOJSKO • Kloktat dehet",
+      "title": "TANKOVÉ VOJSKO",
       "file": "kloktat_dehet_018.html",
       "words": 2,
       "chars": 14,
@@ -436,11 +451,11 @@
       ]
     },
     {
-      "title": "Tiráž • Kloktat dehet",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 149,
-      "chars": 976,
-      "ideas": 23,
+      "words": 131,
+      "chars": 841,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "kloktat_dehet_024.html",
@@ -458,9 +473,9 @@
   ],
   "totals": {
     "all": {
-      "words": 69587,
-      "chars": 401953,
-      "ideas": 1870
+      "words": 69569,
+      "chars": 401818,
+      "ideas": 1865
     },
     "chapters": {
       "words": 69433,

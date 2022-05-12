@@ -15,7 +15,7 @@ meta:
   yearPublished: '2005'
   isbn: 80-7215-255-6
 readingOrder:
-  - kloktat_dehet_002.html
+  - promo.html
   - kloktat_dehet_005.html
   - kloktat_dehet_006.html
   - kloktat_dehet_007.html
