@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 12\. V palbě
 
 Psanci venku nebyli. Bylo mi to jedno. Měl jsem v hlavě obrazy, jak zabíjíme Vyžlatu. Všechno se stalo tak rychle, že mi obrazy začaly naskakovat až teď. Když jsem se zastavil, zasek se v hlavě i obraz. Chodil jsem rychle, abych obrazy viděl všechny co nejdřív, aby se přestaly ukazovat.
@@ -62,3 +64,5 @@ Pan Moravčík jde ke mně a má rozpřažené ruce a pan Kropáček taky teď
 Vzduch zas syčí, slyším: Vraouííí, oheň bleskne nade mnou a tam, kde stáli lidi ze stavení, je ve tmě sloup bílého dýmu, pohnu se k mostku, s rozpřaženýma, zvednutýma rukama jdu k obludám, jdu v palbě, zády k lidem, co mě chytaj, a od mostku to zas udělá: Vraouííí, vzduch zasyčí a jeden z tanků projede hořícím stavením, tank s lomozem a skřípěním zastaví přímo přede mnou, na tanku se tyčí obrovitá postava muže v uniformě a taky proti mně zdvihne ruce, a já se smyknu přes pásy jak lasička a už jsem na tanku u svého tatínka, dupem proti sobě po pancíři tanku a smějem se radostí ve tmě a kouři a dunění výstřelů, radujem se a hned se obejmem! Vždyť jinak bych spadnul!
 
 Tatínek mě přitiskne k sobě, zabořím mu obličej do břicha a žasnu údivem, že jsem svého tatínka našel přesně tak, jak nám to vykládal velitel Vyžlata. Kolem šlehají výstřely, pořád je slyšet křik, ale muj tatínek mě drží pevně a mně hlavou bleskne, že i kdyby tenhle chlápek mym fotrem nebyl, určitě je lepší stát na tanku než se jako rozstřílená mrtvola válet pod nim. To mi přijde jasný.
+
+</section>

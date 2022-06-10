@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 7\. Mariáni. Nový věci.  
 Kudla, sůl a sirky. Velitelem čety!
 
@@ -12,7 +14,9 @@ Kuchyň byla plná ubulenejch dlouhokošiláků, který se dožadovali chleba a�
 
 Kluci, který jsem určil, skočili za pultík s chlebem a taky k velkýmu kotli čaje, kde byla naběračka, a mrňousové se strkali, ale když jsem zařval, tak udělali řady, a chleba nebyl namazanej a ten čaj byl studenej, ale to nevadilo, já si už dávno všim, že když maj malí strach a je zmatek, je dobrý je seřvat. Oni se pak tolik nebojej, a ten co řve, se už taky tolik nebojí. Sedl jsem si na lavici.
 
-  
+</section>
+
+<section>
 
 Za chvíli se otevřely dveře a já se postavil do pozoru k hlášení, ale velitel Vyžlata si mě nevšímal a nikoho si nevšímal… rozkaz byl jít spát okamžitě. Velitel zmizel za Margašem, do velitelského stano­viště. Pracovní čety byly schlíplý a všichni byli zmrzlý zimou a vlekli se nahoru do druhýho patra bez řevů a tartasu. Akorát se pak vrátil Mikušinec a Karel a pomohli mi zahnat dlouhokošiláky do jejich ložnice a mrňousové blbli.
 
@@ -46,7 +50,9 @@ Odlez jsem do svý postele. Byl jsem hrdej, že znám tajemství Psanců. Co tak
 
 Umínil jsem si, že Margašovi řeknu, ať jde taky do cizinecký légie. Vopičáka vezmem s sebou a pohřbíme po cestě na krásným místě. Moc se mi líbilo, jak Margaš říkal, že mě viděl ve snu. Byl jsem strašně pyšnej a šťastnej, že jsem v něčích snech. Zase jsem nemoh usnout, ale usnul jsem.
 
-  
+</section>
+
+<section>
 
 Ráno jsme se vzbudili jako každý den v novém životě domova Domova, ale byl to úplně jiný den, nejen kvůli večernímu ohni se střelbou kvůli Šklíbovi, ale také protože přijelo auto s velitelem Baudyšem a my nepracovali na čištění domova Domova.
 
@@ -66,7 +72,9 @@ Velitel Baudyš měl píšťalku na krku, byl celý v teplákové soupravě a 
 
 My nešli do légie, radovali jsme se ze vzduchovek a bavili se, kdy asi dostanem teplákové soupravy a chlebníky a kotlíky, a Mikušinec řekl: S kotlíkem se dá tábořit v lese! A Páta se zasmál a řekl: Bez ničeho se dá tábořit v lese! A Dýha zařval: Se svým pérem se dá tábořit v lese! a všichni se strašně smáli a Chata řekl: Kudla, sůl a sirky… A pak Bajza společně s Chatou zařvali: Kudla, sůl a sirky! A hned se k nám přimotal Silva a další malí bakeliti a začali na Chatu a Bajzu jako útočit a všichni volali: Kudla, sůl a sirky! Kudla, sůl a sirky! a já si všiml, že ty slova říkám rtama taky. A Karel povídá: Bude jaro a každej myslí na zdrhání… Stáli jsme ve sněhu, ale nebyl mráz a Karel říká: Kudla, sůl a sirky, to je cigošský heslo… já když poprvý zdrh, tak sem neměl ani kudlu, ani sůl a žádný sirky… a já se skoval na hřbitově, ale v noci tam někdo chodil, ty vole! Já měl strach… Pak sme se srazili, a tak sem se seznámil s Pátou, krad kytky a dával je babkám za jídlo, a pak sme ty kytky poznávali, babky je nosily zpátky. Čapli nás a poslali do Siřemi! A já se Karla zeptal: Je možný, že by měl kluk za tátu vlka? Když jsem viděl, jak na mě čumí, hned mě napadlo, že to ve dvacátym století možný není, a vtom zazněla píšťalka a velitel Baudyš volal: K fasování výstroje nástup!
 
-  
+</section>
+
+<section>
 
 Jednoho z prvních dní výcviku jsem vynášel uhlák a v chodbě proti mně šel Margaš a jako do mě vrazil a zašeptal: Udělej to brzo!
 
@@ -108,7 +116,9 @@ Prohlížel jsem si mapy kreslené na lejstra a někdy jsem oči zavřel a vid
 
 Procházeli jsme ulicema a brali z chalup jídlo a věci, jak se nám chtělo, a pak jsem už nic neviděl, spal jsem.
 
-  
+</section>
+
+<section>
 
 Při našich cvičeních jsme mnohokrát pochodovali, plížili se anebo utíkali přískoky na okrajích Kupeckého lesa a vnikali do něj.
 
@@ -157,3 +167,5 @@ Velitel Vyžlata zahájil hostinu tím, že vstal a řekl: Jen se bijte a otlo
 A pak dal velitel Vyžlata obličej do dlaní a skrz ty dlaně na nás mžoural, zda jeho příběh pozorně posloucháme… Slzy veliteli prokapávaly skrz prsty spojených dlaní, velitel se skloněnou hlavou stále hovořil o Fedotkinovi a synovi palká, mně i ostatním vrtalo hlavou, jak teda příběh Fedotkina a jeho synka skončí. Dozvíme se to? Ale měli jsme hlad a velitel Vyžlata vzlykal tak, že mezi štkaním nebylo možné slova příběhu rozeznat. Velitel Baudyš pleskl velitele Vyžlatu do zad a znovu řekl: No tak, stará vojno! A mě Bajza bacil pěstí a taky řekl: Ty stará vojno! a já Bajzu taky bacil, a pak velitel Vyžlata umlkl a vzal do ruky štětec, otočil se k našim četám, stojícím v pozoru, a črtal k portrétu vojína Fedotkina novou tvář, přes rameno na nás kouk a vykřikl: Zato že jste vzorní, namaluji teď památník přátelství a k vojínu Fedotkinovi domaluji jednoho z vás, českého chlapce! Pohov!
 
 Vrhli jsme se na jídlo. Velitel Vyžlata maloval chlapce až do konce oslav. Konec oslav byl brzo. Mně bylo v ložnici špatně, protože jsem snědl spoustu zavařeniny, kterou jsem sebral dlouhokošilákům. Myslel jsem na to, že jsem velitelem čety. Nemohl jsem usnout radostí. Ale pak jsem usnul a spal až do rána.
+
+</section>

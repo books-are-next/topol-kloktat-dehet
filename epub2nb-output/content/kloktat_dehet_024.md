@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 18\. Železa. Pán Siřemi.  
 O putovníkovi. Margašův sen.  
 Jsem to já, nejsem to já
@@ -29,7 +31,9 @@ Vyškrábal jsem se na břeh, klouzal jsem tmou. Chalupy, který jsem viděl ze 
 
 Nejdřív ze všeho jsem v Siřemi chtěl najít spojence, a tak jsem se pěšinama a oklikama vydal na hřbitov.
 
-  
+</section>
+
+<section>
 
 Pátu jsem našel snadno, protože sotva jsem strčil do velkejch rezavejch vrat a namířil si to rovnou k šlechtický hrobce, která tam v tom lesu křížů bílá čněla, tak na mě Pátej skočil a povalil mě mezi hroby, a pak jsme se kouleli po zemi a ani jeden už jsme ve vlasech a oblečení neměli pach domova Domova. Tak jsem chvíli trpěl hrůzou, jestli je to opravdu on a ne neznámej bojovník, pak jsme se v bezhlesým boji muže proti muže propadli zemí a já se třísk do hlavy, ale Páta mě ve světle hořících svic poznal a hned vykřik: Ilja! a to mě z toho náhlýho pádu do vnitřností hřbitova vzpamatovalo. Páta byl rád, že mě tam má.
 
@@ -119,7 +123,9 @@ Pak se ozve pan Cimbura.
 
 A já, stejně jako tehdy v dávným dětství uvelebenej v krabicích od dehtovýho mejdla, poslouchám Cimburovu pohádku v polospánku. Tehdy jsme neleželi ve hřbitovním sklepě a nad našima hlavama nejezdily a nelítaly stroje, který nás chtěj zničit. Vyprávění o dračím vejci slyším poprvý.
 
-  
+</section>
+
+<section>
 
 Tak a teď vám, hoši, povim, říká pan Cimbura, jak vůbec ta naše Siřem vznikla a kdo ji založil před stovkama a stovkama let, říkám vám to, aby to věděl tajhle náš siřemskej pán i jeho pasťáckej bráška velectěnej, vy dva jonáci Čechie, co ste zbyli, dyž z místních už asi všichni vodtáhli k čertu, takže tu staroslavnou legendu v sobě musíte uschovat vy dva, kluci… poslouchejte teda a nevrťte se! Venku bzučej kulky a vládne tam nelad, ale my sme tu v pohodlíčku zalezlí, tak já vám povim o putovníkovi… Kdysi dávno rozhodli mudrci a bojovný bojaři velikýho cara Východní říše, že nenechaj svět, dokud nebude celej jejich. Vyslali putovníka, aby našel zbraň, kterou si podmaněj svět… A putovník jede, až přinde k vohněma vočazenýmu rozcestníku, na kterým je nápis: Pozor, Čechy! Putovník je hrdinnej, tak pobodne koně… Po dlouhý cestě pustinou narazí na chalupu. V chalupě je chlap a ženská a maj syna, buclatý utěšený klouče.
 
@@ -207,7 +213,9 @@ Putovník si řekne: Sem to ještě já? Potom co sem zažil? Neví to.
 
 A na místě svého procitu slíbí, že postaví kostel.
 
-  
+</section>
+
+<section>
 
 Já měl radost, že už skončil! Páta asi taky. A pan Cimbura povídá: A ten slib sem splnil. Však sem se na tom kostelíku něco naplahočil. No, teďka je katolickej.
 
@@ -227,7 +235,9 @@ Pak sestra vstane a jde k panu Cimburovi.
 
 V celým válečným sklepě je obrovský ticho, protože nikdo nemluví. Páta je taky u pana Cimbury a klekne si k němu. Pan Cimbura leží a je tichej, a to ještě nikdy nebylo. Vstanu a hejbnu se do tmy, kde si pamatuju sklepní dvířka, projdu a vystoupám po sklepních schodech a chodbou kolem kuchyně a parádního pokoje a jsem venku.
 
-  
+</section>
+
+<section>
 
 Vyprávění pana Cimbury smáčklo čas. Jo, držel nás pohádkou ve sklepě jako ve smyčce. Jen tak se stalo, že jsem vyběh zas do noci. Byla to ta samá, jako když jsem se schovával v letadýlku? Nebo už další? Nevěděl jsem.
 
@@ -255,7 +265,9 @@ Jasně že mě napadne, že tankisti i automatčíci Veselý písničky si budu
 
 Šinu si to krokem vším tím strkáním a tlačenicí, vojáci horečnatě budujou a pod nohama se jim při tom plete různý zvířectvo, šinu si to ke dveřím domova Domova, překračuju a zakopávám o hadice, který plněj vědra páchnoucí vodou, a dojde mi, že barikádu polejvaj sklepní vodou… Rozsekali i bulharskou mořskou boudu a pomalovaný prkna naházeli na balíky papíru. Velbloudi se paktujou s dalšíma zvířatama, s mořským oslíkem, no jasně! Jsou tu taky velký tlustý srnky, který jsem teda po Blahoši klusat neviděl, tlustý srnky okolo sebe flušou a kopou nohama, automatčíci je zrovna vlečou na lanech za roh Domova a slyšim ostrou dávku z automatu a pak další, sotva ty živočichy zahlídnu, hnedka je popravěj, smůla… Nikdo si toho nevšímá a mě si taky nikdo nevšímá, jak to, přece jsem s nima dlouho nebyl? Pěkně na mě kašlou… a vtom slyším: Ilja! a zase: Ilja!, a je to hlas kapitána Jegorova, ten bych si s žádným jiným nesplet, hned z chůze ztuhnu do pozoru, pak se oblak prachu, co v mlze svítání vydupaly tlustý srnky, rozplyne a já přímo přede dveřma domova Domova vidim lidskej shluk, odtamtud mě volá muj kapitán! Vojáci jsou namačkaný kolem vlčí klece, která je dokořán, a ten vlk tam leží na boku, je obrovskej, leží, jako by dodělával. Nakročim, když mě muj velitel volá, a pak jako by mě předstihla představa uniklá z mý hlavy, vidím sám sebe v potrhaný tankistický blůze, běžím na zavolání svého kapitána ze dveří domova Domova, hrnu se ven a v ruce mám kuchyňskou kudlu, dlouhej porcovák ostřím k zemi… Ilja! volá zas kapitán Jegorov a já ho konečně vidím, dřepí na bobku u otevřený klece, Margaš s nožem běží z kuchyně k vlkovi, a než mi ostatní vojáci shromážděný kolem klece zacloněj výhled, vidím, že Margaš nadzvedává vlčí hlavu, vidím mátožnej jazyk vlka vyklouznout z tlamy a vidím, že Margaš vlka podřezává, všichni si ale myslej, že to dělám já… Snadno je obejdu, vklouznu do domova Domova, běžím podél hadice, co se plazí po schodech, běžím do sklepa, hned jsem tam.
 
-  
+</section>
+
+<section>
 
 Vysáli hadicema spoustu sklepní vody. Kroky se tu rozléhaj, jako by člověk nešel sám. Nepotřebuju světlo, abych se dostal k hrobový kóji. Mříž se válí na zemi. Vytáhli ho ven. Maličkej Vopičák leží pod strašným, umolousaným prostěradlem na plechu nad dírou. Je úplně zakrytej. Slyšim hučení. Je to ten vítr ze dna sklepa, kde jsou další sklepy. Hmátnu na prostěradlo a jsem rád, že tu není vidět.
 
@@ -263,7 +275,9 @@ Nemyslím na nic. V hlavě se mi přemílaj odpadky všeho, co jsem zažil. Jo,
 
 Párkrát jsem poklep prostěradlo, kde měl nohu, ramena, koleno. Byl jsem s ním. Nemohl mi odpustit a nikdo mi nemohl odpustit. Mohl jsem počkat, až skončí bitva, a pak se udat, aby mě popravili. Jenže oni by mě nejspíš odbouchli jen tak. To nemělo cenu. Vrátil jsem se k němu. Strážil jsem ho, svýho bratra, dával jsem bacha ve tmě. Byli jsme spolu. Byli jsme u sebe doma. Víc jsem udělat nemohl.
 
-  
+</section>
+
+<section>
 
 Pak práskaly další salvy. Šlo to ve vlnách. Asi pořád pálili do našich tanků v kruhový obraně. To v přestávce mezi salvama jsem ho slyšel. Přicházel. Ale naštval mě. Když už si všichni v koloně myslej, že Margaš je já, měl by se aspoň naučit chodit jako diverzant! Valil se sklepem, jako by mu to tam patřilo. Na krk mu dejchali velbloudí kluci. Některý měli baterky, viděli jsme na sebe.
 
@@ -309,7 +323,9 @@ Vyšli jsme ze tmy sklepa do dne, stojíme před domovem Domo­vem, oslepený a�
 
 Netušil jsem, že spíš než do okamžitý smrti, a tak i do nebeskýho království, dokážou velbloudi projít palbou do snový krajiny klidu a míru. Mám radost. Pak už jsem je nikdy neviděl.
 
-  
+</section>
+
+<section>
 
 Motám se před domovem Domovem se zakrvácenou vlčí kůží v ruce, a protože palba na chvíli poleví, slyším zas: Ilja! To muj kapitán mě volá. Jdu ho hledat.
 
@@ -321,7 +337,9 @@ Doufám, že možný drobný rozdíly mezi Margašem a mnou přičte kapitán r
 
 Oběhnem domov Domov a jsme u pohřebního náklaďáčku a volant silou zbělených kloubů svírá příkazník Kantarija, na stupačce stojí příkazník Timoša, automat má přes záda, v ruce drží prostěradlo asi z nějaký sestří postele, na pokyn kapitána Jegorova se vyšvihnu na korbu pod plachtu nákladáčku a padnu do měkkýho, vždyť tu je celé bohatství trénu, poznávám koberce, v kterých jsem připoutaný trávil noci, a poznávám stojací hodiny a sošky a umyvadlo se zrcadlem, hromady cingrlat, pytle s hodinkama a kostelními skvosty, celé bohatství kapitána Jegorova, poklad kolony… A kapitán v té hromadě teď klečí a hned na haldu koberců rozprostře vlčí kožešinu a nesmírně opatrně do jejího středu ukládá dinosauři vejce větší než moje hlava, přehazuje přes vejce cípy zakrvácené vlčí kožešiny, zavazuje je do uzle a pečlivě vejce ukládá… Dal do nákladáčku, co měl nejcennějšího, a mě přivolal! Auto sebou trhne, padnu před kapitánem Jegorovem na všechny čtyři a bacim hlavou do stojacích hodin, naštěstí je zachytím… Jegorov praští pěstí do kabiny, Kantarija klepne zpátky a motor náklaďáčku řve…
 
-  
+</section>
+
+<section>
 
 Kolem průrvy v barikádě stojej a klečej naši automatčíci v různejch pozicích vhodnejch k palbě a dost možná, že některý se do barikády zaklesli kvůli svejm zraněním, a koukám, dva tři jsou úplně bez života… Z pozice, kde je balíkama maskovaný kulometný hnízdo, k nebi trčej kopytama nohy zvířat. Vyrazíme průrvou a za malou chvíli míjíme naše tanky. Řetězec tanků v kruhové obraně je neporušen, i když pár strojům klekly pásy a z jednoho tanku je výbuchem vyrvaná věž, automatčík Timoša drží prostěradlo, který vlaje ve větru, a automatčíci a tankisti hleděj na naši bílou vlajku a zdvihaj ruce k pozdravu, radujou se, že jedeme vyjednat příměří… V trávě svahu leží těla v černých tankistických uniformách, plátno plachty kryjící korbu mi pleská do obličeje, křečovitě se držím lavičky, vždyť jedeme divokým terénem svahu, přes výmoly a díry po granátech, kapitán Jegorov vztekle zařve, neboť velký zrcadlo u umyvadla praskne, kapitán nadává a obejme velký stojací hodiny, aby je chránil, a zmlkne, až když nás zastavěj hlavně Kožanovovejch tanků.
 
@@ -369,7 +387,9 @@ Ozve se dávka a druhá, splynou, neotočim se, ale koutkem oka stejně vidím,
 
 Kapitánu Jegorovovi je to taky líto. To vidí každej. Generálmajor Kožanov ho obejme kolem ramen a trochu jím zatřese a říká: Vím, jak ti je, milej soudruhu, tvá jednotka je zničena, to já zažil už kolikrát… ber to jako nutné přezbrojování naší armády, tanky už stejně nebudem potřebovat, tady všude, máchne Kožanov rukou nad Siazem, bude jedno velké skladiště jaderného arzenálu.
 
-  
+</section>
+
+<section>
 
 Sedíme v řidičský kabině a volant musí bejt ještě teplej od Kan­tarijovejch rukou. Brzo se dostanem za úseky, který jsem popsal a nakreslil ve svých mapách. Na křižovatkách a rozcestích na nás máchaj praporkama regulovčíci a tu a tam i vidim na stromech přibitý prkno, kde je azbukou vyveden nápis Louny a směrovka, a tam my asi jedem, a já myslim na Dýhu, že tenhle kraj teď taky vidím z auta a že jako on jedu vlastně eskortou, ale ne s ňákejma českejma policajtama! Jedu se sovětským kapitánem, a ne do pasťáku nějakýho, ale do opravdovskýho domova, jestli si mě totiž kapitán Jegorov opravdu bere za syna.
 
@@ -385,7 +405,9 @@ Kapitán Jegorov rve do letadýlka i to naprasklý zrcadlo s umy­vadlem, a t
 
 Poručí mi, abych zalez do úložného prostoru letadýlka na hromadu koberců a ostatních suvenýrů, a pak mi veleopatrně podá vlčí kožešinu, mám ji na klíně a z těch vlčích chlupů se rozkašlu, ale držím vejce pevně… Kapitán si nasadí pilotskou helmu se spoustou trčících součástek a pak mě ke svejm věcem přiváže řemenama!, provazy, kterejma mě přivazoval v noci, asi během bojů někde ztratil nebo snad založil… V přecpaným úložným prostoru maličkýho letadýlka visej ze stěn řemeny a muj kapitán mě jima váže… už teď jsem poloudušenej haldou koberců kolem sebe a s dračím vejcem na klíně vykašlávám vlčí chlupy… a on mě ještě sváže! To mi ten novej život teda začíná, myslím si… Letadýlko se šílenou rychlostí rozjede a v řevu motorů se vznesem a zas kolama klepnem o zem, skáčem, muj kapitán mě neslyší, i když teď ječím a mlátím hlavou do kovový stěny, vlčí kůže ze mě sklouzla, vejce se vykutálí a mlátí o stěny letadýlka, poskakuje jak míč, hnedka mám málem hlavu na kaši, letící vejce mě mine, volnou rukou zalovim do pytle s hodinkama a po hrstech je házim do kapitánovy kabiny, ať zastaví! ať si to vejce zkrotí! I ostatní suvenýry ohrožujou muj život, ten největší jelen s mohutným parožím se roztřískne o stěny úložného prostoru, uhýbám před letícíma střepama, co jak bouchlej šrapnel vyplněj úložnej prostor, uvidim pistoli, která vyklouzla odkudsi z koberců a válí se mi u nohou. Nedokážu přeříznout řemen jelením střepem, ale rovnou ho přetrhnu, takovou sílu mi dodala hrůza z bláznivejch skoků letadýlka a útočícího vejce, chci kapitána varovat, vždyť zběsilost situace se zcela vyrovná bojovýmu střetu… Přes hluk, s kterým divoký vejce mlátí do stěn a drtí náhodný suvenýry, neslyší kapitán můj křik… teprve po ohlušujícím výstřelu se kapitán Jegorov otáčí… a vtom se letadýlko vznese a my letíme přímo do slunce… Kapitán Jegorov křičí, naklání se ke mně do úložného prostoru, vejce se odrazí od stěny a bací mě do hlavy, a vtom vyjde druhý výstřel a já svého kapitána Jegorova bohužel střelím rovnou mezi oči, skácel se asi přímo na volant letadýlka, což já už neviděl, neboť jsme spadli.
 
-  
+</section>
+
+<section>
 
 Když jsem se probral, byla noc. Muj kapitán a všechen náklad ležel v troskách letadýlka. Utrhnout kus zkroucenýho plechu bylo snadný. Pak jsem hloubil jámu.
 
@@ -398,3 +420,5 @@ Při psaní jsem to byl já a nebyl jsem to já. Psal jsem přes mapy a strán
 Jen já vím, kde je kurhan, hrob mého kapitána. A kde je vejce. Na žádnou mapu jsem to nezakreslil. Popsaný papíry dám do hrobky ke svejm rodičům. Třeba je tam někdy někdo najde. Třeba bude ještě někdo číst česky.
 
 Taky se podívám do válečnýho sklepa. Podívám se, jestli tam ještě žije poslední siřemská rodina. Teď hned se vydám na cestu, půjdu domů.
+
+</section>

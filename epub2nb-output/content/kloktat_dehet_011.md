@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 6\. O Fedotkinovi. Hanka.  
 Čištění. Novej kluk
 
@@ -14,7 +16,9 @@ Začali jsme čistit domov Domov od hald papíru.
 
 Naštěstí jsme začali v patrech, protože kdybychom začali ve sklepě, velitel Vyžlata by hrob na dně sklepa našel, to já věděl.
 
-  
+</section>
+
+<section>
 
 Naše čety se střídaly ve vynášení starého papíru a v jeho pálení na místě, které jsme vyčistili od sněhu, před dveřmi domova Domova. Čety se střídaly, aby byli všichni hoši dostatečně dlouho na čerst­vém vzduchu.
 
@@ -28,7 +32,9 @@ Dny nového života zasvěceného práci a později i učení šly jeden za dr
 
 Večer jsme se už mezi sebou nebavili. Velitel nás uspával, abychom po večerech nemrhali silami a ráno vstali odpočatí a plni chuti k práci a učení.
 
-  
+</section>
+
+<section>
 
 Velitel Vyžlata nás uspával stejně, jako uspával bezprizórnyje ve čtyřicetistupňových mrazech v barácích Vorkuty. Velitel Vyžlata nám vyprávěl o synovi pluku.
 
@@ -80,7 +86,9 @@ Obcházel jsem před Domovem. Kam je velitel všechny hnal? Šel jsem po stopác
 
 A tam jsem Hanku viděl zas. Seděla zabalená do deky a koukala přímo před sebe. Zaťukal jsem na okýnko. Co já chtěl? Nevím. Ještě jednou jsem zaťukal na sklo. Nevim, co si myslela. Víckrát nepřijeli. Pak už to ani nešlo.
 
-  
+</section>
+
+<section>
 
 A každý den jsme stáli u ohně a bidly a hráběma nazvedávali haldy stránek a lejster, aby dobře prohořely. A občas vyšlehl plamen vysoko a stěna ohně se nad námi převalila a trčela do vzduchu a oheň se se syčením smyk zas k zemi. Někteří z nás nadšením řvali a tancovali, zvlášť když velitel vydal rozkaz a my pálili i knihy, ze kterých nás učily sestry, totiž Katolickou dějepravu a Slabikujeme s Ježíšem… a další knížky. Kluci se neučili rádi, já Katolickou dějepravu schmát. Vždyť já kolikrát musel hlídat Vopičáka, když se kluci mohli učit, a tak jsem si teď knížku prohlížel a čuměl jsem na všechny ty zvířata, veleryby a zeměkoule. Schoval jsem ji pod polštář, desky jsem z ní strhnul a hodil je do ohně. Pozdějc jsem dal Katolickou dějepravu pod teplákovou bundu… Po večerech jsem čučel do knížky a zachraňoval se tak před Vopičákovou tváří, dokud nepřišel velitel.
 
@@ -203,3 +211,5 @@ Teď nemůžeš utýct! Umřel bys zimou v lese. Nebo hladem. A v lese sou zv
 To je mi jedno.
 
 Aha. Dal jsem víko zpátky, šli jsme. A v Domově vládl tartas!
+
+</section>

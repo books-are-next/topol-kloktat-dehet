@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 16\. Fantastická bitva.  
 Útok démonů. Vejce.  
 Třetí válka a poslední televize
@@ -37,7 +39,9 @@ Poslouchej, Iljo! Jsme oba v český kaši, ve válce Východní říše se Zá
 
 Já Daga poslouchal, cesta aspoň ubíhala, a když neječel, tak jsem ho ani nemusel přetáhnout lanem. Dago dával hádanky, pohádky vymejšlel po celou cestu… Taky jsem si říkal, že se vytahuje… Špion je možná víc než diverzant, ale když je čapnou v nepřátelským zázemí, tak jdou oba ke zdi, a to bez řečí… to stojí v Manuálu diverzanta černý na bílým. Tak co se na mě vytahuje, skrček, nechápal jsem.
 
-  
+</section>
+
+<section>
 
 Táhli jsme na Siřem. Když mě kapitán Jegorov večer přivazoval k pytlům, ani na mě nekouknul.
 
@@ -101,7 +105,9 @@ Bylo to obrovské vejce s šedivou, jakoby koženou popraskanou skořápkou.
 
 Po tváři našeho kapitána Jegorova, po jeho zaprášené tváři, pohublé a strhané nevyspáním, po tváři, do níž své mapy vepsala únava a zodpovědnost a strádání, nyní kanul lesklý potůček slz. Raději jsem zavřel oči.
 
-  
+</section>
+
+<section>
 
 Další slunný den mě na čelním pancíři zastihl plného starostí.
 
@@ -153,7 +159,9 @@ Koukal jsem na svý docela vzrostlý ruce a nohy, vzpomněl jsem si, jak tehdy 
 
 Ano, sípe zas Dago, dinosauří vejce snad kapitána Jegorova zachrání před tribunálem… pokud by se totiž z vejce vylíhl drak, bylo by to považováno za velkolepé vítězství armád Varšavské smlouvy a komunismu vůbec. Ano, opravdický drak by mohl situaci zvrátit ve prospěch Sovětů, brumlal trpaslík a… třeba ještě někoho potkáme. Co myslíš, Iljo?
 
-  
+</section>
+
+<section>
 
 Zazněl pokyn a my zastavili u pole spáleného sluncem, táhlo se od silnice až k černým shlukům stromoví lesa, smykl jsem se z tanku a nechal Daga bejt… Dago kapitána nezná, ale já jo, a tak je mi jasný, že kapitán se podivoval vejci a sebral ho pro jeho podivnost, tak jako sbírá mnohý jiný neužitečný věci z kostelů a chalup. A malý šípovníky zpražil rozkazem, museli mu vejce vydat, a teprv pak je zařadil do kolony, tak se to v armádě dělá, Dago neví nic… Radoval jsem se, že jsme zastavili, měl jsem už kodrcání tanku a Dagova povídání ažaž. Ale po hltu se skrčkovi poohlídnu, slíbil jsem si.
 
@@ -175,7 +183,9 @@ Muj táta je vojenskej velitel kapitán Jegorov! odpovim a kluk našpulí rty a
 
 Otočim se a jdu pryč. Denaturák nemám. Dago bude muset vy­držet bez něj. Třeba aspoň na chvíli sklapne, myslím si. Kdybych tušil, že Daga už nikdy neuvidim, myslel bych si něco jinýho.
 
-  
+</section>
+
+<section>
 
 Slyším výstřel a pak další. Jsou to varovné výstřely do vzduchu. Polem plným prachu k nám pomalu jde houfec žen a dětí, mají šaty šedivý od hlíny a prachu… blížej se k nám, už jsou blízko tankové kolony, v rukou maj naostřený klacky, ryly do hlíny… Kapitán Jegorov asi ponechal vejce v hlubinách tanku v péči vybraných poddůstojníků, jde k zástupu žen a choulících se dětí, ohlíží se… a to hledá mě…! prolezu mezi tankama a následuju svého kapitána do pole, tankistická bunda kolem mě plandá, jako bych byl nějakej dlouhokošiláč, ale dlouhokošiláč už nejsem pěkně dlouho… Jdu za kapitánem a ženy se před náma rozestupujou a nekoukaj se na nás a kapitán se jich vyptává, klade otázky a já jdu za ním a všechny ty otázky po něm říkám česky, což je pro mě lehký. Kapitán Jegorov se žen ptá: Kde máte muže? Kde jsou banditi? A ženy odpovídaj: Něznáju, takže ani nemám co tlumočit. A najednou stojim před pani Kropkovou a ta je v obličeji tak šedivá, že bych ji nepoznal, kdyby neřekla: Ty chudáku, tebe měli zadusit tyčkou v břiše tvý mámy, ty tatarská vopice zrádná… Vedle paní Kropkové stojí holka v obličeji bílá a šedá a celá je vychrtlá a poničená a já nemůžu uvěřit, že to její teplý a měkký a pevný prs jsem měl v dlani… Pani Kropková mi pořad nadává a některý ženský se už před našima kročejema a otázkama nerozestupujou, smějou se… Ruskej votroku, hajzle zrádná! nadává mi pani Kropková a ještě mi nadává víc, přes její rameno koukám na Hanku, co kouká akorát k zemi a celá se za mámu skovává. Pani Kropková říká: Kryso křivá, zdechni sám a ať tě to bolí, parchante špinavej. Tohle je proklínání a to uměj v Siřemi všichni, to se nemá… Přistoupí k nám kapitán Jegorov, ptá se, co ta Češka říká, tak mu řeknu, že má hlad.
 
@@ -199,7 +209,9 @@ Holky z křovin vylejzaly docela potichu. Vojáci hrozně nahlas povídali a t
 
 Vrátil jsem se k čelnímu pancíři, ležely tam jen provazy, a Dago nikde. Byl pryč. Naštěstí se po něm nikdo neptal. Vždyť jsem ho měl na starost.
 
-  
+</section>
+
+<section>
 
 Vesnička Ctiradův Důl byla posledním opěrným bodem před konečným útokem na Siřem.
 
@@ -236,3 +248,5 @@ Právě velitel Baudyš se svou partyzánskou jednotkou napadl západní Německ
 Atlantický pakt si kvůli Československu nechtěl napjaté vztahy s Varšavskou smlouvou úplně rozházet, a tak se všichni se všemi dohodli a vhodili vzbouřence přímo do chřtánu sovětské hydry a situace našich hochů v útočných oddílech, co vjely do Německa, se změnila. Německé kulky začly našim chlapcům hvízdat kolem hlav a naši hoši marně ukazovali, že mají ruce nahoře a že přijeli ozbrojeni jen a jen ideou svobody… západoněmecká vojska a síly Atlantického paktu a američtí vojáci ze západoněmeckých základen teď hnali naše chlapce zpět k československým hranicím, kde ovšem již čekali Sověti s přehledem krotící vzbouřené Maďary a Poláky. A naše chlapce, kteří napadli Německo, aby vyvolali třetí světovou válku, teď Němci hnali zpátky k Rusům, a Rusové byli strašně rozezleni kvůli svým ztrátám, a tak si to naši hoši v krvavým mlýnu mezi Němci a Rusy pěkně vypili, ti co nebyli pobiti, se vzdávali, jen jeden jediný hrdinný český lev se nevzdal, totiž velitel Baudyš se svým oddílem speciálně vycvičených záškodníků… Po opětovném sovětském obsazení Prahy a hrdinské smrti státníka Dubčeka vyhlásilo Československo bezpodmínečnou kapitulaci diktovanou nejvyššími orgány Východní říše, jen Baudyš se svým oddílem ji nepřijal a skrývá se kdesi v nepřehledném vnitrozemí Československa. A gardové jednotky Východní říše posílené pořádkovými silami Atlantického paktu obemkly pevným prstencem vzpurné Československo a zachránily světu mír a udusily strašlivou třetí světovou válku v zárodku… A poddůstojníci i kapitán Jegorov teď jásali a tleskali, až se chalupa otřásala, a vyběhli ven a zvěstovali ostatním, že je konec… že je konečně mír!
 
 Automatčíci křičeli radostí, a ti, kteří měli ocelové přilby, jimi mlátili do pancířů a ti, kteří měli čapky, je radostně házeli do vzduchu. Zvířata naší kolony se přidala k jásotu řičením a hýkáním a automatčík, který stál vedle mě, taky vyhodil čapku do vzduchu, a jak ji chytal, najednou se zapotácel a já koukal, jak mu z krku chlístla krev, a pak jsme slyšeli výstřel a další a pak: Vrauuu! a chalupa i s rozpálenou obrazovkou zmizela v ohni a dýmu, ze shluku jásajících automatčíků byla změť vlekoucích se, naříkajících těl… Koukal jsem, zda uvidím kapitána Jegorova, ale všichni se stáhli k tankům, a co nevidět hlavně tanků spustí blesky a já budu před útočníky zachráněn, anebo mě palba roztrhá… Skočil jsem po hlavě do křoví, viděl jsem, že okolo trosek chalupy, mezi mrtvými a raněnými, se teď rychle pohybují přikrčené stíny, musejí to být partyzáni, kteří provedli přepad, ale nevypadali jako partyzáni a i v houstnoucím soumraku mi bylo jasný, že nevypadají ani jako vojáci Československé lidové armády… vztyčil jsem se na loket a slabě jsem zavolal: Tady sem!
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 13\. A začalo to! Pytle a násilí.  
 Sladkost světa. Dago
 
@@ -48,7 +50,9 @@ To první ráno mého života v sešpendlené a všelijak ohrnuté uniformě s
 
 A začalo to!
 
-  
+</section>
+
+<section>
 
 Viděl jsem svět z pancíře tanku a slyšel jsem svět v hřmění motoru a slyšel jsem zvuky světa v praskání a hvízdání rádia a v praskání vysílačky v tanku a taky z hlasů, přeskakujících odporem proti sovětským okupantům, běsnících hlasů z amplionů, namontovaných všude ve vesnicích kolem Kupeckého lesa podobně jako v Siřemi, a taky jsem viděl svět v televizích v dobytých, ale ještě nedemolovaných chalupách a domech, a už jsem se televizi nic nedivil, ale sral jsem na ní, protože nahá holka v nich nikde žádná nebyla. Po skle televize lítaly jen záběry z bojů a nebylo ani poznat odkud, protože Rusové mnohdy svým vysíláním překrývali české a naopak a Češi někdy mluvili rusky a Rusové zase česky, aby se navzájem zmátli a poděsili a aby nikdo nevěděl, co se doopravdy děje.
 
@@ -74,7 +78,9 @@ Poté, kdy na nás poprvé zaútočil pravidelný armádní sbor, se příkazní
 
 Spustil jsem se do tanku a nasadil si sluchátka. Po ohlášení: Haló, tady vysílač Svobodná Siřem… následovala strašlivá palba nadávek a kleteb, mnohé v českém jazyce a mnohé v ruském, a to velitel Žinka volal obyvatelstvo do zbraně a podával návody na výrobu účinných domácích zbraní a informoval obyvatelstvo o taktikách partyzánské války včetně otravování studní, hovořil o nemilosrdné taktice spálené země. Hlavně podle těch nadávek a kleteb jsem usoudil, že velitel Žinka se svého slibu nepít alkohol tak docela nedrží, a představil jsem si, jak stojíme s Margašem s kudlama v trenýrkách, ještě mokří po smytí Vyžlatovy krve, před Žinkou a on smontovává vysílač Svobodná Siřem, a myslel jsem na hlubiny sklepa v domově Domově a na to, co v nich je, a říkal jsem si, že právě kvůli všem těm odbojníkům, co poslouchají vysílač Svobodná Siřem a útočí na nás ze zálohy a strhávají rozcestníky a demolují mostky, nedokážem s tankovou kolonou objet ani Kupečák a vypadnout od Siřemi někam daleko!, a litoval jsem, že jsme tehdy s Margašem velitele Žinku nezabodli taky.
 
-  
+</section>
+
+<section>
 
 A tak jsme křižovali kraj. Někdy nám do cesty čeští banditi nastavěli zátarasy a v místech, kudy jsme už předtím svobodně projížděli, nás uvítala palba. K loveckým zbraním a všelijakým pytlačkám, jejichž práskání jsme už uvykli, se stále častěji přidávaly i salvy z automatických zbraní a kapitán Jegorov se na čelním pancíři mračil.
 
@@ -102,7 +108,9 @@ Spokojil jsem se s tím a po tajemství vozů trénu jsem nepátral.
 
 Já měl své práce plné ruce, dost a dost.
 
-  
+</section>
+
+<section>
 
 V tom dlouhém sledu dní, které si byly navzájem podobné, jsem žil přitištěný k pancíři tanku, splýval jsem ve svém pelechu s kovem tanku jako brouk beroucí na sebe podobu stromové kůry a nikdy mi nikdo neřekl: Ty zmrde malej! Ty hovado! Ty Avare! Ty chudáku!, takový člověk, který by se mnou takhle mluvil, tam nikde nebyl, palba z orúžij automatčíků i pobočných zbraní poddůstojníků by takového člověka vmžiku zlikvidovala. Naše kolona měla obrovské množství zbraní a zásob a pohonných hmot a nikdo na nás nemoh.
 
@@ -164,7 +172,9 @@ Lidé, které jsme vyslýchali, říkali rusky jen jedno slovo: Něznáju, ale a
 
 A tak jsme se pohybovali podle mých map a likvidovali bandy v tomto úseku.
 
-  
+</section>
+
+<section>
 
 Byli jsme ve válce a pohyb naší kolony po silničkách kolem Kupec­kého lesa byl někdy bojem o každou píď a surovým násilím. Také jsme se snažili žít i obyčejný život, třeba večer pít čaj. Někteří z vojáků a poddůstojníků tankové kolony Veselá písnička před svým životem v armádě žili běžné životy. Na tancích jsme ale žili násilím. Žít násilím znamená, že kterýkoli okamžik běžně žitého života se kdykoli může změnit v násilí, kterým život končí. To v příručkách nebylo.
 
@@ -188,7 +198,9 @@ Daj mi výbornej chleba se slaninou a já ho snim, i když nemám hlad, naopak
 
 O výslechu jsem nikomu v tankové koloně nic neřekl, nejsem blázen.
 
-  
+</section>
+
+<section>
 
 Přes den jsem měl v tankové koloně Veselá písnička mnoho úkolů. V noci bylo mým úkolem hlídat pytle kapitána Jegorova.
 
@@ -222,7 +234,9 @@ Já tehdy o zvláštním úkolu tankové kolony Veselá písnička nevěděl v�
 
 To se mělo brzy změnit.
 
-  
+</section>
+
+<section>
 
 Té noci jsem se seznámil s Willym. S Willym Dagobertem, skrčkem Dagem.
 
@@ -251,3 +265,5 @@ Já ještě nebyl chlap, byl jsem pouhé dítě, a už jsem toho začínal mít
 A tak jsem si to zkoušel dělat a nešlo to, a zatímco ze mne sladkost světa uplývala, vstupoval do mne chlad a zmar, jako by ho do mě hnaly vichry z Kupečáku.
 
 A tehdy se před mýma očima rozhrnula tma, nepatrně se pohnul pytel a já v prvním světle svítání spatřil neobyčejnou tvář skrčka Daga.
+
+</section>

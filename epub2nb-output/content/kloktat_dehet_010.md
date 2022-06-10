@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 5\. Slibuju! Práce začala.  
 V zimě se nezdrhá
 
@@ -46,7 +48,9 @@ Poloudušený jsme klopýtali do patra a po schodech dolů. Před domovem Domov
 
 Ano, řekl velitel Vyžlata, který najednou stál ve dveřích. Byli mrtví, ale dali svůj slib, a teď jsou hoši s novým životem. A to vás čeká všechny.
 
-  
+</section>
+
+<section>
 
 A začala nám práce. Než jsme se mohli pustit do čištění pater od mrtvých jazyků, museli jsme se seřadit a spočítat, aby velitel Vyžlata věděl, kolik nás je. Nám tohle bylo jedno.
 
@@ -72,7 +76,9 @@ Jo, vykřik Šklíba.
 
 Ale sestry jsou jeptindy a ty tu nebyly. Tak tu nebyly a hotovo. Však ty si to, chlapče, uvědomíš, řekl velitel Vyžlata.
 
-  
+</section>
+
+<section>
 
 První den nového života skončil tak, že jsme třídili menší a nejmenší dlouhokošiláče. Shromáždili jsme je v prvním patře a velitel Vyžlata šel kolem jejich zívajících řad a ukazoval, ty doleva, ty doprava… Ty, které nám nakázal, jsme zahnali do ložnice nejmenších, šklebili jsme se na sebe a mrkali, protože jsme čekali na tartas a brekoty! Na jekot a řev! Velitel Vyžlata se ale s mrňousama v ložnici zavřel. Byl tam jen chvíli, a když vylezl, tak žádnej tartas nenastal. Byli zticha a spali.
 
@@ -94,7 +100,9 @@ Představuji vám tedy chlapce…, velitel Vyžlata ukázal na novýho kluka, �
 
 Velitel Vyžlata rozpřáhl ruce, aby bylo ticho, ale nebylo, teď vzduchem začaly lítat šutýrky a kousky tužek a co měl kdo v kapse, my spustili tartas, mlátili jsme dlaněma do lavic a dupali a velitel Vyžlata stál s rozpřaženýma rukama a naslouchal tartasu. A velitel Vyžlata šáhnul do kapsy a vytáh velkou černou pistoli a prásk…! to byla strašná rána! a kulka z velký černý pistole se zaryla do stropu jídelny třídy nad našima hlavama, a když se ze stropu odloup proužek omítky a spadl někam mezi nás, tak bylo ticho. Velitel Vyžlata zastrčil pistoli do kapsy a řekl: Děte spát.
 
-  
+</section>
+
+<section>
 
 Už jsme se nesmáli. Byli jsme strašně unavený. Šlapali jsme do druhého patra, do ložnice trenýrkářů.
 
@@ -131,3 +139,5 @@ Mě sere, řekl Páta. A někdo se zas zachechtal do polštáře a řekl: Ha h
 Pak jsem šept Karlovi, on ležel přes uličku: Karle! Já bych stejně radši do légie.
 
 Je zima, Iljo. Už spi.
+
+</section>
