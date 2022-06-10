@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 8\. Práce. Još. Dílenská práce
 
 Dny šly. Každého dne zrána jsme vycházeli z domova Domova a šlapali do vesnice, podobně jako jsme kdysi chodili se sestrami do kostela.
@@ -27,7 +29,9 @@ Můj svět ve vesnici byl obrovský. Byly v něm stodoly, kam jsme skládali ta
 
 V mém světě byly sklepy a maštale a chlívy se zvířatama, a to byla prasnice, co žere všechno, a kozy a kozlové, co na jaře za zelenými listy skáčou až na střechu chlívka, a taky obří býk a krávy, co pořád žmoulaj pyskama, a některá ta zvířata byla zlá, drkala se na řetězech ve tmě maštale, protože my těm zvířatům nesmrděli vesnicí, ale domovem Domovem.
 
-  
+</section>
+
+<section>
 
 Velitel Baudyš pro nás zavedl práce na potoce a práce v dílně.
 
@@ -35,7 +39,9 @@ Na potoce jsme pracovali s kamenama. Zkroucený železa smeťáku, přes který
 
 Přes potok vedl mostek a pod mostkem byla hlubina. Brali jsme z potoka kameny, podávali si je a na břehu z nich budovali šance a obranné valy. To byla jedna směna. Druhá směna byla opačná: v řetězu jsme kameny podávali jeden druhému zpátky do vody. Kameny obranného valu schly na slunci a větru. Než uschly, tak jsme cvičili.
 
-  
+</section>
+
+<section>
 
 U potoka nás velitel Baudyš někdy nechával samotné. Chodil do vesnice vyřizovat pohledávky, jak říkal.
 
@@ -45,7 +51,9 @@ Podával jsem šutry a najednou za sebou slyším Chatu, jak mluví bakelitsky,
 
 Chata s Bajzou šli k Jošovi na návštěvu a my museli pracovat o to víc, protože velitel Baudyš věděl, kolik času potřebujeme, abychom kameny z obranných valů dali zpátky do potoka, a kdybychom čas své samoty proflákali, tak by nám teprv začala vojna jako řemen! To jsme nechtěli.
 
-  
+</section>
+
+<section>
 
 Za mokrých a deštivých dnů oblev pro nás velitel Baudyš zavedl nový výchovný a výcvikový předmět: dílenské práce.
 
@@ -61,7 +69,9 @@ Brzo bylo jisté, že hoši si budou svět, zakreslený v mých mapách, pamato
 
 Pracovali jsme a učili se z brožur i výkladem velitele Baudyše. Mimo práce objednané z vesnice jsme také pracovali na technických zařízeních. To byl obor dílenská práce.
 
-  
+</section>
+
+<section>
 
 Venku stále pršelo, a to nešlo plížit se celý den a den po dni v rozměklém bahně se vzduchovkami a plynovými maskami, i když v nesimulované bojové situaci bychom museli! Posedali jsme tedy okolo rozpálených kamen a sledovali ruce velitele Baudyše, jak čistí strojek hodin anebo rozebírá převodovku nebo hadýrkem vtírá mastku na píst. V kuchyni dílně velitel Baudyš nikdy neřval, on se i smál, a my nedělali tartas, to s velitelem Baudyšem nešlo, ale někteří z nás s ním mluvili. A jednoho večera se Páta klíďopíďo zeptal: Veliteli, proč je chlapec namalovaný u portrétu Fedotkina Čech?
 
@@ -79,7 +89,9 @@ Přemýšlel jsem, jestli bych s Margašem šel radši do légie, nebo do jeho 
 
 V Margašově zemi určitě nejsou žádný baráky vesnice přikrčený v plískanici. Žádnej Kupečák, kde žijou zvířata připravený roztrhat kluka na útěku. Je tam světlo a všude tráva. Pracoval jsem na zadaném úkolu, a přitom si vymejšlel, jak v tý trávě blbnem, já, Margaš a Margašovi bráchové. V předmětu dílenské práce mi bylo v kuchyni za dešťů dobře.
 
-  
+</section>
+
+<section>
 
 Jednoho večera jsme se dozvěděli pravdu o Fedotkinovi. Velitel Baudyš nám vyprávěl o konci Fedotkina.
 
@@ -97,7 +109,9 @@ Vždyť víte, hoši, v ústředí nad váma zlomili hůl! K vám nikdo necht�
 
 A když se některý z nás chlapců třeba praštil molotkem a pak vzteky brečel anebo když někdo dostal nějaký třasy, že mu třeba trochu namrz prst nebo se nabod na dráty technického zařízení, tak velitel Baudyš chlapce hnedka a rychle! zklidnil a povídá: Proti sovětskýmu gulagu tady v tý český Siřemi žijete, chlapci, úplnou baladu, to mi věřte… A velitel Baudyš se usmíval, až mu vousy pras­kaly.
 
-  
+</section>
+
+<section>
 
 A toho večera jsme se konečně dozvěděli, jak to bylo s Fedotkinem. Toho večera velitel vyprávěl, až ochraptěl, a když poklesl hlasem a už jen sípal, někdo z nás tenounkým hlasem vypískl: Co Fedotkin? Znal ste Fedotkina?
 
@@ -124,3 +138,5 @@ A Dýha řekl normálním hlasem: A proč?
 No, jakýpak proč, řekl velitel Baudyš. Tam se to tak nebralo. A ne­myslete si, bejt zastřelenej, to nebylo tak zlý.
 
 Byli jsme všichni zticha. Vždyť jsme právě slyšeli o Fedotkinově konci.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 9\. A Fedotkinův chlapec?  
 Likvidace. Šklíba
 
@@ -26,7 +28,9 @@ To jsme nechtěli poslouchat!
 
 Mnozí z nás po zprávě o smrti Fedotkina začali opět mluvit o útěku do cizinecké légie. Já mezi prvními.
 
-  
+</section>
+
+<section>
 
 Zima už nebyla skoro vůbec. Pak zmizel Šklíba.
 
@@ -62,7 +66,9 @@ V domově Domově šel Šklíba ihned na samotku do sklepa, což se prý útěk
 
 Protože jsme Šklíbu čapli velmi rychle, zbylo dost času na práce ve vesnici.
 
-  
+</section>
+
+<section>
 
 Byli jsme s Pátou přiděleni k panu Cimburovi, který mi někdy říkal hochu, ale někdy Avare a spratku vyjevená, a mně to bylo jedno. Když mi řekl: Hajzle!, tak jsem jen dělal, že je mi to jedno. Domníval jsem se, že pan Cimbura si na mě už nepamatuje. To byl omyl.
 
@@ -76,7 +82,9 @@ A jdem ke sklepu a čumíme okýnkem. Co tam má? Byly tam holky.
 
 Ve sklepě je šero a jsou tam holky. Z Cimbury jsou vidět akorát nohy. Sedí na něčom! Do nás se opírá slunce, ale holky ve sklepě jsou celý zachumlaný. Maj na sobě tepláky a svý sukně a na hlavách šátky, a tak nevim, jestli je tam Hanka. Jak ji mám poznat? Je tam šero. Teď holky zpívaj, tak posloucháme písničku. Asi takovouhle:
 
-  
+</section>
+
+<section>
 
 > neseme vám kytičky  
 > všechny ze vsi holčičky  
@@ -84,7 +92,9 @@ Ve sklepě je šero a jsou tam holky. Z Cimbury jsou vidět akorát nohy. Sed�
 > a slaměnky  
 > od té svojí panenky
 
-  
+</section>
+
+<section>
 
 A pak jedna holka tancuje uprostřed ostatních. Hanka to není. A maj tam Čechii ve velkým zlatým rámu. To k ní donesly kytky. Kytky se válej všude okolo obrazu. Vypadá to, že pomalovali nějakej obraz kostelní Panenky a udělali z ní Čechii. Holky nahoře nahatý nejsou, v takový zimě to dá rozum. Škoda, myslim si a Páta si asi myslí to samý. Pan Cimbura sedí, klepe nohama. To já nevim, jestli kvůli písničce nebo starobou. Koukám na něj a říkám si: Muselo to bejt dávno, když jsem žil v domě šlachty! Tam se panu Cimburovi nohy akorát trochu kinklaly. Nevím, jak je to dávno.
 
@@ -138,11 +148,15 @@ Přestože kluci Pátu drželi pevně, svou vzpourou způsobil mnoho zmatku a k
 
 Táhli jsme Pátu přes ves a okna se otvíraly a zuřiví psi se smykali na řetězech. Pak naše řady prošly vesnicí k domovu Domovu a tam se všichni rojili, protože Šklíba zase zdrhnul, a tentokrát se mu to podařilo. Už nikdy jsem ho neviděl.
 
-  
+</section>
+
+<section>
 
 Velitel Vyžlata nechal naše řady nastoupit a Margaš byl pořád u něj! Velitel Vyžlata pil chlast, měl flašku chlastu v ruce a řekl, že se stala nemilá věc, že jeden z nás odešel, protože nepřijal přátelství. Pak veliteli Vyžlatovi ukápla slza a na okamžik sklonil hlavu a prostředníčkem pravé ruky tu slzu setřel a odcák na zem, my mlčeli… A pak nás pohyby obou rukou zval do jídelny učebny třídy a my ho poslechli, protože jsme byli stísnění, a tam na malbě vojína Fedotkina už byl namalován český chlapec v teplákové soupravě i se zeleným chlebníkem přes rameno a podával vojínu Fedotkinovi nábojový pás. A my tam stáli a mlčeli, my už věděli, že statečného vojína Fedotkina zabili. A já koukal po Margašovi a on koukal po mně, já se až lek, protože Margaš měl protáhlej ksicht jako tehdy ve sklepě a měl strašnej vztek, ale to nebyl vztek, který měli někdy hoši od nás, když se trochu pomátli, protože my jsme byli psychopati. Když někdo z nás dostal vzteky a třasy, tak vypadal jinak než Margaš. A já hned taky dostal vztek, měl jsem v sobě teď proti veliteli Vyžlatovi nenávist, protože proč má Šklíba osamocenej a hluchej bloudit sněhama a lesama kvůli sestrám? Proč tu neni s náma jako vždycky? Proč tohle všechno je? Kvůli veliteli Vyžlatovi! A napadlo mě, jestli Margaš řekne: Teď!, tak udělám to, co už stejně viděl ve snu. Ale jak? dumal jsem. Jak velitele zabiju?
 
-  
+</section>
+
+<section>
 
 Velitel Vyžlata k sobě nahnul flašku s chlastem a napil se a kecnul na podlahu. Takhle když dřepí, mu na krk můžu. Ale velitel Vyžlata najednou postavil flašku na podlahu a rychle strčil ruku do kapsy a někteří dlouhokošiláci vyjekli. Velitel Vyžlata po nás blejská očima, jako by nás propichoval. Ale zůstal sedět a já bych na něj došáh a ostatní kluci by mi pomohli, myslim… Kouk jsem na Margaše a kývl jsem hlavou: Jo? a Margaš zavrtěl hlavou: Ne! a to bylo dobře, protože do učebny jídelny třídy vešel velitel Baudyš a zavelel: Rozchod! Ke cvičení připravit!
 
@@ -185,3 +199,5 @@ Aha! slyšeli jsme Martina zezdola.
 A když byl úplně dole, tak mu Páta hodil deku a Dýha mu taky hodil deku, protože v noci byla pořád ještě zima.
 
 Zalehli jsme a chvíli se bavili a Bajza se optal Chaty: Dals mu ňákou sůl, vole? A Chata mu odpověděl: Houby, ať si tvaroh sůl nabulí, vole… A teprve teď se ozvalo něčí: Cha cha… a já se rozhodl, že taky uteču a že Margašův sen se nesplní, a chtěl jsem utýct, až ostatní usnou, ale usnul jsem a ráno jsme šli s velitelem Baudyšem na kameny.
+
+</section>

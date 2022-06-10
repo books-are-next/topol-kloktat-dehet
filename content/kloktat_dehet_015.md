@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 10\. Na kamenech a ve vsi
 
 Pracovali jsme na kamenech, slunce nad námi plálo a zabodávalo se mi do hlavy. Plálo i nad smeťákem na druhým břehu, vysušovalo rákosí. Voda, která byla v ledech, naráží do želez, hýbe smradlavýma věcma ve smeťáku. V zimě smeťák nesmrděl.
@@ -21,7 +23,9 @@ Kus od nás na břehu je velitel Baudyš, civí na hodinky.
 
 Všichni kluci teď lezou s kamenama na břeh, zvednu se a taky popadnu šutrák, co se tam válí, zakládáme kameny do valů a já o Martinově dece tiše říkám Karlovi a Chata to tiše říká Mikušincovi, rtama při tom nehejbnem, kluci to říkaj dál a za chvíli to víme všichni a pára, studená a lezavá, co stoupá z vody pod mostkem, kde je pořád chladno, připomíná tmavej dusivej kašlací dým, co se plazil kolem kostelních svic, když je někdo po mši zhášel, netušil jsem, že si na svíce pamatuju. Velitel Baudyš o Martinovi neví, tomu to neřeknem, ten nám teď může políbit prdel.
 
-  
+</section>
+
+<section>
 
 Jsme seřazeni u obranných valů a šancí a velitelé čet, mezi nimi já!, mají podat hlášení, ale… slyšíme to všichni! Slyšíme lomoz a to lomozí náklaďáček. Náklaďáček zastavuje! A vylejzá z něj podivnej chlap! Vylejzá, protože nemá nohy! Ani jednu! Drží se na tyčích, jsou to berle a jsou to chůdy. Přidržuje se auta. Nikdo z nás se ani nezachechtá.
 
@@ -69,7 +73,9 @@ Oba se smějou a zas mluvěj po svým. To mě štve.
 
 Lezem na břeh.
 
-  
+</section>
+
+<section>
 
 Kluci jsou teď na silnici okolo kárky a náklaďáčku. Kdyby teď přišli naši dlouhokošiláci a pořádně by se smáčkli, vešli by se na korbu. Všichni bychom mohli jet jinam. To se ale nestane.
 
@@ -87,7 +93,9 @@ Velitel Žinka řekne: Ne, to neni dobrý nápad. A pak už jdem!
 
 Dýha s Pátou jdou v čele průvodu, tlačej kárku, náklaďáček za nima jede krokem a za náklaďáčkem jdeme my, Psanci, a litujem, že jsme neměli polní cvičení, do vesnice by bylo lepší jít se vzduchovkama.
 
-  
+</section>
+
+<section>
 
 U prvního stavení, u Kropáčků, náklaďáček zastavuje. Velitel Žinka z náklaďáčku vytáhne skládací žebřík a rozloží ho, a už je na něm, přehoup se rovnou z kabinky. Pahejlama se zaklesne mezi špricle, až kůže na jeho kaťatech skřípne, pomůže si i zubama a připevní první amplion na plot u Kropáčků a pan Kropáček vyleze a říká: Co to jako má bejt?
 
@@ -122,3 +130,5 @@ Lidi si podávaj flašky a jedí a všude běhaj hejna siřemskejch kluků. D�
 Pak přijede pan Dašler a v kabině náklaďáku má spoustu koláčů, jsou ještě teplý, já to vím, protože dostaneme taky. A velitel Žinka sedí a pan Holasa a pan Dašler a pan Moravčík stojej na korbě náklaďáčku a mluvěj. Pani Kropková mává praporem s nápisem Pravda vítězí a pani Holasová a pani Dašlerová a další lidi mávaj československýma vlajkama a různejma náboženskejma praporcema, co jsem je naposledy viděl tehdá v kostele… A velitel Žinka celýmu shromáždění říká, že zlé časy pod knutou sovětismu a bolševismu se už nikdy nevrátí a že naši představitelé v čele se Sašou Dubčekem…! Hurá! Hurá! řvou teď všichni i my Psanci… nikdy nezradí lid! Pak si vzal mikrofon pan Holasa a četl z papíru, že to je papír z Prahy a že tímto se vyhlašuje Siřemská autonomní zóna… Siaz! a že na mnoha místech republiky vznikají zóny odporu proti vstupu cizích vojsk. A všichni strašné tleskaj, pak zas mluví do amplionu velitel Žinka a říká, že armády Sovětského svazu stojí na hranicích, ale že Západ nás tentokrát nedá, že druhý Mnichov se opakovat nebude! A pak mu amplion vytrhne pan Holasa a vykřikne: Jen ať přídou… dáme jim do držky! A všichni tleskaj a křičej a radujou se, lidi trouběj na klaksony aut a traktorů, co tu jezděj plný vlajek a vověšený lidma, a pak zpívaj: Povstanou svatí válečníci z Blaníku… Některý lidi si teď klekaj a bijou se do hrudí a pak začnou všichni zpívat: Kde domov můj… voda hučí po lučinách… a tak dál, to je hymna naší vlasti, to jsme se učili a to se nesmíme nikdo ani hnout a já koukám okolo, a ti, co klečeli, se zas rychle zvedaj a všichni lidi sundali z hlav hučky a čepice a některý brečej, nevim proč!, mě všichni serou, Mikušinec s Pátou začnou taky fňukat, ale jen si dělaj prdel… A pak je chvíli ticho, aby všichni mohli svý slzy odcáknout na zem.
 
 Pak teprv vypukne tartas a volání Sláva! a Hurá! a hučky a čepice lítaj vzduchem a ti, co maj vlajky, jima mrskaj sem a tam, civim, nedávám pozor! a vtom mě někdo čapne a zatáhne do uličky a pak ležím na zemi a nade mnou je ministrant Holý a ještě dva tam jsou a Holý mi řiká: Čau, Avare! A pak mi zkroutěj ruce a táhnou mě někam mezi chalupama a mně je to jedno.
+
+</section>

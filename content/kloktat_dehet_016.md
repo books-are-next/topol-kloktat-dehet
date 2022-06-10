@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 11\. Přátelení.  
 Ségry jsou ségry. Zabíjení
 
@@ -223,3 +225,5 @@ Co budeš dělat potom?
 To je jedno, řekne. Už di.
 
 Jdu sklepem a říkám si, že kdyby mě sek, tak je to stejný. Jdu sklepem a nevidim ani žádný stíny, protože svíčky si tam Margaš nechal, aby viděl.
+
+</section>

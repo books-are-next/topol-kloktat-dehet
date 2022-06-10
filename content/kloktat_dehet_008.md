@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 3\. Sestry. Tartas. Venku je ticho.  
 To on sám!
 
@@ -20,7 +22,9 @@ A jeden dlouhokošiláč se rozbulel, u okna byla zima a možná mu někdo š
 
 A pak v celém domově nastal tartas.
 
-  
+</section>
+
+<section>
 
 Vopičák se dral z postele, divil se, že polední klid je plný rámusu a řevu, on měl přes postel síť. Já ho ven nepustil. Šel jsem se podívat, co se děje. Vopičák na mě civěl skrz síť. Vrátil jsem se a dal mu chleba. Celej kus, co zbyl. Chtěl víc.
 
@@ -74,7 +78,9 @@ Konečně jsem Vopičáka rozvázal. Hned mě chyt za krk a nechtěl se pustit.
 
 Karel stál nad náma a řekl: Až s nim budeš hotovej, tak přiď do sklepa, jo? Máme poradu, jo? Pak s Mikušincem odešli.
 
-  
+</section>
+
+<section>
 
 Bylo mi jasný, že Vopičáka sám neunesu, a Karlovi ani Mikušincovi jsem říkat nechtěl. Jim všem z něj bylo na blití.
 
@@ -189,3 +195,5 @@ Vědí toho spoustu o Kupečáku. Ale já tu byl, když byl domov Domov baráke
 Dopiju a hážu prázdnou láhev na podlahu. Někdo otevře dveře. Je to Páta. Poďte, říká.
 
 A jdem, legračně padám. Karel mě táhne za rameno. U kuchyně je na podlaze krev. Chci hochům říct, že to je krev z dlouhokošiláků, který bosí lovili okurky v skleněný tříšti, ale nemůžu mluvit, protože mi padá jazyk.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### 15\. Něznáju! Úkol Veselé písničky.  
 Starost kapitána Jegorova. Mořská
 
@@ -18,7 +20,9 @@ Něznáju, řekl jsem.
 
 To jsem neměl říkat, to kapitán Jegorov neměl rád.
 
-  
+</section>
+
+<section>
 
 Zprávy jsme poslouchali každý den. A kapitán Jegorov se chmuřil a kabonil, neboť povstání se rozhořelo.
 
@@ -40,7 +44,9 @@ Vždyť některá místa jsme projeli již víckrát. Znovu jsme dlouhou oklikou
 
 Naše bludná kolona se motala krajem a z toho zabíjení lidí nám bylo všem špatně. Ale co se dalo dělat? Rusové byli sami v cizí zemi a já byl sám mezi nima. Co jsme mohli dělat?
 
-  
+</section>
+
+<section>
 
 Dagovi byla sňata pouta, ale kapitán Jegorov, rozezlený trpaslíkovou neschopností podat vysvětlení o osudu cirkusu Hygea, ho nechal přivázaného na laně a konec toho lana byl svěřen mně.
 
@@ -68,7 +74,9 @@ A Dago zmlknul. Vypínal velkou hlavu na tenkém krčku, asi dával pozor, zda 
 
 Koukal jsem na svoje nohy, které vedle těch skrčkových nožiček visely z tanku, sledoval jsem zašpendlené a ohrnuté rukávce tankistické bundy, doufal jsem totiž, že jsem snad možná zase o kousek povyrostl. Musim si to dětství odbýt co nejdřív, umiňoval jsem si během drkotavé jízdy našeho tanku po silničce mezi Kupečákem a polema plnýma prachu, kde tohoto léta nic nerostlo, tiskl jsem se k čelnímu pancíři a čekal, až dětství skončí.
 
-  
+</section>
+
+<section>
 
 Kapitán Jegorov byl stále zakaboněný, večer mi sice nohy svazoval a ráno rozvazoval, ale choval se ke mně pěkně, na automatčíky však často štěkal úsečné povely a stále častěji hovořil o stavu zásob našich pohonných hmot a velmi často triedrem zaměřoval obzor a také zkoumal mé mapy a mně bylo jasné, že hledá Siřem, neboť štvavá siřemská vysílačka ho rozčilovala ze všeho nejvíc.
 
@@ -88,7 +96,9 @@ Pak si ten druhý Čech na prsou roztrhl košili a vykřikl, že chce taky zem�
 
 Tank pásem rozdrtil kýble s barvou, barva na štětcích, co se válely po zemi, se ve slunečním žáru spekla, vypadala jak asfalt, nebyla k ničemu.
 
-  
+</section>
+
+<section>
 
 Popsaný dům je vesnická škola s vyraženými dveřmi a vysklenými okny, vypadá to, že v domě se bojovalo, strop v jedné třídě je provalený, všude jsou haldy suti, ale ke krátkému odpočinku se budova hodí.
 
@@ -112,7 +122,9 @@ Dago mluvil o tribunálu a já teď myslím na starou pohádku o Fedotkinovi,
 
 Kdybych ale kapitánu Jegorovovi utekl špatně a on by na mě zas nějak narazil, už by na mě hodný nebyl, určitě ne. A že si při zdrhání musím dát bacha i na povstalce, to je jasný. Vím, že musím zdrhnout. Potíž je v tom, že znám jen svět svých map. A teď netuším, jak se z něj dostat.
 
-  
+</section>
+
+<section>
 
 Chvilku odpočinku náhle rozbily tlumený výkřiky automatčíků a prapodivný skřípot, rozléhající se dosud klidným letním odpo­lednem. Vyrazím z třídy.
 
@@ -197,3 +209,5 @@ Zachránili, jo? povídám já.
 Tak jsme se domluvili.
 
 A ráno naše kolona vyrazila na Siřem.
+
+</section>
