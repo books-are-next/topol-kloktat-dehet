@@ -6,8 +6,6 @@ contentType: prose
 ### 3\. Sestry. Tartas. Venku je ticho.  
 To on sám!
 
-  
-
 Běžel jsem po schodech, málem jsem do vojáka vrazil. Měl pušku. Přilbu neměl.
 
 Co tu běháš? vykřikl. Prolít jsem kolem něj jak krysa, vběhl jsem do jídelny třídy a skrčil se za dveřmi, ani vousky by mi nekoukaly, ani krysí ocas… V jídelně třídě stály sestra Zdislava a Albrechta, Eulálie a Emiliána a sestra Dolores taky, v rukou měly uzlíky a byly v cestovních pláštích, okolo nich stáli vojáci nebo policajti z komunistickýho povstání a jeden komunista říkal: Každá jen pět kilo, řek sem! Sestry postávaly v houfku, vypadaly jako slepice na obrázku v učebnici českého jazyka, stály tam jak špatní žáci, když neznají úlohu. Pak jedna ze sester řekla: Ano, pane, a ten komunista řekl: Už není pánů, a zasmál se, a pak komunisti strkali do sester pažbama pušek a jeden z nich vykřikl: Řadit se! A hnuli se, prošli dveřmi od jídelny třídy na chodbu, já se choulil za dveřmi, sestry mě neviděly, ani sestra Dolores, ta šla poslední, pak už jsem ji nikdy neviděl. Sestra Eulálie se náhle rozeběhla ke dveřím naší ložnice menších hochů a komunista ji zas zahnal do houfu.
@@ -21,6 +19,8 @@ A jeden dlouhokošiláč se rozbulel, u okna byla zima a možná mu někdo š
 Šel jsem za Vopičákem, říct mu, co se stalo.
 
 A pak v celém domově nastal tartas.
+
+  
 
 Vopičák se dral z postele, divil se, že polední klid je plný rámusu a řevu, on měl přes postel síť. Já ho ven nepustil. Šel jsem se podívat, co se děje. Vopičák na mě civěl skrz síť. Vrátil jsem se a dal mu chleba. Celej kus, co zbyl. Chtěl víc.
 
@@ -73,6 +73,8 @@ Dlouhokošiláci se začali svlíkat, teď se styděli. A Karel na ně zadupal:
 Konečně jsem Vopičáka rozvázal. Hned mě chyt za krk a nechtěl se pustit. Radoval se, že jsem ho našel.
 
 Karel stál nad náma a řekl: Až s nim budeš hotovej, tak přiď do sklepa, jo? Máme poradu, jo? Pak s Mikušincem odešli.
+
+  
 
 Bylo mi jasný, že Vopičáka sám neunesu, a Karlovi ani Mikušincovi jsem říkat nechtěl. Jim všem z něj bylo na blití.
 

@@ -6,13 +6,13 @@ contentType: prose
 ### 7\. Mariáni. Nový věci.  
 Kudla, sůl a sirky. Velitelem čety!
 
-  
-
 Kuchyň byla plná ubulenejch dlouhokošiláků, který se dožadovali chleba a čaje. Margaš šel do velitelského stanoviště. Velitel Vyžlata ustanovil, že velitelské stanoviště je v pracovně sestry Leontýny.
 
 Šťouchnul do mě Silva, bavil se s dalšíma dlouhokošilákama, povídá: Co se děje? Nás tu zamkli. Řekl jsem: Nástup k pracovní povinnosti! A Silva zamumlal: Neser bohy, ale další dlouhokošiláči se postavili do pozoru a Silva se pak taky zařadil… a já zařval: Ticho tady bude! K výdeji chleba seřadit! K výdeji čaje seřadit!
 
 Kluci, který jsem určil, skočili za pultík s chlebem a taky k velkýmu kotli čaje, kde byla naběračka, a mrňousové se strkali, ale když jsem zařval, tak udělali řady, a chleba nebyl namazanej a ten čaj byl studenej, ale to nevadilo, já si už dávno všim, že když maj malí strach a je zmatek, je dobrý je seřvat. Oni se pak tolik nebojej, a ten co řve, se už taky tolik nebojí. Sedl jsem si na lavici.
+
+  
 
 Za chvíli se otevřely dveře a já se postavil do pozoru k hlášení, ale velitel Vyžlata si mě nevšímal a nikoho si nevšímal… rozkaz byl jít spát okamžitě. Velitel zmizel za Margašem, do velitelského stano­viště. Pracovní čety byly schlíplý a všichni byli zmrzlý zimou a vlekli se nahoru do druhýho patra bez řevů a tartasu. Akorát se pak vrátil Mikušinec a Karel a pomohli mi zahnat dlouhokošiláky do jejich ložnice a mrňousové blbli.
 
@@ -46,6 +46,8 @@ Odlez jsem do svý postele. Byl jsem hrdej, že znám tajemství Psanců. Co tak
 
 Umínil jsem si, že Margašovi řeknu, ať jde taky do cizinecký légie. Vopičáka vezmem s sebou a pohřbíme po cestě na krásným místě. Moc se mi líbilo, jak Margaš říkal, že mě viděl ve snu. Byl jsem strašně pyšnej a šťastnej, že jsem v něčích snech. Zase jsem nemoh usnout, ale usnul jsem.
 
+  
+
 Ráno jsme se vzbudili jako každý den v novém životě domova Domova, ale byl to úplně jiný den, nejen kvůli večernímu ohni se střelbou kvůli Šklíbovi, ale také protože přijelo auto s velitelem Baudyšem a my nepracovali na čištění domova Domova.
 
 Velitel Vyžlata nám při ranním nástupu velitele Baudyše krátce představil.
@@ -63,6 +65,8 @@ Věděli jsme, že zamčené věci zas uvidíme, budeme je držet v rukou a č
 Velitel Baudyš měl píšťalku na krku, byl celý v teplákové soupravě a s velitelem Vyžlatou si říkali: Stará vojno, a pak velitel Vyžlata v trenýrkách a tričku předvedl veliteli Baudyšovi rozcvičku se všemi cviky a velitel Baudyš říkal: Tohle bude útvar eňoněňo… Já cvičil v řadě a v řadě za mnou stál Margaš a dělali jsme zrovna dřepy a já mu šept: Tenhle chlap s píšťalou, co ten? A Margaš syk: Ten ve snu nebyl. Velitel Baudyš byl obrovský a měl určitě daleko větší sílu než velitel Vyžlata, tak jsem byl rád, že jeho jsem v Margašově snu zabít nemusel.
 
 My nešli do légie, radovali jsme se ze vzduchovek a bavili se, kdy asi dostanem teplákové soupravy a chlebníky a kotlíky, a Mikušinec řekl: S kotlíkem se dá tábořit v lese! A Páta se zasmál a řekl: Bez ničeho se dá tábořit v lese! A Dýha zařval: Se svým pérem se dá tábořit v lese! a všichni se strašně smáli a Chata řekl: Kudla, sůl a sirky… A pak Bajza společně s Chatou zařvali: Kudla, sůl a sirky! A hned se k nám přimotal Silva a další malí bakeliti a začali na Chatu a Bajzu jako útočit a všichni volali: Kudla, sůl a sirky! Kudla, sůl a sirky! a já si všiml, že ty slova říkám rtama taky. A Karel povídá: Bude jaro a každej myslí na zdrhání… Stáli jsme ve sněhu, ale nebyl mráz a Karel říká: Kudla, sůl a sirky, to je cigošský heslo… já když poprvý zdrh, tak sem neměl ani kudlu, ani sůl a žádný sirky… a já se skoval na hřbitově, ale v noci tam někdo chodil, ty vole! Já měl strach… Pak sme se srazili, a tak sem se seznámil s Pátou, krad kytky a dával je babkám za jídlo, a pak sme ty kytky poznávali, babky je nosily zpátky. Čapli nás a poslali do Siřemi! A já se Karla zeptal: Je možný, že by měl kluk za tátu vlka? Když jsem viděl, jak na mě čumí, hned mě napadlo, že to ve dvacátym století možný není, a vtom zazněla píšťalka a velitel Baudyš volal: K fasování výstroje nástup!
+
+  
 
 Jednoho z prvních dní výcviku jsem vynášel uhlák a v chodbě proti mně šel Margaš a jako do mě vrazil a zašeptal: Udělej to brzo!
 
@@ -103,6 +107,8 @@ Svazek map jsem nosil pod teplákovou bundou, opakoval jsem si názvy a jména 
 Prohlížel jsem si mapy kreslené na lejstra a někdy jsem oči zavřel a viděl jsem Louny se spletí chalup a rybníčků a mostků a kapliček, viděl jsem tisíce panů Cimburů, jak opatrně zvedají nohy, a tisíce paní Kropkových, jak drhnou podlahy, a tisíce velitelů Baudyšů, jak říkají: Stará vojno! A běhal jsem tam já, anebo to bylo tisíc Iljů, a běhali jsme uličkama a vyhýbali se autům a psům a četli jsme spoustu názvů a jmen z cedulí a rozcestníků, a pak se stalo, že jsem tam byl jenom já a Margaš, a to bylo nejlepší.
 
 Procházeli jsme ulicema a brali z chalup jídlo a věci, jak se nám chtělo, a pak jsem už nic neviděl, spal jsem.
+
+  
 
 Při našich cvičeních jsme mnohokrát pochodovali, plížili se anebo utíkali přískoky na okrajích Kupeckého lesa a vnikali do něj.
 

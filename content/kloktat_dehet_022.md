@@ -7,8 +7,6 @@ contentType: prose
 Útok démonů. Vejce.  
 Třetí válka a poslední televize
 
-  
-
 Pokud měl kapitán Jegorov po zařazení Bulharů do tankové kolony Veselá písnička pocit, že jeho štěstí se zlepšilo, já věděl, že moje se zhoršilo. Navíc jsem měl spoustu práce s Dagem. Dago na falešné Bulhary pokřikoval: Svoloč, a strašně je nenáviděl, byli pro něj hanbou všech cirkusů, zatímco on byl jejich ozdobou, a snad vzpomínal na zářné chvíle, kdy vojáci kolony žasli nad jeho salty, protože na jeho protesty proti bulharským artistům vojáci nedbali a Dago se zmenšil, zas do sebe vrost a o dění v koloně se vůbec nestaral. Spolu jsme se ale bavili.
 
 Vojáci kolony měli z našich Bulharů a jistě nejvíc z Mořské velikou radost.
@@ -38,6 +36,8 @@ O tajný zbrani jsem ještě neslyšel, tak Daga nechám mluvit, jen mu trochu 
 Poslouchej, Iljo! Jsme oba v český kaši, ve válce Východní říše se Západem! A víš, co my, který sme uprostřed, musíme dokázat? Musíme přežít, je ti to jasný? A to bude těžký! Jestli armády Východní říše proti západním silám Nato použijou tajnou zbraň, nastane Armagedon, fantastická bitva! Víš, co je to Armagedon? Ne? No tak se to asi dozvíš.
 
 Já Daga poslouchal, cesta aspoň ubíhala, a když neječel, tak jsem ho ani nemusel přetáhnout lanem. Dago dával hádanky, pohádky vymejšlel po celou cestu… Taky jsem si říkal, že se vytahuje… Špion je možná víc než diverzant, ale když je čapnou v nepřátelským zázemí, tak jdou oba ke zdi, a to bez řečí… to stojí v Manuálu diverzanta černý na bílým. Tak co se na mě vytahuje, skrček, nechápal jsem.
+
+  
 
 Táhli jsme na Siřem. Když mě kapitán Jegorov večer přivazoval k pytlům, ani na mě nekouknul.
 
@@ -101,6 +101,8 @@ Bylo to obrovské vejce s šedivou, jakoby koženou popraskanou skořápkou.
 
 Po tváři našeho kapitána Jegorova, po jeho zaprášené tváři, pohublé a strhané nevyspáním, po tváři, do níž své mapy vepsala únava a zodpovědnost a strádání, nyní kanul lesklý potůček slz. Raději jsem zavřel oči.
 
+  
+
 Další slunný den mě na čelním pancíři zastihl plného starostí.
 
 Naše kolona se rozrostla o další cirkusový kontingent a vše nasvědčovalo tomu, že štěstí kapitána Jegorova se opět zvětšilo a že z trosek rozprášeného Socialistického cirkusu dokážem vybudovat alespoň obstojné varieté, jak se vyjádřil skrček Dago.
@@ -151,6 +153,8 @@ Koukal jsem na svý docela vzrostlý ruce a nohy, vzpomněl jsem si, jak tehdy 
 
 Ano, sípe zas Dago, dinosauří vejce snad kapitána Jegorova zachrání před tribunálem… pokud by se totiž z vejce vylíhl drak, bylo by to považováno za velkolepé vítězství armád Varšavské smlouvy a komunismu vůbec. Ano, opravdický drak by mohl situaci zvrátit ve prospěch Sovětů, brumlal trpaslík a… třeba ještě někoho potkáme. Co myslíš, Iljo?
 
+  
+
 Zazněl pokyn a my zastavili u pole spáleného sluncem, táhlo se od silnice až k černým shlukům stromoví lesa, smykl jsem se z tanku a nechal Daga bejt… Dago kapitána nezná, ale já jo, a tak je mi jasný, že kapitán se podivoval vejci a sebral ho pro jeho podivnost, tak jako sbírá mnohý jiný neužitečný věci z kostelů a chalup. A malý šípovníky zpražil rozkazem, museli mu vejce vydat, a teprv pak je zařadil do kolony, tak se to v armádě dělá, Dago neví nic… Radoval jsem se, že jsme zastavili, měl jsem už kodrcání tanku a Dagova povídání ažaž. Ale po hltu se skrčkovi poohlídnu, slíbil jsem si.
 
 Procházel jsem kolonou a zdravil se s vojíny a kýval na jejich pozdravy a zvolání a vojáci na sobě upevňovali řemení, a ti kteří teď neměli přilby, ale čapky, většinou čapky sundávali a nasazovali si přilby, neboť mít na hlavě čapku znamenalo riskovat, ale poblíž Siřemi se nikomu riskovat nechtělo, očekávali jsme, že tam, kde je štvavý vysílač, budou i ozbrojenci, kteří ho střeží, a muži naší kolony chtěli to hnízdo fanatických banditů konečně zničit. Mnozí využili zastávky, aby dali do pořádku výstroj a výzbroj, někteří vojáci se loudali pár kroků od tanků v šedivém prachu pole, protahovali se, ale byli ostražití! Pokud se bandy definitivně nestáhly… možná se vzdaly jiným sovětským oddílům… s tím jsme ale moc nepočítali… už jsme věděli, že Češi se nevzdávají. Chovali jsme se tedy, jako by byli všude kolem nás.
@@ -170,6 +174,8 @@ A kdo je tvůj táta? povídá rusky.
 Muj táta je vojenskej velitel kapitán Jegorov! odpovim a kluk našpulí rty a pokejvne a povídá: Hhmm… a já myslim, že mi ten kluk normálně závidí. Strčí ruku mezi mříže, hodí do klece myš, vlk hne tlamou, překousne myš vejpůl a hned ty vyvalený střívka a rozježenou kůži žvejká.
 
 Otočim se a jdu pryč. Denaturák nemám. Dago bude muset vy­držet bez něj. Třeba aspoň na chvíli sklapne, myslím si. Kdybych tušil, že Daga už nikdy neuvidim, myslel bych si něco jinýho.
+
+  
 
 Slyším výstřel a pak další. Jsou to varovné výstřely do vzduchu. Polem plným prachu k nám pomalu jde houfec žen a dětí, mají šaty šedivý od hlíny a prachu… blížej se k nám, už jsou blízko tankové kolony, v rukou maj naostřený klacky, ryly do hlíny… Kapitán Jegorov asi ponechal vejce v hlubinách tanku v péči vybraných poddůstojníků, jde k zástupu žen a choulících se dětí, ohlíží se… a to hledá mě…! prolezu mezi tankama a následuju svého kapitána do pole, tankistická bunda kolem mě plandá, jako bych byl nějakej dlouhokošiláč, ale dlouhokošiláč už nejsem pěkně dlouho… Jdu za kapitánem a ženy se před náma rozestupujou a nekoukaj se na nás a kapitán se jich vyptává, klade otázky a já jdu za ním a všechny ty otázky po něm říkám česky, což je pro mě lehký. Kapitán Jegorov se žen ptá: Kde máte muže? Kde jsou banditi? A ženy odpovídaj: Něznáju, takže ani nemám co tlumočit. A najednou stojim před pani Kropkovou a ta je v obličeji tak šedivá, že bych ji nepoznal, kdyby neřekla: Ty chudáku, tebe měli zadusit tyčkou v břiše tvý mámy, ty tatarská vopice zrádná… Vedle paní Kropkové stojí holka v obličeji bílá a šedá a celá je vychrtlá a poničená a já nemůžu uvěřit, že to její teplý a měkký a pevný prs jsem měl v dlani… Pani Kropková mi pořad nadává a některý ženský se už před našima kročejema a otázkama nerozestupujou, smějou se… Ruskej votroku, hajzle zrádná! nadává mi pani Kropková a ještě mi nadává víc, přes její rameno koukám na Hanku, co kouká akorát k zemi a celá se za mámu skovává. Pani Kropková říká: Kryso křivá, zdechni sám a ať tě to bolí, parchante špinavej. Tohle je proklínání a to uměj v Siřemi všichni, to se nemá… Přistoupí k nám kapitán Jegorov, ptá se, co ta Češka říká, tak mu řeknu, že má hlad.
 
@@ -192,6 +198,8 @@ Hanku jsem už neviděl. Ani pani Kropkovou. Zdrhly nebo co. Tohle bylo nejhorš
 Holky z křovin vylejzaly docela potichu. Vojáci hrozně nahlas povídali a taky se smáli a všelijak se oprašovali. Holky, co vylezly z křoví, se přidaly k houfům na poli. Všechny se pak hnuly, vedly děti, ty úplně malý nesly, šly dál do šedivýho pole, kde nic nebylo.
 
 Vrátil jsem se k čelnímu pancíři, ležely tam jen provazy, a Dago nikde. Byl pryč. Naštěstí se po něm nikdo neptal. Vždyť jsem ho měl na starost.
+
+  
 
 Vesnička Ctiradův Důl byla posledním opěrným bodem před konečným útokem na Siřem.
 

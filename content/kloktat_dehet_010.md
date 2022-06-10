@@ -6,8 +6,6 @@ contentType: prose
 ### 5\. Slibuju! Práce začala.  
 V zimě se nezdrhá
 
-  
-
 Druhý den začalo první jitro nového života a pan Vyžlata byl všude.
 
 A dali jsme se do čištění.
@@ -48,6 +46,8 @@ Poloudušený jsme klopýtali do patra a po schodech dolů. Před domovem Domov
 
 Ano, řekl velitel Vyžlata, který najednou stál ve dveřích. Byli mrtví, ale dali svůj slib, a teď jsou hoši s novým životem. A to vás čeká všechny.
 
+  
+
 A začala nám práce. Než jsme se mohli pustit do čištění pater od mrtvých jazyků, museli jsme se seřadit a spočítat, aby velitel Vyžlata věděl, kolik nás je. Nám tohle bylo jedno.
 
 Teď jsme my, trenýrkáři, museli lovit všelijak zaběhlý, poztrácený a poschovávaný mrňouse, a ti byli všude… některý buleli a dovolávali se sester a některý byli podělaný a jiný řvali hlady.
@@ -72,6 +72,8 @@ Jo, vykřik Šklíba.
 
 Ale sestry jsou jeptindy a ty tu nebyly. Tak tu nebyly a hotovo. Však ty si to, chlapče, uvědomíš, řekl velitel Vyžlata.
 
+  
+
 První den nového života skončil tak, že jsme třídili menší a nejmenší dlouhokošiláče. Shromáždili jsme je v prvním patře a velitel Vyžlata šel kolem jejich zívajících řad a ukazoval, ty doleva, ty doprava… Ty, které nám nakázal, jsme zahnali do ložnice nejmenších, šklebili jsme se na sebe a mrkali, protože jsme čekali na tartas a brekoty! Na jekot a řev! Velitel Vyžlata se ale s mrňousama v ložnici zavřel. Byl tam jen chvíli, a když vylezl, tak žádnej tartas nenastal. Byli zticha a spali.
 
 Nestačili jsme ani bejt udivený. Velitel Vyžlata pokynul a šli jsme do jídelny třídy a rozesadili se k vyučování.
@@ -91,6 +93,8 @@ Všichni jsme volali: Já, já, já! Velitel Vyžlata pokynul a teď k němu p
 Představuji vám tedy chlapce…, velitel Vyžlata ukázal na novýho kluka, … jmenuje se Margaš! řekl velitel a usmíval se do našich řad. Tak jsme se taky smáli a Bajza vykřik: Guláš! a smíchy vypad z lavice a kopal nohama.
 
 Velitel Vyžlata rozpřáhl ruce, aby bylo ticho, ale nebylo, teď vzduchem začaly lítat šutýrky a kousky tužek a co měl kdo v kapse, my spustili tartas, mlátili jsme dlaněma do lavic a dupali a velitel Vyžlata stál s rozpřaženýma rukama a naslouchal tartasu. A velitel Vyžlata šáhnul do kapsy a vytáh velkou černou pistoli a prásk…! to byla strašná rána! a kulka z velký černý pistole se zaryla do stropu jídelny třídy nad našima hlavama, a když se ze stropu odloup proužek omítky a spadl někam mezi nás, tak bylo ticho. Velitel Vyžlata zastrčil pistoli do kapsy a řekl: Děte spát.
+
+  
 
 Už jsme se nesmáli. Byli jsme strašně unavený. Šlapali jsme do druhého patra, do ložnice trenýrkářů.
 

@@ -5,8 +5,6 @@ contentType: prose
 
 ### 12\. V palbě
 
-  
-
 Psanci venku nebyli. Bylo mi to jedno. Měl jsem v hlavě obrazy, jak zabíjíme Vyžlatu. Všechno se stalo tak rychle, že mi obrazy začaly naskakovat až teď. Když jsem se zastavil, zasek se v hlavě i obraz. Chodil jsem rychle, abych obrazy viděl všechny co nejdřív, aby se přestaly ukazovat.
 
 Pak najednou slyšim: Seš to ty, chlapče? Pan Kropáček má v rukou pušku a povídá: Siaz! A teďka ty řekni heslo! Řekl Siaz, tak řeknu: Čechie! a pan Kropáček kejvne a říká: Poď za mnou, hochu! A já šel za ním, kam jsem měl jít.

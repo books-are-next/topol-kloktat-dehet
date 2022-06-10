@@ -6,8 +6,6 @@ contentType: prose
 ### 6\. O Fedotkinovi. Hanka.  
 Čištění. Novej kluk
 
-  
-
 Ráno jsme v kuchyni topili v kamnech a myli se u lavorů tak jako vždycky v zimě a někdo povídá: Myslíte, že už dovezli vzduchovky? A Páta zařval: Jupí!, a pak slyšíme velitele Vyžlatu: K výcviku ve zbrani dojdeme později, hoši… Velitel nás vyvedl před domov Domov a na ostrém vzduchu spustil rozcvičku… sám měl jen tílko a trenýrky a předcvičoval, a když ti nejmenší dlouhokošiláci popa­dali do sněhu, tak určil mě a Pátu a novýho kluka Margaše a my cvičili s nejmenšíma a dbali jsme o ně, a když sebou některý praštil, tak jsme ho zvedli… Mrňousům se líbilo padat do sněhu, když jsme je já nebo Páta nebo Margaš chytali, takže myslím, že my tři jsme toho rána cvičili nejvíc. Pak jsme Margaš a já najednou hmátli po jednom dlouhokošilákovi, kterej obzvlášť rád zběsile padal, a srazili jsme se čelama. Zvedali jsme se ze země a já koukal na jeho zpomalený pohyby a připadalo mi, že se dívám do zrcadla, a řekl jsem: Bacha! a on řekl: Jasně! Takže mluvil česky.
 
 Po rozpohybování rozcvičkou teprv nastala práce.
@@ -15,6 +13,8 @@ Po rozpohybování rozcvičkou teprv nastala práce.
 Začali jsme čistit domov Domov od hald papíru.
 
 Naštěstí jsme začali v patrech, protože kdybychom začali ve sklepě, velitel Vyžlata by hrob na dně sklepa našel, to já věděl.
+
+  
 
 Naše čety se střídaly ve vynášení starého papíru a v jeho pálení na místě, které jsme vyčistili od sněhu, před dveřmi domova Domova. Čety se střídaly, aby byli všichni hoši dostatečně dlouho na čerst­vém vzduchu.
 
@@ -27,6 +27,8 @@ Již prvního dne velitel Vyžlata oznámil, že my starší nemusíme v poledn
 Dny nového života zasvěceného práci a později i učení šly jeden za druhým a portrét vojína Fedotkina byl na zdi vymalován v barvách velmi brzy a velitel Vyžlata malbu drobnými štětci ještě vylepšoval.
 
 Večer jsme se už mezi sebou nebavili. Velitel nás uspával, abychom po večerech nemrhali silami a ráno vstali odpočatí a plni chuti k práci a učení.
+
+  
 
 Velitel Vyžlata nás uspával stejně, jako uspával bezprizórnyje ve čtyřicetistupňových mrazech v barácích Vorkuty. Velitel Vyžlata nám vyprávěl o synovi pluku.
 
@@ -77,6 +79,8 @@ Co čučíš, ty chudáku! říká mi pani Kropková docela potichu. Po všem to
 Obcházel jsem před Domovem. Kam je velitel všechny hnal? Šel jsem po stopách Kropkovýho auťáku, za roh.
 
 A tam jsem Hanku viděl zas. Seděla zabalená do deky a koukala přímo před sebe. Zaťukal jsem na okýnko. Co já chtěl? Nevím. Ještě jednou jsem zaťukal na sklo. Nevim, co si myslela. Víckrát nepřijeli. Pak už to ani nešlo.
+
+  
 
 A každý den jsme stáli u ohně a bidly a hráběma nazvedávali haldy stránek a lejster, aby dobře prohořely. A občas vyšlehl plamen vysoko a stěna ohně se nad námi převalila a trčela do vzduchu a oheň se se syčením smyk zas k zemi. Někteří z nás nadšením řvali a tancovali, zvlášť když velitel vydal rozkaz a my pálili i knihy, ze kterých nás učily sestry, totiž Katolickou dějepravu a Slabikujeme s Ježíšem… a další knížky. Kluci se neučili rádi, já Katolickou dějepravu schmát. Vždyť já kolikrát musel hlídat Vopičáka, když se kluci mohli učit, a tak jsem si teď knížku prohlížel a čuměl jsem na všechny ty zvířata, veleryby a zeměkoule. Schoval jsem ji pod polštář, desky jsem z ní strhnul a hodil je do ohně. Pozdějc jsem dal Katolickou dějepravu pod teplákovou bundu… Po večerech jsem čučel do knížky a zachraňoval se tak před Vopičákovou tváří, dokud nepřišel velitel.
 
