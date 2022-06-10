@@ -6,8 +6,6 @@ contentType: prose
 ### 14\. Zdrháme! Zvířata. Luka.  
 První kurhan
 
-  
-
 Rozřízl plátěnou plachtu stanu, vstoupil dovnitř, přitiskl se k jednomu z pytlů a v šeru svítání s ním splynul.
 
 Nevěděl jsem, jestli je to Čech vyslaný zavraždit kapitána Jegorova, uloupit jeho bojové poklady, nebo nějaká příšera z Kupečáku. Měl jsem tvář u jeho bot, ale nebyly to boty, byly to botky, a viděl jsem, že jestli je to člověk, musí to být velice malý člověk, a v prvním okamžiku jsem se domníval, že je to možná někdo z Psanců, ale nebylo tomu tak.
@@ -21,6 +19,8 @@ Ale teď přemýšlet nemůžu, malý člověk bojuje zuřivě a obratně, a z
 Automatčíci mě odvlekli za provaz, který jsem měl uvázaný kolem kotníků, odřízli mě od pytlů a dál mě venku střežili ústími napřažených zbraní.
 
 Ve stanu zůstal kapitán Jegorov a několik poddůstojníků a nastal výslech nočního tvora, to jsem pochopil podle jeho řevu, konečně jsem tedy slyšel jeho hlas a byl to hlas chlapa, a že je vyslýchán, bylo jasné, rány do tvora dokonce jednu chvíli vybulovaly plátno stanu, byly vidět obrysy tvorova tělíčka. Byl menší než ten nejmenší dlouhokošiláč v domově Domově. Všichni venku jsme strnuli, protože poté, co řev neznámého chlapa ve stanu vyvrcholil v naříkavém kňučení běžném při výsleších, překvapivě se změnil v dětské pofňukávání a pak v cosi, co nelze nazvat jinak než bečení mimina. Vše se vysvětlilo.
+
+  
 
 Willy Dagobert zvaný Dago byl totiž náš východoněmecký soudruh. Byl jediný, komu se podařilo probít se obklíčením, jediný z východoněmeckého kontingentu, který dokázal projít Kupečákem, vyhnout se hlídkám českých band a najít naši tankovou kolonu.
 
@@ -41,6 +41,8 @@ Pak se kapitán Jegorov k trpaslíkovi sklonil a potřásl mu rukou.
 Tleskali jsme úplně bez dechu.
 
 Zvětšit se Dago ovšem nedokázal.
+
+  
 
 Toho dne jsme neurčovali svou polohu z mých map, skrček Dago nad nimi mávl rukou a nechal tu ruku vztaženou a vytrčil prst směrem za obzor, tam, kde se v dáli asfalt silnice zdál splývat s bohatě olistěným větvovím stromů Kupeckého lesa.
 
@@ -124,6 +126,8 @@ Dago se šourá trávou a něco z tý trávy zvedá a jde ke mně. To zvíře
 
 Mlčíme, jdem zpátky k tankům, slyšíme jen tu a tam výstřel, už ne palbu, u tanků jsme za chvíli. Vlezem zas do hadrů mýho pelechu na čelním pancíři, mlčíme. Tys ji znal? ptám se. Da, řekne Dago. Dneska neutečem, to je jasný.
 
+  
+
 Přestože bitva o Luka proběhla úspěšně, osádky tanků jsou zachmuřený, neboť bezzákluzové dělo, kterým byl proveden přepad, je z výzbroje bratrské východoněmecké armády.
 
 Willy Dagobert je opět podroben výslechu, tentokrát ale přátelskému a neformálnímu. Jsem u toho.
@@ -135,6 +139,8 @@ Dago popisuje jen a jen půvaby krasojezdkyň a dlouze hovoří o grácii a 
 Kdykoli přátelští poddůstojníci během neformálního výslechu jen zmíní fakt, že situace se stala bojovou, Dago vřeští a pláče, kňučí a choulí se do sebe a poddůstojníci už nejsou tak přátelští. Poté, co Dago samotnému kapitánu Jegorovovi odmítl vydat žirafí hlavu a při tom pokousal a poškrábal několik nižších poddůstojníků, byl svázán a nechán v mé péči na čelním pancíři.
 
 Ještě během výslechu byla hlava žirafy svěřena mně. Pod dozorem příkazníka automatčíka Timoši a příkazníka automatčíka Kantariji jsem nesl hlavu podél tanků kolony až k náklaďáčkům trénu. Řidič jednoho z náklaďáčků poodhalil plachtu a já viděl pytle kapitána Jegorova a také jsem viděl mrtvoly. Mrtvoly v náklaďáčku byly ve stejných pytlích jako skvosty kapitána Jegorova. Pytle držely těla pohromadě. Pod plachty náklaďáčků ukrývali vojáci tankové kolony své padlé soudruhy. Příkazník automatčík Timoša mě pobídl a já uložil hlavu žirafy pod plachtu. Náklaďáky s našimi mrtvými pro mne tedy už nebyly tajemstvím. Věděl jsem, že sovětští vojáci mi důvěřují.
+
+  
 
 Nyní se v obci Luka pokoušíme žít běžným životem. K mým povinnostem patří i krmit vzpurného Daga. Vlastními prsty mu cpu do úst ukořistěný proviant. Spoutaný Dago sebe i mne baví tím, jak se dokáže zmenšovat a zvětšovat. Hravě dokáže z pout vyklouznout. Nehlásím to, i když bych měl.
 
@@ -148,6 +154,8 @@ Nahlédnu do hlubiny ohraničené chladnými, mokrými kameny, sluneční paprsk
 
 V noci jsme udělali kurhan.
 
+  
+
 Tentokrát mě kapitán Jegorov ke strážní službě nepotřebuje. Té noci z naší tankové kolony nespí nikdo. Obklopeni řetězcem stráží, zabezpečeni vějířovitým uskupením hlídek vydali jsme se, my vojáci tankové kolony, pod vedením kapitána Jegorova na mýtinu v lese, kde jsme strhli dobytčí ohradu. Pak jsme polními lopatkami, bodly a noži hloubili jámu. Pracovali jsme tiše, občasné cinknutí lopatky o kámen, zvuk, kdy vojáci přetrhli či přesekli kořen, nedozněl k hlídkám. Při své namáhavé práci jsme se pohybovali beze slov, tiše jako listy padající tmou do trávy lesa. Odnášel jsem vykopanou hlínu na stanovené místo. Hlína se brzy tyčila do výšky dospělého muže. Tak se staví kurhan.
 
 Za úsvitu jsme do vykopané jámy položili těla našich spolubojovníků. Jejich vynášení z obou náklaďáčků jsem se neúčastnil, moje síly na to nestačily. Mrtvoly v pytlích pokryly dno jámy. Vojáci odložili lopatky a bodla, stáli nehnutě, zbraně v rukou.
@@ -160,11 +168,15 @@ První vzal lopatku a zabořil ji do hromady vykopané hlíny sám velitel Jego
 
 Když cestu od hromady vykopané hlíny k padlým vykonali všichni muži, šli ke mně, vzali lopatky a zasypali jámu. Těla byla zasypána, vojáci na hrob vršili hlínu dál. Pracovali usilovně a brzy byl nad mrtvolami celý kopec. Na mou krátkou otázku mi automatčík Timoša poskytl úsečnou odpověď: Éto kurhan. Pak jsme po kurhanu chodili sem a tam a udupávali ho. To jsem mohl dělat. Potom vojáci na kurhan sypali suchou starou hlínu, větvičky a kamínky a listí, noži v okolí vyřezali celé křoviny, drny i mladé stromky a umně je do navršeného kurhanu zasazovali. Kopec brzy vypadal jako kopec v lese Kupečáku a ne jako pohřebiště padlých sovětských vojáků. O tomhle v příručkách nic nebylo.
 
+  
+
 Cestou lesem jsme brzy spatřili tanky, zdravili jsme se s hlídkami a pochmurná nálada, se kterou jsem se učil pohřbívat, se vytrácela… Šli jsme s automatčíkem Kantarijou poslední, neboť jsme vlekli pytel s polními lopatkami, ostatní už byli u tanků. Náhle se les kolem nás změnil v divokém zvuku, křoviny a traviny zbělely a zrůžověly, proti nám a nad našima hlavama letělo hejno velikých ptáků s obrovskými zobany. Ten otřásající zvuk byl tlukot jejich křídel. Příkazník Kantarija pustil pytel, který mi okamžitě s žuchnutím padl na nohu, automatčík Kantarija tahal z kapsy obrázek po obrázku, a když mi před oči přistrčil obrázek plameňáka, kterého já znal z Katolické dějepravy ze života světců, automatčík Kantarija nečekal na můj posudek a ječel: Flamengo! Flamengo! Vrávorali jsme i s pytlem pod letícím hejnem k shromážděné jednotce, všichni vojáci doprovázeli růžovou záplavu upřenými, vytřeštěnými pohledy, hleděli jen a jen na v dálce mizející hejno, takže kdyby nás teď Češi napadli, měli by lehkou práci.
 
 Nalezli jsme stopy po cirkuse, to bylo víc než jasné. A vraždy žirafy a hrocha naznačovaly, že Češi cirkus dokonale rozprášili.
 
 Zuřící Kantarija prosil kapitána Jegorova, aby mu dovolil mrtvého hrocha stáhnout a jeho kůží jako bojovou zástavou pokrýt pancíř tanku, obrnit náš pancíř kůží zvířete. Kantarija sliboval, že zvlášť lebka hrocha bude děsit české bandity, kdekoli nás napadnou, ale kapitán Jegorov mu ohrošit tank zakázal a chybělo málo a zuřící Kantarija mohl skončit svázaný jako Dago. Proklínání Kantarijovo se mísilo s nářkem Dagovým, v německém i ruském jazyce želel všech artistek východoněmeckého cirkusu a z jeho slov nám šel mráz po zádech, neboť jaký byl osud žirafy? Jaký byl osud hrocha? Těžko věřit, že ty přenádherné ženské bytosti pustili na svobodu jako divé ptáky, sténal Dago a bil hlavou o pancíř. Jistě upí v začouzených chalupách a podzemních bunkrech vzbouřenců, bez voňavek a mýdel a potlesku otročí vesnickým buranům, křičel, bouřil a nadával Dago a my byli rádi, že je svázaný.
+
+  
 
 Kapitán Jegorov nařídil bivakovat v prostoru obce Luka a prověřit všechny stopy po zmizelém cirkuse.
 

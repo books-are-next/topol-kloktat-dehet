@@ -5,8 +5,6 @@ contentType: prose
 
 ### 2\. Dřív
 
-  
-
 Dům šlachty je pod kopcem. Z domu se jde svahem do vesnice. Na kraji vesnice je hřbitov a tam je hrobka šlachty. V domě šlachty jsme bydleli v kuchyni. Do horních pater jsme nechodili. Pan Cimbura říkal, že hned po pádu český šlachty a vůbec všeho českýho tam Němci dali vojáka. Pan Cimbura říkal, že Hitler osobně vybral svýho nejlepšího člověka. S flintou hlídal zamčený patra. Nikdy se nenapil, ani kalíšek ne, povídal pan Cimbura. Lidskej byl, to zas jo, povídal pan Cimbura. Však bydlel ve vsi. Když byli Holasa a Kropáček na arbajtu v rajchu a Moravčík s Kropkou v koncentráku kvůli pyt­láctví, pomáhal ve vyhaslejch domovech bez mužskejch, povídal pan Cimbura, hihňal se, mrkal na mě a nahýbal si z flašky a sestra Al­brechta se mu to pokoušela zarazit. To víš, když se chlapi vrátili, hnedka se vo něj postarali. Che, v Kupečáku se jich tehdy válelo, těch germánskejch vojclů, to ti povim, řekl pan Cimbura a dál mi povídal, jak to všechno bylo.
 
 Pak sem naše krvavá buržoazní vláda dosadila zas jinýho vojáka, chlapče, československýho, nemlich takovýho, co střílel do bouřícího se, hladovýho lidu. Takovýmu zakroutit krkem je málo, povídal pan Cimbura a zároveň litoval, že jsem takový pískle, že mu v tom nečase a sněhu nemůžu doskočit do sousedství pro další flaštičku. Vo Vopičákovi se pan Cimbura ani nezmínil. No, hlídal patra, ten chlap ve vocelový přilbě s kvérem, a pak taky zmizel, nejspíš vodtáh k čertu, zámky v patrech ale zůstaly, no jo.
@@ -16,6 +14,8 @@ To byla pravda. Třetí patro bylo zamčené. Zámky byly ve dveřích, černé 
 Ale vláda lidu teprvá příde, říkal pan Cimbura. Ono to trvá, než sem nový pořádky dorazej až ze samotný Prahy. Ale dočkáme se, těš se, synku.
 
 Synku mi pan Cimbura říkal, i když jeho jsem nebyl. Já měl svý lidi v Zemi stínů. Neměli obličeje. Učil jsem se k nim chodit. To šlo, když jsem se hýbal. Kýval jsem se dopředu a dozadu a Zem stínů mě začla napadat. To jsem dělal, když jsem byl malej. To jsem dělal, než jsem poznal Hanku.
+
+  
 
 Dřív jsem znal samý dospělý lidi. Kluky žádný, jen Vopičáka. Vyrost, už se nevešel do krabice od mýdla. A sestře Albrechtě a panu Cim­burovi to došlo. Že už takovejhle zůstane.
 
@@ -66,6 +66,8 @@ Pak už nebyla taková zima. Chodil jsem k venkovním dveřím. Stál jsem na s
 Přijel náklaďák z ústředí. Chlapi v montérkách nosili do chodby postele a žíněnky. Chlapi v montérkách lítali po prvním a druhým patře s drátama a zavěšovali žárovky a chlapi z vesnice za nima chodili a svinili všude v patrech. Pani Kropáčková a pani Moravčíková a pani Holá a pani Kropková přišly s košťatama a kbelíkama a hadra­ma. Každej den myly kusy chodeb a kusy pater.
 
 Chlapi z vesnice a chlapi v montérkách z prvního a druhýho patra vynášeli balíky papíru a hromady zetlelejch knížek. Házeli je na korbu náklaďáku. Chlapi v montérkách dupali do haldy lejster na náklaďáku a pan Holasa a pan Dašler a pan Moravčík otevřeli okno druhého patra a vidlema házeli na korby náklaďáků další balíky papíru. Když byl náklaďák plnej, chlapi sešli z patra a popíjeli s chlápkama v montérkách chlast. Plácali se do ramen a do rukou. Už nebyla taková zima, ale udělali před domem šlachty oheň. Hřáli si nad nim ruce. Náklaďák jezdil sem a tam.
+
+  
 
 Kvůli Vopičákovi sestra Albrechta prosila i Čechii. Ukázala mi její obrázek. Líbily se mi její nahý prsa. Možná už jsem teda nebyl tak malej. Anebo právě jo, nevim. Chtěl jsem se na Čechii dívat pořád, ale sestra Albrechta mi obrázek zase sebrala.
 

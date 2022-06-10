@@ -5,8 +5,6 @@ contentType: prose
 
 ### 1\. Říkaly mi Ilja
 
-  
-
 Říkaly mi Ilja, všechny sestry, pěstounky a ochránkyně naše, tehdy v Siřemi, protože jako malé dítě jsem na lidi volal: iá, iá, a protože íá je české slovo pro osla, říkaly mi Ilja.
 
 Křičel jsem a volal lidi od chvíle, kdy se hlasy a tváře sester v domově Domově začaly vylupovat z bdění a snů o Zemi stínů.
@@ -119,6 +117,8 @@ Nejlépe česky mluvili v Siřemi Češi, rozptýlení mezi trenýrkáři i dl
 
 Tohle byla naše poslední zima se sestrama. To jsme nevěděli.
 
+  
+
 Dny šly a já si úplně nejlíp pamatuju tu poslední zimu, kdy začaly sestrám rupat nervy, kdy některé sestry chodily po obou patrech domova Domova i v jídelně třídě v slzách a v noci, když měly službu, tak poklekaly v chodbách, kde byly svaté obrazy, a sestra Albrechta si zapalovala cigarety, aby ji ostatní sestry neviděly, ale my chlapci jsme ji viděli dobře a někteří z nás válčili kvůli vajglům.
 
 Tu poslední zimu chodily nejmladší sestry, hlavně sestra Eulálie a sestra Dolores, se slzama v očích a přestaly nás trestat, i když jsme se po cestě do kostela šťouchali a smáli a naschvál padali do sněhu. A tehdy ráno řekla sestra Dolores sestře Leontýně: Pět kilo, ach Bože, jen pět kilo nám povolí! To bude to převýchovné středisko asi pěkně vypadat! Achich! Vždyť to nepostačí ani na knihy a prádlo!
@@ -135,6 +135,8 @@ Když sestra odešla, Vopičák zhltal všechen chleba a vypil všechno mlíko 
 
 Tulení bylo lepší. Když jsme se tulili dlouho, Hanka víc voněla. Objímali jsme se. Líbí se ti to? říkala. Moc se mi to líbilo. Hance nevadilo, jak vypadám. Jednou jsem jí řekl, že tulení musí být hezký i se sestrou Dolores. Hanka mi dala facku, až se mi v očích zajiskřilo. Hanka si nepřála, abych se tulil ještě s někým jiným. Prsa měla Hanka daleko menší než sestra Dolores. Když byla Hanka u mě v posteli, byl Vopičák většinou tichý a klidný. Možná mu připadalo, že je taky trochu u něj v posteli, a bylo to tak. Kvůli tomu, jak se Hanka starala o Vopičáka, sestry chtěly, aby z ní jednou byla taky sestra. Já to taky chtěl. Byli bychom pořád spolu. Ale to se nestalo, nebylo to možný.
 
+  
+
 V kostele nám kázal farář pan František, a protože mu ministrovali místní kluci, tak trenýrkáři v čele s Dýhou, Pátou a Karlem vždy nalezli do prvních řad, a když byl pan František i sestry zaujati modlitbou či vyprávěním o svatých a nestřežili nás, trenýrkáři si s ministranty vyměňovali posunky a ukazovali zaťaté pěsti.
 
 Ministranti se pořád drželi pana faráře, protože by osamělí mezi námi někde v kostele dostali po držce. Pan farář František vykládal, že láska je tou sladkostí světa a že kdo ji nemá, nemá nic. Sestry nás střežily a přitom si dýchaly na ozáblé prsty a my poslouchali pana Františka, protože jsme museli, a když říkal láska a milovat, tak kluci prskali smíchy, ale po chvíli jsme se už nepošťuchovali a nešklebili, mrzli jsme, protože jsme se před kostelem zkoulovali a mokrá místa na tělech nám chladla. Z místních chodily na ranní jen siřemské babky, které milovaly náboženský zpěv Šklíby i ostatních kostelních zpěváčků z našich řad a zamlouvaly si Šklíbovu pěveckou družinu na své pohřby. Některé babky jsem si pamatoval ze starých dob, kdy domov ještě nebyl Domovem a nevládly v něm sestry, a myslel jsem, že babky už si na mě nepamatují. To jsem se ale plet.
@@ -142,6 +144,8 @@ Ministranti se pořád drželi pana faráře, protože by osamělí mezi námi n
 Já byl také kdysi vybrán, abych doprovázel pohřby, ale pak bylo rozhodnuto, že pohřby budou vyprovázet jen čeští chlapci, protože to tak lépe vypadá. Zvlášť když hodně plakali, tak dostali spoustu cukroví a polívek a sladkostí a vždycky museli odevzdat daň trenýrkářům, kteří na pohřbech vesničanů odmítali plakat, a těm, co si na pohřbech přivydělávali, nadávali do ubulenců… ale bylo to jinak! Trenýrkáře na pohřbech nikdo nechtěl, protože byli vzpurní a drzí a ukradli všecko, co nebylo přibitý, a mě taky na pohřbech nikdo nechtěl a nikdy jsem ani nezpíval… a mně to bylo jedno!
 
 Zpěváčci si říkali Družina a vedla je sestra Eulálie a Šklíba byl mezi pěvci první. Ale v zimě rozezněli chlapci své kostelní hlasy jen málokdy. I panu faráři někdy v mrazech zimou drkotaly zuby jako nám, a tak při mši šturmoval, jak říkaly siřemské babky, které s námi chodily na ranní a před kostelem nám dávaly jablka a ořechy, na kterých si ti starší dlouhokošiláci vyráželi mlíčňáky, a kdo si vyrazil mlíčňáka, byl už zralý, aby se stal trenýrkářem… A tak jsem si na ořechy dával pozor, protože jsem vůbec nechtěl do horní ložnice k Dýhovi, kde si pořád honili péra a mluvili o tom, a mě to nezajímalo.
+
+  
 
 Když jsme šli ráno do kostela, vždycky jsme se seřadili, nejdřív jsme šli my dlouhokošiláci, protože jsme šli pomalu a trenýrkářům bychom nestačili. Ale když byl mráz a sníh, tak šli trenýrkáři vpředu, aby prošlapali cestu, a já si pamatuju jen a jen na mrazivá rána, kdy průvod nás dítek božích šel okolo rybníčku do kostela a ves byla úplně prázdná až na psy, co na nás štěkali… tehdy nás neznali, protože tam nebyl velitel Vyžlata, který by nás půjčoval lidem na práce. Psi nás vůbec neznali a štěkali na nás, na průvod dítek zachumlaných až po uši do oděvů a šál a čepic, které nám české děti darovaly v balících.
 
@@ -176,6 +180,8 @@ A pak jsem byl sám na chodbě před naší ložnicí.
 A skrz dveře jsem slyšel konejšivý hlas sestry Eulálie a sestry Emiliány.
 
 Nejmenší dlouhokošiláci byli vyděšení rvačkou, slyšel jsem různý brekoty, ale taky Vopičákovo spokojený: Gru, gru…, některá ze sester ho určitě chlácholí a uspává, tak se nemusim starat! Do ložnice mezi mrňousy se mi nechtělo. Když sestry z ložnice odcházely, schoval jsem se za roh a konečně jsem zjistil, že chleba, co skrývám na břiše, není rvačkou nijak poškozený. Celý domov utichl, jak se hoši ponořili do spánku a sestry asi dlely na modlitbách. Seběhl jsem z patra a stál proti velkým domovním dveřím, byly zamčené. Zkusil jsem kliku od kuchyně, ale byla taky zamčená. A pak jsem stál na schodech do sklepa, kde byla skoro tma, zdola jsem slyšel hlas a sám jsem se dolů vydal ohybem chodby po schodech… Věděl jsem, že to řve a zpívá Dýha a že je sám ve sklepě s krysama, a napadlo mě, že se na něj kouknu. Je za mříží, tak kdyby něco, stejně na mě nemůže.
+
+  
 
 Šel jsem ohybama sklepní chodby, byla tam skoro tma, někde kapala voda a já kvůli krysám dupal do shnilé vody, až stříkala, šel jsem k samotce kolem kójí nacpaných starými lejstry, věděl jsem, že nad dvěma patry budovy, kde jsou naše ložnice, jsou ještě jiná patra, tam ani sestry nechodily, ta patra nad námi byla zamčená a zazděná a prý taky plná lejster. Viděl jsem skrz mříže sklepních kójí balíky převázané motouzem, myši tam měly svoje města a prolejzačky… a pak jsem stál před Dýhou a koukal na něj.
 

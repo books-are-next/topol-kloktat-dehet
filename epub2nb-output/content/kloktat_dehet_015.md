@@ -5,8 +5,6 @@ contentType: prose
 
 ### 10\. Na kamenech a ve vsi
 
-  
-
 Pracovali jsme na kamenech, slunce nad námi plálo a zabodávalo se mi do hlavy. Plálo i nad smeťákem na druhým břehu, vysušovalo rákosí. Voda, která byla v ledech, naráží do želez, hýbe smradlavýma věcma ve smeťáku. V zimě smeťák nesmrděl.
 
 Kdo vzal z potoka kámen nebo kus dřeva s přisátými pijavicemi a položil ho do trávy, chvíli koukal, jak se pijavice v horku smršťujou a odpadávaj. Mě to nezajímalo. Martina jsme toho rána nestíhali. Velitel Baudyš ho neměl na seznamu čet. Toho rána jsme, tak jako mnohdy předtím, pracovali na kamenech. Ale ten den bylo všechno jinak.
@@ -22,6 +20,8 @@ Ale hned je u mě Chata, čutne do mě a říká: Vstávej, vole!
 Kus od nás na břehu je velitel Baudyš, civí na hodinky.
 
 Všichni kluci teď lezou s kamenama na břeh, zvednu se a taky popadnu šutrák, co se tam válí, zakládáme kameny do valů a já o Martinově dece tiše říkám Karlovi a Chata to tiše říká Mikušincovi, rtama při tom nehejbnem, kluci to říkaj dál a za chvíli to víme všichni a pára, studená a lezavá, co stoupá z vody pod mostkem, kde je pořád chladno, připomíná tmavej dusivej kašlací dým, co se plazil kolem kostelních svic, když je někdo po mši zhášel, netušil jsem, že si na svíce pamatuju. Velitel Baudyš o Martinovi neví, tomu to neřeknem, ten nám teď může políbit prdel.
+
+  
 
 Jsme seřazeni u obranných valů a šancí a velitelé čet, mezi nimi já!, mají podat hlášení, ale… slyšíme to všichni! Slyšíme lomoz a to lomozí náklaďáček. Náklaďáček zastavuje! A vylejzá z něj podivnej chlap! Vylejzá, protože nemá nohy! Ani jednu! Drží se na tyčích, jsou to berle a jsou to chůdy. Přidržuje se auta. Nikdo z nás se ani nezachechtá.
 
@@ -69,6 +69,8 @@ Oba se smějou a zas mluvěj po svým. To mě štve.
 
 Lezem na břeh.
 
+  
+
 Kluci jsou teď na silnici okolo kárky a náklaďáčku. Kdyby teď přišli naši dlouhokošiláci a pořádně by se smáčkli, vešli by se na korbu. Všichni bychom mohli jet jinam. To se ale nestane.
 
 Velitel Žinka sedí v kabině náklaďáčku, berle hodil na podlahu, vidíme, že pahýly nohou má vobalený velikejma koženejma záplatama… Sedí, ale vidíme, že tenhle chlap je velkej, tlapy má jak kupečáckej medvěd. Vykládá klukům a šikovně šermuje rukama mezi nářadím: A tohle je amplion, chlapci, a tohle zesilovač, a tahá různý věci z náklaďáčku a tahá věci z kárky, kluci mu hnedka podaj, na co ukáže, montuje to dohromady a pak drží v ruce amplion, co z něj trčej drátky… Takovejch amplionů má v náklaďáčku fůru… A tady se to sešroubuje a máme rozhlas a revoluce může hnedlinka začít, hoši, usmívá se teď velitel Žinka a kluci se taky smějou, baví je to, poslouchaj… Ale mě to nebaví, já nevim, co se mnou je.
@@ -84,6 +86,8 @@ Dýha říká, jestli budeme moct do amplionu mluvit.
 Velitel Žinka řekne: Ne, to neni dobrý nápad. A pak už jdem!
 
 Dýha s Pátou jdou v čele průvodu, tlačej kárku, náklaďáček za nima jede krokem a za náklaďáčkem jdeme my, Psanci, a litujem, že jsme neměli polní cvičení, do vesnice by bylo lepší jít se vzduchovkama.
+
+  
 
 U prvního stavení, u Kropáčků, náklaďáček zastavuje. Velitel Žinka z náklaďáčku vytáhne skládací žebřík a rozloží ho, a už je na něm, přehoup se rovnou z kabinky. Pahejlama se zaklesne mezi špricle, až kůže na jeho kaťatech skřípne, pomůže si i zubama a připevní první amplion na plot u Kropáčků a pan Kropáček vyleze a říká: Co to jako má bejt?
 

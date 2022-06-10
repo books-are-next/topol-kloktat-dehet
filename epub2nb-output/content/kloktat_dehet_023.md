@@ -6,8 +6,6 @@ contentType: prose
 ### 17\. Kdo hořel. Hrdina v hoře.  
 České moře. Co je za zatáčkou
 
-  
-
 Byli jsme hluboko v Kupeckém lese, z okraje lesa, tam kde jsem tušil tankovou kolonu, jsem slyšel dávky z automatu. A taky jsem slyšel kluky, jak se bavěj.
 
 Martin říkal: Je to novej kluk, Margašák, je to!
@@ -160,6 +158,8 @@ Jo! říkám.
 
 To věřim, povídá Dýha, jde tak rychle, že mu sotva stačim, a to nese tři orúžije, plnej chlebník i munici. Zná cestu, no.
 
+  
+
 A jsme na Skalce, kus cesty lezem do příkrý stráně a je fakt, že Dýha je obratnej a hbitej, a když lezem vzhůru malým kaňonem, vřízlým do skalního převisu, bez jeho sykanejch povelů: Úchyt, vole!, Sem nohu!, bych se nejspíš párkrát vymáz, a to by pro diverzanta při přesunu na nový stanoviště nebylo dobrý. Já ale v lese neválčil, já byl na tanku.
 
 Sotva přelezem obrannej val, jsme mezi klukama, posedali na deky a celty kolem malýho ohýnku, a ty, který chtěj, se zas ládujou, a já se přivítám s Mikušincem, čučí na mě, nejspíš mu připadá, že to jsem já a že to nejsem já, a chybí mi akorát Páta, že tu nebudou naši cigoši, jsem tušil.
@@ -238,6 +238,8 @@ No jo, zívnul Dýha. Poslední náš úkol, volové, řekl Dýha.
 
 No jo, řekl někdo jinej.
 
+  
+
 Teprve poté, co vzdechy z nitra hory ustaly, jsme se porůznu zabalili do dek a celt, seděli jsme a leželi kolem sporejch plamenů ohně, jako bysme ho svými těly chránili před vlhkem a tmou lesa za balvanama všude kolem našeho stanoviště.
 
 Byl jsem zvědav na pořadí hlídek, ale nikdo nic neříkal, Mikušinec si přebaloval bágl, chtěl taky vyrazit do légie.
@@ -288,6 +290,8 @@ Tak jsme usnuli a to byla velká chyba, neboť brzy ráno nás napadli pancéř
 
 Který ty zmrdi nás tehdy chtěli pobít, to jsem se dozvěděl až pak, ráno vůbec nebyl čas to zjistit, měl jsem co dělat, abych přežil.
 
+  
+
 První, co jsem za úsvitu nového dne uviděl, byla Dýhova tvář, tak sešklebená, že jsem se lek.
 
 Držel si prst přes rty.
@@ -323,6 +327,8 @@ Jenže Karel najednou zašeptal: Já nemůžu! a já s úžasem vidim, že př
 Já teda jo! řekne Dýha a natáhne se po spínači… Jeden mohutnej výdech z nitra hory zrovna přešel v úpění, jako by nás náš velitel pobízel… Vtom z lesa proti nám letí oheň a s ohlušujícím třeskem všude nad našima hlavama zapaluje vzduch. Kolem nás a přes nás lítaj šutry, kamínky třískaj do kamenů všude okolo, štípou se o ně, v tom kamenným dešti neslyšim, jen vidim, že Dýha vedle mě už není, kus skály se utrh a propad do mlhy, nevidim nikoho a nic, zalehnu a chránim si hlavu a do hrudi se mi bolestivě zaryje čutora, myslim si, že to je čutora, ale pak vidim, že je to černej spínač, kterej omylem zalehnu, a tak se stalo, že jsem našeho velitele a s nim i celou Skalku nejspíš odpálil já.
 
 Hlavu jsem si s tím nelámal, letěl jsem do tmy lesního porostu, kterej obklopoval, jak už jsem se několikrát zmínil, celé stanoviště Skalka.
+
+  
 
 O svém bloudění Kupečákem toho moc říct nedokážu. Někde něco rostlo, někde ne, a pokud jsem neměl hlad, tak mě sužovaly ty nejtrapnější břišní problémy, a to pro žádnýho bojovníka není úplně dobrý vysvědčení. Měl jsem akorát svou plnou čutoru. Chlast jsem nepil, to až pak, když jsem mluvil s cigošema.
 
@@ -360,11 +366,15 @@ Trosky ohořely už dávno. Leckde byly i věci, ale jen rozbitý nádobí, roz
 
 Vzal jsem různý hadry a na noc si na kraji lesa udělal hadrovej pelech. Hadrovej pelech jsem nosil na zádech. Noci byly studený. Chtěl jsem k Jošovi. A přiznám se, úplně dobře mi nebylo. Proto jsem jednou večer pil ten chlast. Mluvil jsem s cigošema. Pozdějc jsem slyšel o ženskejch a viděl chlapy, jak jedí chlapa. To všechno v dobytým území. Ach jo.
 
+  
+
 Večer jsem došel ke škole. K tý, kde jsme potkali joší Bulhary s mořskou holkou. Odtud nás vedli přímo na Siřem. Ve třídě se ještě musej válet listy vytrhaný kapitánem Jegorovem.
 
 Sedl jsem si na práh školy pod čmáračským nápisem, co kapitána Jegorova tolik naštval. Brečet jsem začal hned, jak soumrak zahalil sochu patrona český země Václava, včetně nápisu.
 
 Uvažoval jsem, kdy už to mý zasraný dětství skončí a jaký to bude potom. Hnusily se mi všechny mý vlastní geny. Odzátkoval jsem Dýhovu čutoru, řekl: Počítám, že už ste v légii, chlapi! a dal se do pití. Dlouho jsem myslel na kluky z domova Domova a pak jsem si zas všim, že sedim ubulenej na válečný silnici, kde nic nejezdí a kolem mě je Kupeckej les, a že se teda musim stát osamoceným banditou v kraji smrti, kterou jsem tu ze všech sil pomáhal krmit lidma. Snažím se vyprázdnit čutoru rychlostí, se kterou se soumrak mění v černočernou tmu tmoucí a strašně do tý tmy nadávám, a asi protože hledám bakelity, tak ze sebe vyrážim všechny slova jejich řeči, který znám, a mý nadávky a proklínání se podobají řevu z dlouhokošilácký ložnice, když se malí báli, a muselo se stát, že jsem mezi všema těma dylinama a degešáckejma slovama zamlel cigošsky něco pohádkovýho, protože jak si mám jinak vysvětlit, že jsem najednou v cigošský chajdě?
+
+  
 
 Je to Jošova chajda. Je velká a plná hadrů a střepů všude po zemi, rozbitejch věcí, nahnilý slámy. Nikdo tu není.
 
@@ -409,6 +419,8 @@ Aha. A co mám dělat?
 Hele, my už musíme, říká Chata. Bráchové čekaj!
 
 Zmizli, nejsou tu, akorát slyšim, jak se Chata směje a říká: Prej že pude s náma… ha ha ha!
+
+  
 
 Zase sedím před školou a zkoušim zašpuntovat čutoru, povede se mi to, padám dozadu, ale protože na zádech nosim pelech z hadrů, nasbíranejch po chalupách, padnu do měkkýho a hned spim.
 
@@ -472,6 +484,8 @@ Tak dlouho putuje opuštěným krajem, že úplně propadl pohádkám, napadlo m
 
 Peter se pořád smál. Těšil se, že český chlapec ho snadno dovede do nepřístupných oblastí Kupečáku. On byl zběh. On netušil, že prostor Siazu už železným prstencem svíraj armády nových Rusů. Kdybych mu to řekl, možná by mi potom nevykrvácel na rameni. Vždyť mi s nim bylo dobře! Chtěl jsem s nim táhnout dál. Taky mě napadlo, že další cesta bude bezpečnější v kulometným gaziku. Jenomže jsem se splet, jako už párkrát.
 
+  
+
 Peter spal v gaziku mezi kulomety, já s pelechem na zádech odešel za školní barák, nechtěl jsem bejt u silnice.
 
 Někde v trávě mezi mrňavejma, nevzrostlejma jabloněma se stočim a usnu, a když zas otevřu oči, tak vzadu ve školním sadu vidim blikotat plamínky ohýnku, a protože mám výcvik, tak jsem ihned vzhůru a bez hlesu se k němu plížim.
@@ -502,6 +516,8 @@ Sedim tam a mlčim, dobře si vzpomínám na vyprávění sestry Albrechty, tot
 
 Pár těch mrňavejch jablůněk asi pokácel, ale vmžiku je před náma a chlapi maj ruce nahoře, protože jim každýmu na prsa míří kulomet. Peter vyskočí a s orúžijem v ruce běží k nám a povykuje, zda jsem v pořádku, a já mlčim, protože v ostrým světle, který vydávaj světlomety kulometnýho gaziku, vidím v trávě velikou medvědí hlavu s vyceněnejma tesákama. Narazil jsem na další součást Socialistického cirkusu.
 
+  
+
 S oběma ukrajinskými medvědovody jsme se spřátelili. Vyslechli jsme vyprávění o strastiplné cestě Kupečákem i o osudu jejich medvědů. Některým se snad podařilo projít bojovými liniemi a jsou teď na svobodě, některým ne, pokývl Vasil, hlavní správce medvědince.
 
 Tady Miša, pokývl Griška do trávy, už nemohl. Sám nás poprosil, ať ho neseme dál. Tolik se mu stýskalo po rodném lese.
@@ -525,6 +541,8 @@ Dálše Sibiri nepovezut, povídal zas ten starší, dál než na Sibiř je nepo
 A pořádně jsem se nacpal medvědím masem. Bylo to moje první pořádný jídlo po dlouhý době.
 
 Ale stejně jsem se těm dvoum pořád koukal po očích a světýlka, který jim v očích plály, mi připadaly silnější než jakýkoli odlesky řeřavejch uhlíků v našem kuchyňským ohni.
+
+  
 
 Nový den nás zase zastihl u sochy patrona české země. Peter se dostal s oběma Ukrajinci do sporu, domníval se, že celá ta kupa medvědího masa, uskladněná v prostorách gaziku, brání úplnému bojovému využití kulometu.
 

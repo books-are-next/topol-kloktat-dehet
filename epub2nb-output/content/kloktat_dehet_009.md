@@ -5,8 +5,6 @@ contentType: prose
 
 ### 4\. Zase sklep. Moje hlídka. Přijdou
 
-  
-
 Ve sklepě teď bylo spousta svíček a spousta hochu i dlouhokošiláků a propletený stíny na zdi se namáhaly.
 
 Šli jsme k samotce a Dýha zařval: Bulí?
@@ -24,6 +22,8 @@ Teďka je vodsoudíme, řekl mi do ucha Karel.
 Dýha zařval: Ticho! Zahajuju schůzi Psanců, protože strčili Iljova Vopičáka do bubnu. Šklíbo, ty drž hubu!
 
 Ale vůbec jsem neslyšel, jestli se Šklíba přestal modlit, a vůbec nikdo to nemohl slyšet, protože zase práskly domovní dveře a Domovem se rozlehly hlasy a dupot, někdo dusal do schodů, a mě popadla šílená radost, že se to vrátilo! že to bude jako dřív! A možná i ostatní si mysleli, že se vracejí sestry, protože najednou malí dlouhokošiláci vydali křik, všichni teď křičeli a naráz se hrnuli ven ze sklepa. Mrňousové odstrčili mě i Karla, jak pádili sklepní vodou ven, běželi jsme za nima a já se trochu motal, byl jsem poslední, stíny kluků skákaly, Mikušinec a Chata rychle zhasínali svíčky, vždyť to si nikdo ani neuměl představit mít svíčku ve sklepě, to bylo zakázáno! Ve tmě jsem slyšel Šklíbu, jak huhňá kostelní slova, vlekl jsem se ze sklepa poslední, nikde nikdo nebyl, pomalu jsem vyšel schody do patra, opustil sklep… a pak jsem otevřel dveře Domova, šel jsem pro svýho Vopičáka a jak jsem se divil!
+
+  
 
 Venku stál koník zapřažený do saní a v těch byla hromada dek, přijeli na sáních! Lidi z vesnice… Nakouk jsem i pod sáně, ale Vopičák tam nikde neležel, já ho hledal! zvrátil jsem hlavu a uviděl to rozbitý okno a šlapal jsem po střípcích ve sněhu… Tam už ani nebyly stopy, bylo tam ze sněhu černý bahno, všichni tam šlapali. Šel jsem ke koníkovi a vtom mě napad nesmysl… napadlo mě, že koníka se sáněma mi poslal Vopičák, když tu nikde neleží, což je nemožný!, že si mám sednout do saní a ty pojedou do Země stínů a tam bude brácha čekat… A vtom slyšim: Tak co tomu všemu říkáš, hochu? a vzhlédl jsem a v sáních seděl pan Cimbura zabalený v dekách. Kouká na mě, ale už mě asi nezná. To já ho poznám vždycky, i když teďka je strašně starej.
 
@@ -50,6 +50,8 @@ Pan Holasa panu Kropkovi z dek podá kleště a kladivo a sám pro sebe vylov
 A já dokončim výslech tady mladýho, volal pan Cimbura, ale oni si ho nevšímaj, koník kouká přímo na mě, uhnu, ale koník za mnou otočí hlavu… Neboj, já to řeknu, povídám koníkovi… Já věděl, že víš, kam to všechno skovaly, ty církevnice, synku, zůstane to mezi náma, povídá pan Cimbura. Na! pan Cimbura se nahnul ze saní a dal mi do ruky dva dílky čokolády, spolk jsem je najednou a hnusnou chutí kořalky v mý puse projela báječná sladkost, sežral jsem to celý sám, teď už se nebudu muset s nikym dělit.
 
 Já za to nemůžu, že je mrtvej! vykřik jsem. Ty jistě ne, synku, jen mi pověz, kde to maj. Von to chtěl, sám to chtěl! povídám. Ale to víš že ano, synku, to já vodsvědčim, povídal pan Cimbura a podal mi další kousek čokolády… Von byl k ničemu a rádi ho neměli, povídám… Von chtěl umřít celou tu dobu, a nemoh!, polkl jsem a měl jsem sladkýho plný břicho… a koník zafrkal a hrábnul kopytem, zvednul hlavu a kouk na mě. Ach jo, teď mi tekly slzy a já byl hrdej, když Mikušinec ve sklepě zařval, že nebulim, no a teď jsem teda bulel. Akorát že ho to asi moc bolelo, řekl jsem, a koník mi příjemně dejchal na ucho. No jo, povídal pan Cimbura, eště bych ti dal, ale von víc neměl. Chtěl umřít, prelát prašivěj, a to víš, že ho to bolelo, dyk sme po něm dupali… bicí komando, rudý špecialisti až z Prahy ho přijeli vyslechnout, toho vatikánce protilidovýho, povídal pan Cimbura. Chtěl umřít, synku, to máš pravdu, pak už asi jo, a víš co, chlapče? Von byl, kurva farářskej, tak dobitej, že ho na korbu náklaďáku museli hodit toho Františka svatýho, a hodili na něj seno a sestry si na něj pak posedaly, ty musely pištět, pak když to zjistily, krávy jedny, že maj prdele na prelátovi svym… no ke konci už pak umřít chtěl, určitě jo… Tak sem to řek! povídám, vysunul jsem rameno zpod koníkovy tlamy, koník na mě horce dejch a já šel do domova Domova a pan Cimbura na mě volal, ale já se nezastavil.
+
+  
 
 V kuchyni ne, ale už v jídelně třídě se všude povalovaly kusy papírů, ty staré a zčernalé, při doteku praskaly, rozpadaly se, ležely porůznu po zemi nebo se i vznášely vzduchem.
 
@@ -135,7 +137,11 @@ Ať strašej Němce nebo ty… ty druhý, ale ne mě.
 
 Ležim v papíru jak v obrovský posteli. Strop je vysoko nade mnou. Páta s klukem pořád povídaj. Přemejšlim o tom obraze, co jsme našli, a vůbec. Je to příjemný. Taky v tý hromadě papíru usnu.
 
+  
+
 Usnul jsem a zdálo se mi, jak pan Holasa a ostatní dali všechny kleště a železa a sekery a kladiva koníkovi do sání a nechali v dekách jen pana Cimburu, protože je starej a má třesoucí se nohy, a koník zatáh, celej se napřel, ale jen málo… sáně byly lehký! a vyjel se sáněma od vrat domova Domova a šel po svahu drobnejma krokama a chlapi šli za sáněma a hádali se a sakrovali a kleli, protože nic nenašli, žádný drahý náčiní a mešní ornáty a zlatý svíce, žádný vzácný ozdoby nenalezli… a tak byly sáně lehký! Neprohýbaly se pod tíží obrovského pokladu a koník vezl jen pana Cimburu a deky a sekery a kleště, ale co to je pro koníka, nic, to je lehký… Chlapy a obrovskej náklad klenotů by koník neutáh, strh by se, ublížili by mu, a to by nikdo nemohl chtít… strhat nákladem malýho koníka, to by neudělali. Byl to pěknej sen.
+
+  
 
 A pak jsem se vzbudil, protože mě Karel jako trochu nakop… a podával mi chleba a párek!
 
@@ -158,6 +164,8 @@ Já vim!
 Já to viděl, že malej Ilja z vokna vypad sám, a Páta to viděl taky, dyk sme tam byli!
 
 Vtom jsme uviděli malý světlo hýbat se tmou, a to byl Chata a v ruce měl baterku, došel k nám a řekl mi: Di na hlídku, dylino, sedl si na moje místo a jedl párek s chlebem. Tak jsem šel.
+
+  
 
 Venku svítil měsíc, světlo teklo po svahu sněhu vzhůru do oken a odráželo se od bílých papírů, po kterých jsem šlapal.
 
@@ -187,11 +195,15 @@ Tak jsme počkali. Všechny, který jsem tam našel, jsem odvedl do ložnice a 
 
 V jídelně třídě na stole ležela hromada párků, tak jsem ještě jeden sněd a šel jsem na hlídku do kuchyně. Bylo tam mokro a načvach­táno. Koukal jsem na buben a vůbec jsem nevěřil tomu dni, kdy se toho tolik stalo.
 
+  
+
 Pak jsem uslyšel kostelní zpěváky. Zněli ze sklepa stejně, jako když s nima sestra Eulálie nacvičovala nábožné písně.
 
 Tak jsem vstal a šel na hlídku do sklepa.
 
 V ohybu chodby jsem viděl plamínky svíček a zpěváčci teď nezpívali. Kóje, kde byl zavřenej Šklíba a Martin, měla zas vyvrácenou mříž, kluci zpěváci odházeli balíky lejster a udělali prostor… Viděl jsem, že tam donesli klekátko z pracovny sestry Leontýny a že jí ukradli i Krista na kříži, a těch šest Euláliiných zpěváčků klečelo na zemi a nic jim nevadilo, že musej klečet ve slizký sklepní vodě. Šklíba stál a Martin taky a oba na sobě měli už dost potrhaná a špinavá černá roucha sester, to museli nějak zadrhnout provázkama, vždyť jsou malý… Šklíba se točil a pohyboval rukama, on napodoboval faráře pana Františka, a Martin mu teď podal bichli a Šklíba řekl: Modleme se. Těm, co klečeli, poklesly hlavy, jak se modlili… a vtom jsem uslyšel řev: Puste mě ven! Posunul jsem se od zdi a viděl Dýhu, jak se opírá o mříž pod žárovkou, co byla celá rozkejvaná, asi jak tam pořád poskakoval, šel jsem blíž… a co já uviděl! Vopičák ležel na papírech před Šklíbou, zabalenej do prostěradla, dali pod něj spoustu papírů, tak neležel ve sklepní vodě. Šel jsem k nim.
+
+  
 
 První mě zahlíd Dýha a zařval: Iljo, zaraž jim to… Přiškobrtal ke mně Šklíba, zakop o svý černý roucho a nábožně zdvihl ruce a povídá: Hele, my sme ho umyli a připravili, musíme ho pochovat. Už sme řekli nad nim všechny modlitby, ale můžem je říct znova, Otčenáš a Zdrávas a Spi, děťátko, spi a všechno… jestli teda chceš!
 

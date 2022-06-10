@@ -6,8 +6,6 @@ contentType: prose
 ### 15\. Něznáju! Úkol Veselé písničky.  
 Starost kapitána Jegorova. Mořská
 
-  
-
 Zdárně jsme dokončili čištění prostoru vesnice Luka a naše tanková kolona se opět hnula.
 
 Stopy po cirkusu Hygea jsme již nenalezli, jízdu našich tanků světem doprovázely kletby a nářky Daga, přivázaného k pancíři čelního tanku.
@@ -19,6 +17,8 @@ Již prvního večera, kdy se naše kolona hnula z prostoru Luka, velitel Žink
 Něznáju, řekl jsem.
 
 To jsem neměl říkat, to kapitán Jegorov neměl rád.
+
+  
 
 Zprávy jsme poslouchali každý den. A kapitán Jegorov se chmuřil a kabonil, neboť povstání se rozhořelo.
 
@@ -39,6 +39,8 @@ Děsil jsem se dne, kdy kapitán Jegorov o mých oklikách zjistí konečně pr
 Vždyť některá místa jsme projeli již víckrát. Znovu jsme dlouhou oklikou dorazili do již vypáleného Strabova a projeli jsme Tomašínem a těch pár lidí – banditů, co Tomašín ještě bránilo, jsme nahnali do stodol.
 
 Naše bludná kolona se motala krajem a z toho zabíjení lidí nám bylo všem špatně. Ale co se dalo dělat? Rusové byli sami v cizí zemi a já byl sám mezi nima. Co jsme mohli dělat?
+
+  
 
 Dagovi byla sňata pouta, ale kapitán Jegorov, rozezlený trpaslíkovou neschopností podat vysvětlení o osudu cirkusu Hygea, ho nechal přivázaného na laně a konec toho lana byl svěřen mně.
 
@@ -66,6 +68,8 @@ A Dago zmlknul. Vypínal velkou hlavu na tenkém krčku, asi dával pozor, zda 
 
 Koukal jsem na svoje nohy, které vedle těch skrčkových nožiček visely z tanku, sledoval jsem zašpendlené a ohrnuté rukávce tankistické bundy, doufal jsem totiž, že jsem snad možná zase o kousek povyrostl. Musim si to dětství odbýt co nejdřív, umiňoval jsem si během drkotavé jízdy našeho tanku po silničce mezi Kupečákem a polema plnýma prachu, kde tohoto léta nic nerostlo, tiskl jsem se k čelnímu pancíři a čekal, až dětství skončí.
 
+  
+
 Kapitán Jegorov byl stále zakaboněný, večer mi sice nohy svazoval a ráno rozvazoval, ale choval se ke mně pěkně, na automatčíky však často štěkal úsečné povely a stále častěji hovořil o stavu zásob našich pohonných hmot a velmi často triedrem zaměřoval obzor a také zkoumal mé mapy a mně bylo jasné, že hledá Siřem, neboť štvavá siřemská vysílačka ho rozčilovala ze všeho nejvíc.
 
 To kvůli pravidelným hlášením o našem pohybu jsme nacházeli tolik nápisů azbukou, hanlivých a posměšných, zraňujících hrdost kapitána Jegorova, a jen a jen kvůli štvavým hlášením jsme byli vystaveni útokům ze zálohy.
@@ -83,6 +87,8 @@ Kapitán se ptal, kde mají velitelství, kudy na Siřem a podobně, ale oni ř
 Pak si ten druhý Čech na prsou roztrhl košili a vykřikl, že chce taky zemřít za svobodu. Kapitán Jegorov pokývl, automatčíci čmáraly odvedli na dvůr a tam je zastřelili.
 
 Tank pásem rozdrtil kýble s barvou, barva na štětcích, co se válely po zemi, se ve slunečním žáru spekla, vypadala jak asfalt, nebyla k ničemu.
+
+  
 
 Popsaný dům je vesnická škola s vyraženými dveřmi a vysklenými okny, vypadá to, že v domě se bojovalo, strop v jedné třídě je provalený, všude jsou haldy suti, ale ke krátkému odpočinku se budova hodí.
 
@@ -105,6 +111,8 @@ Myslím na to, co mi řekl Dago a co se stane, jestliže kapitán Je­gorov sv�
 Dago mluvil o tribunálu a já teď myslím na starou pohádku o Fedotkinovi, co nám vykládal náš velitel, co jsme ho s Margašem zabili, a říkám si: To teda ne! Já do žádnýho gulagu zasranýho se svým kapitánem nejdu, ani náhodou. Když tatínkové bojujou, tak do toho děti musej s nima, to je jasný, ale o trestních barácích v mrazivé Vorkutě jsem slyšel dost a dost. Tam mě nikdo nedostane ani za zlatý prase. Musim zdrhnout.
 
 Kdybych ale kapitánu Jegorovovi utekl špatně a on by na mě zas nějak narazil, už by na mě hodný nebyl, určitě ne. A že si při zdrhání musím dát bacha i na povstalce, to je jasný. Vím, že musím zdrhnout. Potíž je v tom, že znám jen svět svých map. A teď netuším, jak se z něj dostat.
+
+  
 
 Chvilku odpočinku náhle rozbily tlumený výkřiky automatčíků a prapodivný skřípot, rozléhající se dosud klidným letním odpo­lednem. Vyrazím z třídy.
 

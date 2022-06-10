@@ -6,8 +6,6 @@ contentType: prose
 ### 11\. Přátelení.  
 Ségry jsou ségry. Zabíjení
 
-  
-
 Dotáhnou mě na ňákej dvorek a tam sedí Martin! A rozvaluje se na sluníčku a něco žvejká, a když mě zblejskne, tak vykřikne: Jé, čau!
 
 Pořád čekám, že dostanu hrozně do držky, ale ministranti tam jen tak stojej, a tak říkám Martinovi: Čau! Dobrý?

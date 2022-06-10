@@ -5,8 +5,6 @@ contentType: prose
 
 ### 8\. Práce. Još. Dílenská práce
 
-  
-
 Dny šly. Každého dne zrána jsme vycházeli z domova Domova a šlapali do vesnice, podobně jako jsme kdysi chodili se sestrami do kostela.
 
 Teď nás vodil velitel Baudyš. Přiděloval nás na práce.
@@ -29,11 +27,15 @@ Můj svět ve vesnici byl obrovský. Byly v něm stodoly, kam jsme skládali ta
 
 V mém světě byly sklepy a maštale a chlívy se zvířatama, a to byla prasnice, co žere všechno, a kozy a kozlové, co na jaře za zelenými listy skáčou až na střechu chlívka, a taky obří býk a krávy, co pořád žmoulaj pyskama, a některá ta zvířata byla zlá, drkala se na řetězech ve tmě maštale, protože my těm zvířatům nesmrděli vesnicí, ale domovem Domovem.
 
+  
+
 Velitel Baudyš pro nás zavedl práce na potoce a práce v dílně.
 
 Na potoce jsme pracovali s kamenama. Zkroucený železa smeťáku, přes který tekla černá voda, vypadaly jako kostry příšerných zvířat z úsvitu věků, které byly vyobrazeny v Katolické dějepravě. To jsem klukům neřekl.
 
 Přes potok vedl mostek a pod mostkem byla hlubina. Brali jsme z potoka kameny, podávali si je a na břehu z nich budovali šance a obranné valy. To byla jedna směna. Druhá směna byla opačná: v řetězu jsme kameny podávali jeden druhému zpátky do vody. Kameny obranného valu schly na slunci a větru. Než uschly, tak jsme cvičili.
+
+  
 
 U potoka nás velitel Baudyš někdy nechával samotné. Chodil do vesnice vyřizovat pohledávky, jak říkal.
 
@@ -42,6 +44,8 @@ Jednou, když nás zrovna opustil, přišel Još.
 Podával jsem šutry a najednou za sebou slyším Chatu, jak mluví bakelitsky, a to mluvil právě s Jošem, starým bakelitem, který měl za vesnicí chajdu, kde žili ještě další cigoši, a Chata s Bajzou a někdy i se Silvou tam pak mizeli, kdykoli mohli… Teď jsme se okolo Joše shlukli všichni, měl v ruce pytel… Pytel se vybuloval a hýbal a Još do něj bacil holí. Napadlo mě, že to je krysa, ale byla to lasice a Još nám vykládal, že tohle dělá, že pro něj pošlou z vesnice, když lasice a kuny vražděj kuřata a slepice a se zkrvavělejma čenichama pak sežerou i všechny vajíčka. A Još na lasici pak políčí a někdy ji dostane… jen někdy! Lasici mnohdy nedostanou ani psi z vesnice! Lasice je rychlá! Divoce bojuje o svůj život! A často pak Još dostane i slepici, když je moc potrhaná, moc dobitá, a vajíčka si opatří vždycky, a nejen to! Tohle když řekl, tak jsme se všichni smáli. Pak Još strčil pytel s lasicí na hlubinu pod mostek a holí držel pytel u šutráků a lasice byla celá potopená a strašlivě sebou zmítala, pytel se rychle vybuloval na všechny strany a Još držel hůl oběma rukama vší silou. Lasice bojovala dlouho a potichu a strašně divoce a pak umřela. Još ji vytáhnul z pytle. Měla pracky vytrčený do stran.
 
 Chata s Bajzou šli k Jošovi na návštěvu a my museli pracovat o to víc, protože velitel Baudyš věděl, kolik času potřebujeme, abychom kameny z obranných valů dali zpátky do potoka, a kdybychom čas své samoty proflákali, tak by nám teprv začala vojna jako řemen! To jsme nechtěli.
+
+  
 
 Za mokrých a deštivých dnů oblev pro nás velitel Baudyš zavedl nový výchovný a výcvikový předmět: dílenské práce.
 
@@ -56,6 +60,8 @@ Přestávky v práci jsme vyplňovali učením. Stávalo se, že mne velitel Ba
 Brzo bylo jisté, že hoši si budou svět, zakreslený v mých mapách, pamatovat i přes dobu oblev. Zvlášť v době oblev jsem na svých mapách pilně pracoval. Někdy jsem svět kreslil i z hlášení jednotlivých hochů. Našel jsem starý povlak na polštář. Své mapy jsem v něm nosil pod teplákovou bundou. V noci jsem je měl pod hlavou.
 
 Pracovali jsme a učili se z brožur i výkladem velitele Baudyše. Mimo práce objednané z vesnice jsme také pracovali na technických zařízeních. To byl obor dílenská práce.
+
+  
 
 Venku stále pršelo, a to nešlo plížit se celý den a den po dni v rozměklém bahně se vzduchovkami a plynovými maskami, i když v nesimulované bojové situaci bychom museli! Posedali jsme tedy okolo rozpálených kamen a sledovali ruce velitele Baudyše, jak čistí strojek hodin anebo rozebírá převodovku nebo hadýrkem vtírá mastku na píst. V kuchyni dílně velitel Baudyš nikdy neřval, on se i smál, a my nedělali tartas, to s velitelem Baudyšem nešlo, ale někteří z nás s ním mluvili. A jednoho večera se Páta klíďopíďo zeptal: Veliteli, proč je chlapec namalovaný u portrétu Fedotkina Čech?
 
@@ -73,6 +79,8 @@ Přemýšlel jsem, jestli bych s Margašem šel radši do légie, nebo do jeho 
 
 V Margašově zemi určitě nejsou žádný baráky vesnice přikrčený v plískanici. Žádnej Kupečák, kde žijou zvířata připravený roztrhat kluka na útěku. Je tam světlo a všude tráva. Pracoval jsem na zadaném úkolu, a přitom si vymejšlel, jak v tý trávě blbnem, já, Margaš a Margašovi bráchové. V předmětu dílenské práce mi bylo v kuchyni za dešťů dobře.
 
+  
+
 Jednoho večera jsme se dozvěděli pravdu o Fedotkinovi. Velitel Baudyš nám vyprávěl o konci Fedotkina.
 
 Toho večera jsme vyráběli králíkárnu a velitel Baudyš povídá: Jo, učte se hoši, to víte, zlatý český ručičky, jak bych se bez nich dostal z prokletýho vorkutskýho lágru až sem? My tehdá bezmocně mrzli v barácích trestního lágru vydaný na pospas krutejm sovětskejm Rusům, hoši, a myslíte, že takovej Rusák vymete kamna, aby nekouřily, tůdle! Kopne do nich. A kdo v čtyřicetistupňových mrazech v barácích Vorkuty utěsnil roury, aha? Jo, to byly zimy, panečku, když sme tehdá vyrazili z Buzuluku, celej náš Československej armádní sbor… Kdo pořádně neovinul onučky, umřel v ledech. A když se zadrh transporťák, kdo byl připraven? A když se přetrh řemen a pásák kleknul, koho zavolali, aha? Baudyš, nástup! No vidíte, jelimani, učte se s molotkem, učte se pracovat, to se vám bude hodit, to mi věřte.
@@ -88,6 +96,8 @@ Velitel Baudyš vyprávěl, jak je, české chlapce, vlast povolala a oni šli 
 Vždyť víte, hoši, v ústředí nad váma zlomili hůl! K vám nikdo nechtěl! Tak na vás povolali nás. Strana nás povolala, no jasně. A my z vás ještě vychováme chlapy. No, kluci, nechytli ste to s náma zle, myslim. Kdo jinej by měl vychovávat vás, lidskej potěr, než my, staří fronťáci, ne? Až se svět zas nachýlí ke konfliktu, budete řádně připravený. Však von velitel Vyžlata vychovával i mě, to v baráku bezprizornejch v lágru vorkutskýho ledovýho vokruhu sme na sebe narazili, říkal velitel Baudyš. A velitele Vyžlatu jako českého chlapce v hořící vesnici zachránila stalinská Létající brigáda, to snad už víte. Létající brigáda, to byl, hoši, gardovej útvar, ty mu dali školu, panečku. No a jako cizince ho pak šoupli do lágru, to se tak ve Svazu dělávalo. Jak sem se tam voct já, to nevim! Já byl malej! Pak sme se zvocelili bojema, no jo. A ten kdo všechno přežil, je teďka vybranej, aby učil druhý. To se mi zdá bejt docela v pořádku, todlecto, co myslíte? To víte, z nás, starejch fronťáků, co došli do Prahy, by ale všichni nezvládli bejt pedagogama. Ona taky ta válka! Některý ji třebas přežili, ale bez nohou. Granát jim je ufik, no. To bylo natošup, jen to hvízdlo. Ale takovej beznohej člověk by vás těžko vedl životem, co, kluci? říkal velitel Baudyš, prověřoval toho večera řádně odevzdanou práci, a protože byl spokojen, tak se usmíval.
 
 A když se některý z nás chlapců třeba praštil molotkem a pak vzteky brečel anebo když někdo dostal nějaký třasy, že mu třeba trochu namrz prst nebo se nabod na dráty technického zařízení, tak velitel Baudyš chlapce hnedka a rychle! zklidnil a povídá: Proti sovětskýmu gulagu tady v tý český Siřemi žijete, chlapci, úplnou baladu, to mi věřte… A velitel Baudyš se usmíval, až mu vousy pras­kaly.
+
+  
 
 A toho večera jsme se konečně dozvěděli, jak to bylo s Fedotkinem. Toho večera velitel vyprávěl, až ochraptěl, a když poklesl hlasem a už jen sípal, někdo z nás tenounkým hlasem vypískl: Co Fedotkin? Znal ste Fedotkina?
 

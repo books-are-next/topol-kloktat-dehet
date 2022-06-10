@@ -6,8 +6,6 @@ contentType: prose
 ### 13\. A začalo to! Pytle a násilí.  
 Sladkost světa. Dago
 
-  
-
 Takhle jsem se té noci seznámil s kapitánem Jegorovem.
 
 A začalo to.
@@ -50,6 +48,8 @@ To první ráno mého života v sešpendlené a všelijak ohrnuté uniformě s
 
 A začalo to!
 
+  
+
 Viděl jsem svět z pancíře tanku a slyšel jsem svět v hřmění motoru a slyšel jsem zvuky světa v praskání a hvízdání rádia a v praskání vysílačky v tanku a taky z hlasů, přeskakujících odporem proti sovětským okupantům, běsnících hlasů z amplionů, namontovaných všude ve vesnicích kolem Kupeckého lesa podobně jako v Siřemi, a taky jsem viděl svět v televizích v dobytých, ale ještě nedemolovaných chalupách a domech, a už jsem se televizi nic nedivil, ale sral jsem na ní, protože nahá holka v nich nikde žádná nebyla. Po skle televize lítaly jen záběry z bojů a nebylo ani poznat odkud, protože Rusové mnohdy svým vysíláním překrývali české a naopak a Češi někdy mluvili rusky a Rusové zase česky, aby se navzájem zmátli a poděsili a aby nikdo nevěděl, co se doopravdy děje.
 
 Ohně dvacátýho století se spekly, okovaná kladiva doby svištěla vzduchem a třískala do kovadlin všude kolem nás a já ve svém pelechu z hadrů na pancíři čelního tanku pochopil, že jsem jako tlumočník tankové kolony Veselá písnička vklouzl přímo do největší události dvacátýho století, do česko-ruský války.
@@ -73,6 +73,8 @@ A já z chraplajících vysílaček v tanku a z rádiového přijímače ve
 Poté, kdy na nás poprvé zaútočil pravidelný armádní sbor, se příkazník Kantarija i příkazník Timoša, v Čechách už uvyklí pobíjení zbabělců v chalupách, dlouze zahleděli před sebe. Příkazník Timoša pravil, že nechápe, jak může československá armáda branně vystoupit proti armádám pěti států Varšavské smlouvy, a tedy zradit, ale příkazník Kantarija dlouho truchlit nedokázal a s hvízdáním a luskáním prsty se na pancíři tanku pustil do tance, jako by vyzýval nízká, chmurná oblaka… Kantarija svým tancem českou zemi vyzýval a zároveň ji varoval… Osádky tanků ho povzbuzovaly potleskem, já jsem ale nedokázal pochopit, kdo koho zrazuje a co já s tim! A taky mě napadlo, co by se asi stalo, kdyby mě na pancíři tanku zahlédl třeba pan Kropáček s pytlačkou nebo třeba pan Moravčík s pistolí, a kdo byl vůbec ten ostřelovač, co jsme ho rozmázli. Znal jsem ho? A co by si tak pomyslel Dýha nebo Karel, kdyby mě teď viděli, a napadlo mě, že budu odteď na čelním pancíři sledovat život už jen se začerněným ksichtem, a chystal jsem se, že naberu plnou hrst kolomazi, což je v cizím nepřátelském prostředí běžná diverzantská finta. A vtom jsem z nitra tanku mezi hvízdáním a chrchláním našeho tankového rádia zaslechl hlas, který jsem dobře znal, a tak jsem se rychle, jak obratná lasice, spustil do tanku a tleskající a pohvizdující automatčíci, obdivující se Kantarijovu tanečnímu mistrovství, na tom neviděli nic divného, Ilja tlumočník prostě jde po své práci.
 
 Spustil jsem se do tanku a nasadil si sluchátka. Po ohlášení: Haló, tady vysílač Svobodná Siřem… následovala strašlivá palba nadávek a kleteb, mnohé v českém jazyce a mnohé v ruském, a to velitel Žinka volal obyvatelstvo do zbraně a podával návody na výrobu účinných domácích zbraní a informoval obyvatelstvo o taktikách partyzánské války včetně otravování studní, hovořil o nemilosrdné taktice spálené země. Hlavně podle těch nadávek a kleteb jsem usoudil, že velitel Žinka se svého slibu nepít alkohol tak docela nedrží, a představil jsem si, jak stojíme s Margašem s kudlama v trenýrkách, ještě mokří po smytí Vyžlatovy krve, před Žinkou a on smontovává vysílač Svobodná Siřem, a myslel jsem na hlubiny sklepa v domově Domově a na to, co v nich je, a říkal jsem si, že právě kvůli všem těm odbojníkům, co poslouchají vysílač Svobodná Siřem a útočí na nás ze zálohy a strhávají rozcestníky a demolují mostky, nedokážem s tankovou kolonou objet ani Kupečák a vypadnout od Siřemi někam daleko!, a litoval jsem, že jsme tehdy s Margašem velitele Žinku nezabodli taky.
+
+  
 
 A tak jsme křižovali kraj. Někdy nám do cesty čeští banditi nastavěli zátarasy a v místech, kudy jsme už předtím svobodně projížděli, nás uvítala palba. K loveckým zbraním a všelijakým pytlačkám, jejichž práskání jsme už uvykli, se stále častěji přidávaly i salvy z automatických zbraní a kapitán Jegorov se na čelním pancíři mračil.
 
@@ -99,6 +101,8 @@ To mi oba příkazníci hned vysvětlili.
 Spokojil jsem se s tím a po tajemství vozů trénu jsem nepátral.
 
 Já měl své práce plné ruce, dost a dost.
+
+  
 
 V tom dlouhém sledu dní, které si byly navzájem podobné, jsem žil přitištěný k pancíři tanku, splýval jsem ve svém pelechu s kovem tanku jako brouk beroucí na sebe podobu stromové kůry a nikdy mi nikdo neřekl: Ty zmrde malej! Ty hovado! Ty Avare! Ty chudáku!, takový člověk, který by se mnou takhle mluvil, tam nikde nebyl, palba z orúžij automatčíků i pobočných zbraní poddůstojníků by takového člověka vmžiku zlikvidovala. Naše kolona měla obrovské množství zbraní a zásob a pohonných hmot a nikdo na nás nemoh.
 
@@ -160,6 +164,8 @@ Lidé, které jsme vyslýchali, říkali rusky jen jedno slovo: Něznáju, ale a
 
 A tak jsme se pohybovali podle mých map a likvidovali bandy v tomto úseku.
 
+  
+
 Byli jsme ve válce a pohyb naší kolony po silničkách kolem Kupec­kého lesa byl někdy bojem o každou píď a surovým násilím. Také jsme se snažili žít i obyčejný život, třeba večer pít čaj. Někteří z vojáků a poddůstojníků tankové kolony Veselá písnička před svým životem v armádě žili běžné životy. Na tancích jsme ale žili násilím. Žít násilím znamená, že kterýkoli okamžik běžně žitého života se kdykoli může změnit v násilí, kterým život končí. To v příručkách nebylo.
 
 Jednou ráno jsem s hvízdáním vyšel do lesa, tak… přičapnout, ulevit si povojácku. Kousíček od tanku jsem vešel do lesa, dva tři kroky, a už jsem skrytý za zelenou hradbou, silnice není vidět, nade mnou něco zapraští, padla na mě síť, zadrhla se, můj výkřik v hrdle zdusila dlaň.
@@ -181,6 +187,8 @@ A když jim vysvětlim, jak tanky i oba náklaďáčky vedu krajem podle svýc
 Daj mi výbornej chleba se slaninou a já ho snim, i když nemám hlad, naopak, a pak jejich šéf řekne: No, už di… A já říkám: Cože? Potom, co jsem s nima mluvil, se mi už nechce likvidovat bandy, ale jejich šéf povídá: Máš svůj úkol, ne? A ještě povídá: A klidně nechej zprávu třeba v ňáký kapličce, to de, dyž je agresor analfabet, ha ha ha… Vkročej do houští, zmiznou v lese… Vstal jsem a vydal se k tankové koloně, protože tihle mě k sobě do lesa nechtěj, to je jasný.
 
 O výslechu jsem nikomu v tankové koloně nic neřekl, nejsem blázen.
+
+  
 
 Přes den jsem měl v tankové koloně Veselá písnička mnoho úkolů. V noci bylo mým úkolem hlídat pytle kapitána Jegorova.
 
@@ -213,6 +221,8 @@ Také mě napadlo, že se sovětští vojáci domnívají, že dobýjejí Afriku
 Já tehdy o zvláštním úkolu tankové kolony Veselá písnička nevěděl vůbec nic.
 
 To se mělo brzy změnit.
+
+  
 
 Té noci jsem se seznámil s Willym. S Willym Dagobertem, skrčkem Dagem.
 
