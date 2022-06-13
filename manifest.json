@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "topol-kloktat-dehet-3e36826",
-  "revision": "3e36826",
+  "identifier": "topol-kloktat-dehet-5463461",
+  "revision": "5463461",
   "readingOrder": [
     "promo.html",
     "kloktat_dehet_005.html",
@@ -34,8 +34,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:12:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949570761
+    "date": "Mon Jun 13 2022 21:59:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157543925
   },
   "documents": [
     {
@@ -453,9 +453,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 95,
-      "chars": 625,
-      "ideas": 9,
+      "words": 126,
+      "chars": 790,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "kloktat_dehet_024.html",
@@ -473,9 +473,9 @@
   ],
   "totals": {
     "all": {
-      "words": 69533,
-      "chars": 401602,
-      "ideas": 1856
+      "words": 69564,
+      "chars": 401767,
+      "ideas": 1864
     },
     "chapters": {
       "words": 69433,
