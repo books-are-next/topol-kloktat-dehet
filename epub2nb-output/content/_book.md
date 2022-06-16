@@ -11,9 +11,10 @@ meta:
   author: Jáchym Topol
   publisher: Městská knihovna v Praze
   modified: '2022-03-14T00:00:00.000Z'
-  publisherShort: MKP
+  publisherShort: mkp
   yearPublished: '2005'
   isbn: 80-7215-255-6
+  edition: poezie
 readingOrder:
   - promo.html
   - kloktat_dehet_005.html
