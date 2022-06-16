@@ -5,11 +5,11 @@
   "title": "Kloktat dehet",
   "author": "Jáchym Topol",
   "publisher": "Městská knihovna v Praze",
-  "edition": "poezie",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "topol-kloktat-dehet-e21013c",
-  "revision": "e21013c",
+  "identifier": "topol-kloktat-dehet-5571cf5",
+  "revision": "5571cf5",
   "readingOrder": [
     "promo.html",
     "kloktat_dehet_005.html",
@@ -35,8 +35,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 07:34:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655364893078
+    "date": "Thu Jun 16 2022 12:05:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655381121330
   },
   "documents": [
     {
@@ -475,7 +475,7 @@
   "totals": {
     "all": {
       "words": 69583,
-      "chars": 401913,
+      "chars": 401915,
       "ideas": 1866
     },
     "chapters": {

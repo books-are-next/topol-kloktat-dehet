@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   yearPublished: '2005'
   isbn: 80-7215-255-6
-  edition: poezie
+  edition: beletrie
 readingOrder:
   - promo.html
   - kloktat_dehet_005.html

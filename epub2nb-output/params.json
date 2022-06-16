@@ -11,7 +11,7 @@
       "publisherShort": "mkp",
       "yearPublished": "2005",
       "isbn": "80-7215-255-6",
-      "edition": "poezie"
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP_uroven1_cast\nMLP_uroven1_zvlastni_pripady\n",
@@ -587,6 +587,6 @@
       "user": "books-are-next",
       "repo": "topol-kloktat-dehet"
     },
-    "generatedAt": 1655364371159
+    "generatedAt": 1655381046845
   }
 }
