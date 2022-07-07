@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "topol-kloktat-dehet-53d408e",
-  "revision": "53d408e",
+  "identifier": "topol-kloktat-dehet-27ddf00",
+  "revision": "27ddf00",
   "readingOrder": [
     "promo.html",
     "kloktat_dehet_005.html",
@@ -32,11 +32,11 @@
     "kloktat_dehet_022.html",
     "kloktat_dehet_023.html",
     "kloktat_dehet_024.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:30:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980249549
+    "date": "Thu Jul 07 2022 08:41:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183281899
   },
   "documents": [
     {
@@ -440,7 +440,7 @@
       "role": "chapter",
       "order": 20,
       "prev": "kloktat_dehet_023.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -453,11 +453,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 144,
-      "chars": 930,
+      "chars": 929,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "kloktat_dehet_024.html",
       "next": null,
@@ -475,7 +475,7 @@
   "totals": {
     "all": {
       "words": 69583,
-      "chars": 401915,
+      "chars": 401914,
       "ideas": 1866
     },
     "chapters": {

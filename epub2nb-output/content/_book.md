@@ -37,7 +37,7 @@ readingOrder:
   - kloktat_dehet_022.html
   - kloktat_dehet_023.html
   - kloktat_dehet_024.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
