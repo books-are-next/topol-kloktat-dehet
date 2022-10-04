@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "topol-kloktat-dehet-7576314",
-  "revision": "7576314",
+  "identifier": "topol-kloktat-dehet-99eb940",
+  "revision": "99eb940",
   "readingOrder": [
     "promo.html",
     "kloktat_dehet_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:06:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640389533
+    "date": "Tue Oct 04 2022 16:54:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902482328
   },
   "documents": [
     {
@@ -454,9 +454,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 140,
+      "words": 137,
       "chars": 897,
-      "ideas": 17,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "kloktat_dehet_024.html",
@@ -474,9 +474,9 @@
   ],
   "totals": {
     "all": {
-      "words": 69579,
+      "words": 69576,
       "chars": 401882,
-      "ideas": 1865
+      "ideas": 1862
     },
     "chapters": {
       "words": 69433,
