@@ -13,7 +13,7 @@ meta:
   modified: '2022-03-14T00:00:00.000Z'
   publisherShort: mkp
   yearPublished: ''
-  isbn: ''
+  isbn: 978-80-274-2795-6
   edition: beletrie
 readingOrder:
   - promo.html
