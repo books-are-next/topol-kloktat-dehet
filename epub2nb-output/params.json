@@ -10,7 +10,7 @@
       "modified": "2022-03-14T00:00:00.000Z",
       "publisherShort": "mkp",
       "yearPublished": "",
-      "isbn": "",
+      "isbn": "978-80-274-2795-6",
       "edition": "beletrie"
     },
     "elements": {
@@ -589,6 +589,6 @@
       "user": "books-are-next",
       "repo": "topol-kloktat-dehet"
     },
-    "generatedAt": 1665415599553
+    "generatedAt": 1665767821369
   }
 }
