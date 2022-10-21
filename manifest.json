@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "topol-kloktat-dehet-8ad019f",
-  "revision": "8ad019f",
+  "identifier": "topol-kloktat-dehet-1005d3b",
+  "revision": "1005d3b",
   "readingOrder": [
     "promo.html",
     "kloktat_dehet_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 14 2022 17:18:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665767895642
+    "date": "Fri Oct 21 2022 11:46:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352817391
   },
   "documents": [
     {
